@@ -1,1 +1,1001 @@
-
+order_id,order_date,customer_name,email_address,phone,product,qty,unit_price,discount,total,status,shipping_address,city,state,zip,year,month,revenue
+2103,2024-12-31,Ronald Wilson,ronald.wilson@gmail.com,6555831603,Wireless Headphones,3,79.99,5.0,227.97,shipped,1616 Walnut Ln,San Jose,CA,95158,2024,12,239.96999999999997
+24551,2024-12-31,Unknown Customer,angela.cook@aol.com,8999903968,Ring Light,4,79.99,15.0,271.97,pending,7811 Aspen Ct,Indianapolis,IN,46210,2024,12,319.96
+5493,2024-12-31,Amy Lee,amy.lee@gmail.com,6447073923,Mouse Pad XL,1,24.99,15.0,21.24,refunded,1781 Walnut Ct,Denver,CO,80289,2024,12,24.99
+4165,2024-12-31,Timothy Mitchell,timothy.mitchell@gmail.com,9425945881,Wireless Mouse,4,39.99,0.0,159.96,pending,9991 Main Ave,Phoenix,AZ,85038,2024,12,159.96
+6037,2023-09-18,Carol Nelson,carol.nelson@yahoo.com,6786587057,Mechanical Keyboard,4,129.99,15.0,441.97,pending,5009 Birch Way,Atlanta,GA,30373,2023,9,519.96
+26687,2024-12-31,Eric Robinson,eric.robinson@gmail.com,9883122904,Gaming Headset,2,89.99,5.0,170.98,pending,4415 Cedar Way,Indianapolis,IN,46247,2024,12,179.98
+27332,2024-12-31,Paul Lewis,unknown@email.com,5557854271,Phone Stand,3,15.99,10.0,43.17,refunded,"""4786 Elm Ln, Apt 14""",Seattle,WA,98175,2024,12,47.97
+16832,2023-09-21,Gary Hernandez,gary.hernandez@yahoo.com,2568663943,Microphone,3,199.99,20.0,479.98,cancelled,"""5115 Maple St, Apt 7""",Boston,MA,2121,2023,9,599.97
+14493,2024-12-31,Michelle Moore,michelle.moore@gmail.com,2167757105,Monitor,4,299.99,0.0,1199.96,shipped,7621 Spruce Ct,Dallas,TX,75243,2024,12,1199.96
+2145,2024-12-31,Brian Adams,brian.adams@hotmail.com,7049265716,Phone Stand,2,15.99,5.0,30.38,shipped,7577 Spruce Ave,Portland,OR,97232,2024,12,31.98
+27943,2023-01-18,Linda Rogers,linda.rogers@outlook.com,6017708808,Ring Light,3,79.99,10.0,215.97,completed,8818 Birch Ln,Atlanta,GA,30371,2023,1,239.96999999999997
+19848,2024-12-30,Richard Davis,richard.davis@outlook.com,8126425268,Laptop Stand,1,45.0,10.0,40.5,refunded,7485 Maple Ln,Miami,FL,33151,2024,12,45.0
+11377,2024-12-31,Amanda Davis,amanda.davis@outlook.com,8593381713,Noise Cancelling Headphones,2,249.99,5.0,474.98,cancelled,7698 Spruce Rd,Miami,FL,33185,2024,12,499.98
+9207,2024-12-31,Joseph Allen,joseph.allen@hotmail.com,8417831351,Portable Charger,1,49.99,20.0,39.99,cancelled,5928 Spruce St,Boston,MA,2159,2024,12,49.99
+9634,2024-07-27,Jeffrey Stewart,jeffrey.stewart@yahoo.com,7195268764,Desk Lamp,2,34.99,20.0,55.98,completed,3561 Aspen Ln,Charlotte,NC,28280,2024,7,69.98
+23597,2024-05-10,John Morris,john.morris@yahoo.com,14283381884,"Laptop Sleeve 15""",3,29.99,5.0,85.47,pending,820 Walnut Ln,Miami,FL,33127,2024,5,89.97
+19396,2024-12-31,Linda Jackson,linda.jackson@hotmail.com,8332879270,Desk Lamp,3,34.99,0.0,104.97,completed,3833 Elm Way,Austin,TX,78727,2024,12,104.97
+23061,2024-12-31,Melissa Brown,melissa.brown@aol.com,18984023963,Webcam,1,89.99,10.0,80.99,shipped,9790 Maple Ln,Dallas,TX,75265,2024,12,89.99
+1646,2024-12-31,Richard Nguyen,richard.nguyen@outlook.com,12616617522,Blue Light Glasses,1,24.99,0.0,24.99,refunded,2751 Birch Rd,Nashville,TN,37294,2024,12,24.99
+18099,2024-12-31,Brenda Cook,brenda.cook@aol.com,3016364836,Ergonomic Chair,1,349.99,15.0,297.49,pending,6244 Pine Ave,Phoenix,AZ,85090,2024,12,349.99
+26926,2024-09-11,Karen Davis,karen.davis@hotmail.com,9247013098,Cable Management Kit,2,14.99,20.0,23.98,cancelled,1402 Elm Ct,Seattle,WA,98184,2024,9,29.98
+3416,2024-12-31,Robert Davis,robert.davis@icloud.com,13916632869,USB Hub 7-Port,4,34.99,15.0,118.97,completed,696 Main Ln,Minneapolis,MN,55469,2024,12,139.96
+21083,2024-12-31,Ruth Walker,ruth.walker@icloud.com,2725016813,Wireless Headphones,2,79.99,0.0,159.98,shipped,"""2566 Aspen Ct, Apt 18""",Las Vegas,NV,89113,2024,12,159.98
+19375,2024-12-31,Joseph Perez,joseph.perez@hotmail.com,4532287981,Microphone,4,199.99,5.0,759.96,cancelled,1227 Cedar Ct,Atlanta,GA,30384,2024,12,799.96
+27361,2024-12-31,George Smith,george.smith@icloud.com,2022873667,Mouse Pad XL,2,24.99,0.0,49.98,shipped,3312 Pine Ct,Atlanta,GA,30397,2024,12,49.98
+3805,2023-01-10,Kevin Collins,kevin.collins@outlook.com,2266018208,Microphone,1,199.99,15.0,169.99,pending,9529 Cedar Rd,Seattle,WA,98162,2023,1,199.99
+13968,2024-12-31,Nicholas Garcia,nicholas.garcia@icloud.com,8225392225,Phone Stand,3,15.99,15.0,40.77,pending,8972 Pine Way,Columbus,OH,43267,2024,12,47.97
+21946,2024-12-31,Angela Wright,angela.wright@outlook.com,7169687182,Laptop Cooler,2,39.99,20.0,63.98,refunded,"""2138 Main Ct, Apt 9""",Phoenix,AZ,85050,2024,12,79.98
+12739,2024-12-31,Dorothy Cook,dorothy.cook@outlook.com,5694989522,Cable Management Kit,1,14.99,15.0,12.74,completed,161 Birch Ave,Dallas,TX,75291,2024,12,14.99
+17743,2024-12-31,Jeffrey Reed,jeffrey.reed@aol.com,7807413193,Monitor,2,299.99,20.0,479.98,refunded,4368 Spruce Ct,Salt Lake City,UT,84188,2024,12,599.98
+10857,2023-08-11,Ashley Cook,ashley.cook@aol.com,9599028999,Phone Case,2,19.99,20.0,31.98,refunded,5185 Birch Way,Portland,OR,97272,2023,8,39.98
+5852,2024-08-10,Michael Taylor,michael.taylor@aol.com,7097885118,Laptop Cooler,4,39.99,0.0,159.96,refunded,4818 Elm Blvd,Boston,MA,2121,2024,8,159.96
+18341,2024-07-08,Emma Parker,emma.parker@yahoo.com,9503316730,Keyboard Wrist Rest,1,19.99,20.0,15.99,refunded,7829 Spruce Ln,Salt Lake City,UT,84170,2024,7,19.99
+13230,2024-12-31,Laura Young,laura.young@outlook.com,9649749119,Keyboard Wrist Rest,1,19.99,0.0,19.99,shipped,7537 Maple St,Atlanta,GA,30338,2024,12,19.99
+2622,2024-12-31,Paul Turner,paul.turner@hotmail.com,2482836483,Mouse Pad XL,1,24.99,0.0,24.99,refunded,5792 Spruce Ave,Nashville,TN,37239,2024,12,24.99
+26222,2024-12-31,Ashley Miller,ashley.miller@icloud.com,7004387459,Mouse Pad XL,1,24.99,0.0,24.99,completed,6136 Birch St,Boston,MA,2120,2024,12,24.99
+15201,2023-10-04,Anna Perez,unknown@email.com,4387592226,Cable Organizer,3,12.99,0.0,38.97,refunded,5472 Walnut Ln,Portland,OR,97227,2023,10,38.97
+19834,2024-12-04,Ruth Carter,ruth.carter@gmail.com,6095519042,Blue Light Glasses,4,24.99,5.0,94.96,refunded,1240 Spruce St,Miami,FL,33190,2024,12,99.96
+21155,2024-12-31,Susan Ramirez,susan.ramirez@icloud.com,12252397297,Wireless Headphones,4,79.99,0.0,319.96,pending,1497 Oak Ct,Charlotte,NC,28265,2024,12,319.96
+11007,2024-12-31,Emma Torres,emma.torres@aol.com,8603889264,USB-C Cable,1,12.49,15.0,10.62,shipped,"""4290 Walnut Rd, Apt 11""",Portland,OR,97252,2024,12,12.49
+20127,2024-12-31,Emma Davis,unknown@email.com,4298215740,Keyboard Wrist Rest,1,19.99,20.0,15.99,completed,9124 Main Way,Miami,FL,33161,2024,12,19.99
+12376,2023-09-17,Unknown Customer,brenda.lee@icloud.com,15539383374,"Laptop Sleeve 15""",1,29.99,0.0,29.99,shipped,2186 Maple Dr,Salt Lake City,UT,84157,2023,9,29.99
+11245,2024-12-31,Lisa Mitchell,lisa.mitchell@aol.com,,Wireless Headphones,3,79.99,0.0,239.97,cancelled,"""5425 Oak Blvd, Apt 17""",Phoenix,AZ,85072,2024,12,239.96999999999997
+8064,2024-12-31,Deborah Moore,unknown@email.com,2019449682,Portable Charger,1,49.99,15.0,42.49,pending,2207 Spruce Rd,Charlotte,NC,28262,2024,12,49.99
+5352,2024-12-31,Sarah Adams,sarah.adams@gmail.com,7074683096,4K Webcam,4,149.99,0.0,599.96,shipped,"""7953 Birch Ct, Apt 14""",Miami,FL,33131,2024,12,599.96
+15288,2024-12-31,Jessica Martin,jessica.martin@gmail.com,6612675655,Ring Light,3,79.99,20.0,191.98,shipped,5116 Main St,Boston,MA,2196,2024,12,239.96999999999997
+6740,2024-12-31,Pamela Hill,unknown@email.com,8978498813,Microphone,2,199.99,0.0,399.98,cancelled,5122 Main Dr,Portland,OR,97270,2024,12,399.98
+25128,2024-12-31,Richard Williams,richard.williams@gmail.com,,Monitor Arm,2,89.99,0.0,179.98,refunded,5807 Aspen St,Atlanta,GA,30339,2024,12,179.98
+16523,2024-12-31,Susan Torres,susan.torres@gmail.com,7775343998,Wireless Headphones,1,79.99,0.0,79.99,pending,"""193 Maple Way, Apt 14""",Minneapolis,MN,55419,2024,12,79.99
+20366,2024-12-31,Amy King,amy.king@hotmail.com,6635139049,Laptop Cooler,1,39.99,10.0,35.99,completed,5367 Spruce Ave,Denver,CO,80212,2024,12,39.99
+15228,2024-12-31,Karen Jones,karen.jones@gmail.com,3339466014,Webcam,3,89.99,20.0,215.98,shipped,1862 Spruce Way,Dallas,TX,75217,2024,12,269.96999999999997
+4835,2024-12-31,Unknown Customer,carol.wilson@hotmail.com,19338019050,Portable Charger,2,49.99,0.0,99.98,shipped,"""9752 Spruce Blvd, Apt 14""",Denver,CO,80293,2024,12,99.98
+19240,2024-12-31,Michelle Young,michelle.young@hotmail.com,2668371704,Streaming Mic Bundle,1,299.99,15.0,254.99,shipped,6636 Main Rd,Boston,MA,2144,2024,12,299.99
+22552,2024-12-31,Kevin Williams,kevin.williams@hotmail.com,14388712201,Ergonomic Chair,4,349.99,15.0,1189.97,shipped,3421 Maple Ct,Portland,OR,97226,2024,12,1399.96
+15426,2024-12-31,Karen Martin,karen.martin@gmail.com,19345242050,Keyboard Wrist Rest,1,19.99,15.0,16.99,cancelled,5943 Elm Ave,Portland,OR,97216,2024,12,19.99
+20625,2024-12-31,David Jackson,david.jackson@outlook.com,3584893743,Laptop Stand,2,45.0,0.0,90.0,cancelled,5190 Pine Rd,Atlanta,GA,30371,2024,12,90.0
+24383,2024-12-31,Gary Thomas,gary.thomas@icloud.com,5827338934,Wireless Headphones,2,79.99,5.0,151.98,shipped,5408 Oak Blvd,Salt Lake City,UT,84179,2024,12,159.98
+25573,2024-12-31,Gary Robinson,gary.robinson@gmail.com,19594287828,Monitor Arm,4,89.99,0.0,359.96,refunded,9068 Walnut Dr,San Diego,CA,92128,2024,12,359.96
+19425,2024-12-31,Mark Davis,mark.davis@hotmail.com,8634196782,Monitor,3,299.99,10.0,809.97,completed,"""6419 Birch Way, Apt 3""",Seattle,WA,98150,2024,12,899.97
+12008,2024-12-31,Linda Nelson,unknown@email.com,12388473421,Portable Charger,3,49.99,5.0,142.47,shipped,"""7526 Maple Blvd, Apt 1""",Denver,CO,80267,2024,12,149.97
+26333,2023-09-11,Brian Miller,brian.miller@hotmail.com,9834989282,Gaming Headset,3,89.99,5.0,256.47,shipped,1385 Maple St,Chicago,IL,60664,2023,9,269.96999999999997
+9403,2024-12-31,Linda Young,linda.young@yahoo.com,3493967349,USB-C Cable,1,12.49,0.0,12.49,completed,2975 Main Ct,Minneapolis,MN,55446,2024,12,12.49
+7564,2024-12-31,Patricia Turner,patricia.turner@gmail.com,3024084205,Monitor Arm,3,89.99,0.0,269.97,refunded,8131 Cedar Ct,Seattle,WA,98183,2024,12,269.96999999999997
+12785,2024-12-31,Mark Torres,mark.torres@hotmail.com,2447176343,Keyboard Wrist Rest,2,19.99,10.0,35.98,cancelled,2844 Cedar Ct,Nashville,TN,37224,2024,12,39.98
+3954,2024-12-31,William White,william.white@yahoo.com,2203966176,Wireless Headphones,3,79.99,20.0,191.98,shipped,4319 Main Ave,Austin,TX,78767,2024,12,239.96999999999997
+14717,2024-12-31,Jennifer Robinson,jennifer.robinson@hotmail.com,,Microphone,4,199.99,5.0,759.96,pending,1053 Walnut Ave,Las Vegas,NV,89160,2024,12,799.96
+1269,2024-12-31,Melissa Lewis,melissa.lewis@outlook.com,4904104818,Wireless Mouse,1,39.99,10.0,35.99,completed,9985 Walnut St,Nashville,TN,37233,2024,12,39.99
+7549,2024-12-31,Jessica Baker,jessica.baker@aol.com,6994524315,Standing Desk,3,599.99,5.0,1709.97,completed,1113 Spruce Ct,Denver,CO,80253,2024,12,1799.97
+12558,2024-12-31,Michelle Martin,michelle.martin@yahoo.com,7749321413,Wireless Headphones,4,79.99,0.0,319.96,cancelled,8832 Cedar Blvd,Dallas,TX,75225,2024,12,319.96
+22058,2024-12-31,Eric Smith,eric.smith@aol.com,5455287296,Keyboard Wrist Rest,3,19.99,10.0,53.97,shipped,5265 Cedar Dr,Charlotte,NC,28285,2024,12,59.97
+7482,2024-12-31,Jacob Martinez,jacob.martinez@yahoo.com,16633247565,Blue Light Glasses,1,24.99,20.0,19.99,shipped,8099 Elm St,Nashville,TN,37272,2024,12,24.99
+14267,2024-12-31,Jonathan Nguyen,jonathan.nguyen@gmail.com,5406537068,Laptop Cooler,3,39.99,20.0,95.98,pending,"""6012 Birch Blvd, Apt 18""",Miami,FL,33195,2024,12,119.97
+14502,2024-12-31,Unknown Customer,melissa.nelson@yahoo.com,7808597343,Wireless Headphones,3,79.99,20.0,191.98,shipped,"""6187 Pine Blvd, Apt 8""",Denver,CO,80217,2024,12,239.96999999999997
+19514,2024-02-09,Patricia Martinez,patricia.martinez@yahoo.com,4444445247,Mouse Pad XL,4,24.99,15.0,84.97,cancelled,4135 Cedar Ct,Philadelphia,PA,19119,2024,2,99.96
+26595,2024-12-31,Anna Martin,anna.martin@gmail.com,12577295195,USB Hub 7-Port,4,34.99,0.0,139.96,cancelled,3761 Elm Ave,Indianapolis,IN,46222,2024,12,139.96
+3115,2024-12-31,Ashley Torres,ashley.torres@outlook.com,4976425403,Webcam,3,89.99,5.0,256.47,cancelled,3520 Walnut St,Miami,FL,33140,2024,12,269.96999999999997
+5118,2024-12-31,Paul Evans,paul.evans@hotmail.com,17432502678,Blue Light Glasses,3,24.99,10.0,67.47,shipped,7182 Pine St,Chicago,IL,60621,2024,12,74.97
+23668,2024-12-31,Unknown Customer,brenda.thompson@icloud.com,Unknown,"Laptop Sleeve 15""",2,29.99,15.0,50.98,completed,4053 Spruce St,Columbus,OH,43248,2024,12,59.98
+22808,2024-12-31,Ruth Nguyen,ruth.nguyen@aol.com,4488425740,Wireless Headphones,2,79.99,5.0,151.98,cancelled,5742 Aspen Ln,Miami,FL,33197,2024,12,159.98
+1660,2024-12-31,Susan King,susan.king@icloud.com,6359028837,Webcam,1,89.99,0.0,89.99,refunded,3809 Walnut St,Salt Lake City,UT,84122,2024,12,89.99
+14318,2024-12-31,Anthony Harris,anthony.harris@aol.com,,HDMI Cable 6ft,1,9.99,5.0,9.49,refunded,6918 Pine Blvd,Austin,TX,78777,2024,12,9.99
+26921,2024-03-12,Amy Walker,amy.walker@gmail.com,7472007424,Keyboard Wrist Rest,1,19.99,0.0,19.99,completed,5524 Walnut Way,Charlotte,NC,28266,2024,3,19.99
+18644,2024-12-31,Sharon Young,sharon.young@aol.com,,Keyboard Wrist Rest,4,19.99,0.0,79.96,shipped,4768 Main Ave,Salt Lake City,UT,84184,2024,12,79.96
+26756,2024-12-31,Richard Williams,richard.williams@yahoo.com,6987118824,Noise Cancelling Headphones,4,249.99,10.0,899.96,shipped,6153 Maple Blvd,Denver,CO,80294,2024,12,999.96
+21942,2024-12-31,Paul Brown,paul.brown@gmail.com,17826119629,Smart Plug 4-Pack,2,29.99,5.0,56.98,shipped,6766 Spruce Rd,Philadelphia,PA,19186,2024,12,59.98
+26980,2023-06-01,John Adams,john.adams@yahoo.com,9553145167,Webcam,1,89.99,15.0,76.49,cancelled,6772 Cedar Ln,Minneapolis,MN,55432,2023,6,89.99
+20318,2023-02-01,Unknown Customer,jason.thomas@aol.com,15047668765,USB Hub 7-Port,2,34.99,15.0,59.48,cancelled,360 Cedar Ave,Charlotte,NC,28290,2023,2,69.98
+27341,2024-12-31,Ronald Davis,ronald.davis@outlook.com,3017883147,Portable Charger,2,49.99,20.0,79.98,completed,"""7689 Main Ln, Apt 1""",Boston,MA,2127,2024,12,99.98
+7899,2024-12-31,Jason Scott,jason.scott@yahoo.com,18372061967,Streaming Mic Bundle,4,299.99,20.0,959.97,completed,4642 Pine Dr,Atlanta,GA,30377,2024,12,1199.96
+26953,2024-12-31,Karen Nelson,karen.nelson@icloud.com,16503949438,Ring Light,1,79.99,0.0,79.99,completed,305 Birch Ln,Dallas,TX,75250,2024,12,79.99
+17488,2024-12-31,Ashley Lewis,unknown@email.com,8915937894,Ergonomic Chair,1,349.99,0.0,349.99,refunded,1526 Aspen Ln,Miami,FL,33121,2024,12,349.99
+27923,2024-12-31,Pamela Hernandez,pamela.hernandez@icloud.com,2472352755,Ring Light,4,79.99,0.0,319.96,pending,182 Elm Blvd,Phoenix,AZ,85024,2024,12,319.96
+11959,2024-12-31,Charles Martinez,charles.martinez@hotmail.com,3274284752,Cable Organizer,2,12.99,10.0,23.38,completed,437 Aspen St,Nashville,TN,37215,2024,12,25.98
+8734,2024-12-21,Amy Hill,amy.hill@hotmail.com,7615039652,Keyboard Wrist Rest,3,19.99,15.0,50.97,cancelled,4235 Pine Rd,Seattle,WA,98117,2024,12,59.97
+26051,2024-12-31,Unknown Customer,lisa.clark@hotmail.com,8392398494,Ergonomic Chair,2,349.99,10.0,629.98,shipped,3516 Pine Ln,Charlotte,NC,28264,2024,12,699.98
+6722,2024-12-31,Ryan Collins,ryan.collins@hotmail.com,6645345895,Mechanical Keyboard,2,129.99,10.0,233.98,refunded,2886 Oak Ct,Salt Lake City,UT,84150,2024,12,259.98
+22103,2024-12-31,Kevin Baker,kevin.baker@outlook.com,3404984288,Wireless Headphones,3,79.99,15.0,203.97,shipped,6210 Aspen Dr,Las Vegas,NV,89155,2024,12,239.96999999999997
+17127,2024-12-31,Matthew Torres,matthew.torres@outlook.com,19259682500,Keyboard Wrist Rest,1,19.99,20.0,15.99,refunded,6796 Walnut Ave,Chicago,IL,60658,2024,12,19.99
+18997,2024-12-31,Melissa Parker,unknown@email.com,9905633488,Phone Case,3,19.99,10.0,53.97,completed,567 Walnut Ave,San Diego,CA,92146,2024,12,59.97
+9942,2024-12-31,Kevin Ramirez,kevin.ramirez@yahoo.com,15893828398,USB Hub 7-Port,4,34.99,5.0,132.96,completed,9983 Maple Dr,Boston,MA,2117,2024,12,139.96
+23148,2024-12-31,Brian Sanchez,brian.sanchez@icloud.com,18324908638,Webcam,2,89.99,0.0,179.98,pending,149 Elm Dr,San Diego,CA,92149,2024,12,179.98
+6543,2024-12-31,Unknown Customer,barbara.cook@outlook.com,8373585290,Phone Stand,1,15.99,0.0,15.99,cancelled,1193 Oak Ct,Nashville,TN,37251,2024,12,15.99
+7199,2024-07-17,Dorothy Martinez,dorothy.martinez@yahoo.com,8516841913,Blue Light Glasses,2,24.99,5.0,47.48,cancelled,2934 Aspen Blvd,Denver,CO,80213,2024,7,49.98
+2793,2024-12-31,Jason Collins,jason.collins@gmail.com,6093997150,Mouse Pad XL,1,24.99,0.0,24.99,cancelled,2206 Maple Blvd,Columbus,OH,43259,2024,12,24.99
+8704,2024-12-31,Emily Anderson,emily.anderson@yahoo.com,16844035094,Blue Light Glasses,1,24.99,15.0,21.24,refunded,"""2265 Pine Ct, Apt 16""",Portland,OR,97221,2024,12,24.99
+25295,2024-12-31,Matthew Garcia,matthew.garcia@gmail.com,8887265491,Microphone,4,199.99,5.0,759.96,shipped,7449 Birch St,Boston,MA,2130,2024,12,799.96
+3963,2024-12-31,Dorothy Cook,dorothy.cook@hotmail.com,4684707671,Mouse Pad XL,1,24.99,5.0,23.74,cancelled,1158 Aspen Ave,Nashville,TN,37217,2024,12,24.99
+23459,2024-12-31,Gary Walker,gary.walker@gmail.com,8233762115,Microphone,1,199.99,0.0,199.99,shipped,5042 Walnut St,Seattle,WA,98127,2024,12,199.99
+16834,2024-12-31,Melissa Young,melissa.young@aol.com,15904158199,Laptop Stand,1,45.0,0.0,45.0,cancelled,1611 Elm Ln,Denver,CO,80255,2024,12,45.0
+12548,2023-07-01,John Martin,john.martin@hotmail.com,6278992465,Standing Desk,2,599.99,15.0,1019.98,cancelled,"""2997 Walnut St, Apt 1""",Atlanta,GA,30323,2023,7,1199.98
+6527,2024-12-31,Linda Garcia,linda.garcia@hotmail.com,8834995479,Portable Charger,2,49.99,20.0,79.98,completed,"""1346 Aspen Ln, Apt 5""",Salt Lake City,UT,84160,2024,12,99.98
+1985,2023-04-17,Patricia Adams,patricia.adams@outlook.com,8136873680,Standing Desk,1,599.99,5.0,569.99,cancelled,1014 Elm Dr,Minneapolis,MN,55442,2023,4,599.99
+7881,2024-12-31,Jonathan Collins,jonathan.collins@hotmail.com,8062329945,Phone Stand,3,15.99,0.0,47.97,cancelled,"""7721 Pine St, Apt 19""",Charlotte,NC,28273,2024,12,47.97
+7559,2024-12-31,Melissa Carter,unknown@email.com,4918533754,Wireless Mouse,1,39.99,0.0,39.99,cancelled,4292 Aspen Way,Phoenix,AZ,85082,2024,12,39.99
+11786,2024-12-31,Thomas Evans,thomas.evans@aol.com,9087634095,Mechanical Keyboard,2,129.99,20.0,207.98,cancelled,"""5418 Walnut Rd, Apt 8""",Salt Lake City,UT,84118,2024,12,259.98
+27188,2024-12-31,Deborah Baker,deborah.baker@yahoo.com,2952201789,Keyboard Wrist Rest,4,19.99,10.0,71.96,cancelled,1139 Aspen Rd,Seattle,WA,98166,2024,12,79.96
+1136,2023-10-19,George Wright,george.wright@hotmail.com,9578568145,Mechanical Keyboard,2,129.99,0.0,259.98,pending,5282 Birch Rd,Minneapolis,MN,55410,2023,10,259.98
+24371,2023-08-14,Sharon Hill,sharon.hill@icloud.com,8963061434,Webcam,4,89.99,5.0,341.96,shipped,8629 Birch Blvd,San Diego,CA,92163,2023,8,359.96
+15203,2024-12-31,Stephanie Moore,stephanie.moore@gmail.com,17018568272,Laptop Stand,1,45.0,0.0,45.0,shipped,712 Elm Rd,Denver,CO,80298,2024,12,45.0
+4061,2024-12-31,Michelle Hill,michelle.hill@icloud.com,9466526736,Mouse Pad XL,3,24.99,0.0,74.97,refunded,8034 Elm Ave,San Jose,CA,95189,2024,12,74.97
+17312,2024-12-31,Kevin Collins,kevin.collins@aol.com,6434922443,Keyboard Wrist Rest,2,19.99,15.0,33.98,pending,2681 Aspen Way,Indianapolis,IN,46288,2024,12,39.98
+7492,2024-12-31,Unknown Customer,jonathan.thomas@icloud.com,5673392563,Monitor Arm,1,89.99,0.0,89.99,pending,4220 Walnut St,Minneapolis,MN,55443,2024,12,89.99
+13000,2023-11-21,Barbara Moore,barbara.moore@gmail.com,3876304780,"Laptop Sleeve 15""",4,29.99,15.0,101.97,pending,1882 Maple Ct,Seattle,WA,98134,2023,11,119.96
+12697,2024-12-31,Ronald Thompson,unknown@email.com,16339474711,Cable Organizer,1,12.99,0.0,12.99,completed,4358 Oak Ave,Las Vegas,NV,89113,2024,12,12.99
+19172,2024-12-31,Ashley King,ashley.king@yahoo.com,19784306354,Keyboard Wrist Rest,1,19.99,10.0,17.99,completed,9856 Main Way,Las Vegas,NV,89181,2024,12,19.99
+4464,2024-01-02,Mark Miller,mark.miller@gmail.com,2213038532,Streaming Mic Bundle,3,299.99,10.0,809.97,cancelled,995 Maple Rd,Philadelphia,PA,19122,2024,1,899.97
+13138,2024-12-31,Nicholas Turner,nicholas.turner@aol.com,3753547711,Wireless Headphones,2,79.99,0.0,159.98,cancelled,2081 Walnut Blvd,Charlotte,NC,28296,2024,12,159.98
+19062,2024-12-31,Emily Scott,emily.scott@yahoo.com,4446081453,Standing Desk,2,599.99,0.0,1199.98,shipped,6481 Cedar Ln,Indianapolis,IN,46269,2024,12,1199.98
+18164,2024-12-31,Jennifer Brown,jennifer.brown@icloud.com,5132332391,HDMI Cable 6ft,4,9.99,20.0,31.97,completed,"""1328 Pine Ln, Apt 14""",Seattle,WA,98172,2024,12,39.96
+1959,2024-12-31,Laura Nelson,laura.nelson@outlook.com,7708274079,Portable Charger,1,49.99,5.0,47.49,refunded,2089 Birch Rd,San Jose,CA,95153,2024,12,49.99
+13557,2024-12-31,Linda Lee,linda.lee@outlook.com,6663298719,Blue Light Glasses,3,24.99,5.0,71.22,cancelled,"""7322 Maple St, Apt 16""",Philadelphia,PA,19184,2024,12,74.97
+6717,2024-12-31,Nicholas Perez,nicholas.perez@hotmail.com,Unknown,HDMI Cable 6ft,1,9.99,10.0,8.99,pending,"""3533 Cedar Dr, Apt 20""",San Diego,CA,92140,2024,12,9.99
+3826,2023-09-08,John Morris,john.morris@gmail.com,8479044430,Gaming Headset,1,89.99,0.0,89.99,completed,6941 Walnut Ln,Minneapolis,MN,55410,2023,9,89.99
+23638,2024-12-31,Daniel Garcia,daniel.garcia@yahoo.com,5573469987,Wireless Mouse,4,39.99,15.0,135.97,shipped,6427 Main Ave,San Jose,CA,95191,2024,12,159.96
+1501,2024-12-31,James Miller,james.miller@outlook.com,8987214909,4K Webcam,3,149.99,5.0,427.47,pending,1801 Main Way,Denver,CO,80237,2024,12,449.97
+12727,2024-12-31,Jeffrey Lewis,jeffrey.lewis@outlook.com,Unknown,"Laptop Sleeve 15""",2,29.99,0.0,59.98,refunded,8478 Maple Blvd,Portland,OR,97292,2024,12,59.98
+11125,2024-12-31,Eric Morris,eric.morris@aol.com,4108295597,Blue Light Glasses,4,24.99,0.0,99.96,cancelled,1777 Oak Ave,Las Vegas,NV,89190,2024,12,99.96
+15613,2024-10-17,Sharon Garcia,sharon.garcia@gmail.com,8473922531,Standing Desk,3,599.99,20.0,1439.98,cancelled,6573 Walnut Ave,Denver,CO,80224,2024,10,1799.97
+12634,2024-12-31,Nicholas Johnson,nicholas.johnson@yahoo.com,7836487311,Wireless Mouse,1,39.99,5.0,37.99,cancelled,4263 Pine Ave,Philadelphia,PA,19129,2024,12,39.99
+17867,2024-12-31,Thomas Moore,thomas.moore@hotmail.com,9894828355,Wireless Mouse,1,39.99,10.0,35.99,cancelled,6012 Oak St,Atlanta,GA,30345,2024,12,39.99
+1425,2024-12-31,David Anderson,david.anderson@hotmail.com,15943065815,Laptop Stand,2,45.0,10.0,81.0,shipped,"""9897 Birch Blvd, Apt 5""",Austin,TX,78753,2024,12,90.0
+4514,2023-04-04,Charles Morris,charles.morris@outlook.com,2963713557,Cable Organizer,4,12.99,5.0,49.36,pending,2803 Spruce Ln,Indianapolis,IN,46298,2023,4,51.96
+1673,2024-10-11,Robert Brown,robert.brown@icloud.com,4093873907,Streaming Mic Bundle,3,299.99,0.0,899.97,pending,9242 Walnut Rd,Salt Lake City,UT,84159,2024,10,899.97
+27561,2024-12-31,Michelle Wilson,michelle.wilson@gmail.com,4268663644,Monitor,4,299.99,15.0,1019.97,shipped,1891 Birch Dr,Philadelphia,PA,19175,2024,12,1199.96
+3296,2024-12-31,Unknown Customer,n/a@placeholder.com,2572105689,"Laptop Sleeve 15""",2,29.99,0.0,59.98,completed,7534 Cedar Ln,Denver,CO,80249,2024,12,59.98
+11826,2024-12-31,Linda Mitchell,linda.mitchell@outlook.com,9983443826,Webcam,1,89.99,0.0,89.99,cancelled,6969 Spruce Ave,San Diego,CA,92134,2024,12,89.99
+19152,2023-08-23,Nicholas Lee,nicholas.lee@aol.com,14887696186,Mechanical Keyboard,1,129.99,10.0,116.99,completed,4000 Elm Blvd,Minneapolis,MN,55487,2023,8,129.99
+11877,2024-12-31,Melissa Mitchell,melissa.mitchell@yahoo.com,17203727671,Phone Case,3,19.99,20.0,47.98,shipped,5865 Elm Ln,Nashville,TN,37278,2024,12,59.97
+18778,2024-12-31,Timothy Parker,timothy.parker@aol.com,2179981431,HDMI Cable 6ft,3,9.99,15.0,25.47,cancelled,2923 Main Ln,Portland,OR,97272,2024,12,29.97
+15467,2024-12-31,William Brown,william.brown@outlook.com,8567531944,Gaming Headset,2,89.99,0.0,179.98,cancelled,4161 Birch Ln,Miami,FL,33176,2024,12,179.98
+20943,2024-12-31,Ruth Smith,ruth.smith@aol.com,3196035345,Phone Case,3,19.99,20.0,47.98,pending,3416 Maple St,Miami,FL,33170,2024,12,59.97
+19094,2024-12-31,Richard Baker,richard.baker@gmail.com,5028561767,Standing Desk,3,599.99,10.0,1619.97,shipped,8133 Elm Dr,Chicago,IL,60626,2024,12,1799.97
+19863,2023-07-04,Anna Thomas,anna.thomas@hotmail.com,9372937874,Desk Lamp,2,34.99,15.0,59.48,completed,7217 Pine Ct,San Jose,CA,95115,2023,7,69.98
+18817,2023-06-14,Ronald Clark,ronald.clark@yahoo.com,6319019270,Webcam,2,89.99,0.0,179.98,pending,2770 Main Ave,Phoenix,AZ,85067,2023,6,179.98
+2551,2024-05-03,Michelle Turner,michelle.turner@yahoo.com,2275861377,USB Hub 7-Port,4,34.99,0.0,139.96,pending,3278 Pine Ct,Philadelphia,PA,19167,2024,5,139.96
+20302,2024-12-31,Jeffrey Rogers,jeffrey.rogers@yahoo.com,7375628451,Ergonomic Chair,2,349.99,15.0,594.98,refunded,2773 Spruce St,San Diego,CA,92134,2024,12,699.98
+24458,2024-12-31,Ashley Parker,ashley.parker@yahoo.com,2108098425,Monitor,4,299.99,10.0,1079.96,completed,3972 Birch Ave,San Jose,CA,95164,2024,12,1199.96
+18025,2024-12-31,Jonathan Thomas,unknown@email.com,4292762479,Smart Plug 4-Pack,4,29.99,0.0,119.96,cancelled,1630 Pine Ave,Portland,OR,97283,2024,12,119.96
+3972,2024-11-11,Sharon Smith,sharon.smith@yahoo.com,15453679492,Laptop Stand,4,45.0,0.0,180.0,pending,7235 Spruce Ln,Las Vegas,NV,89167,2024,11,180.0
+18386,2024-12-31,Anna Evans,anna.evans@hotmail.com,5069077225,Monitor Arm,4,89.99,20.0,287.97,completed,2142 Spruce Ave,Nashville,TN,37249,2024,12,359.96
+27019,2024-12-31,Jason Rogers,jason.rogers@outlook.com,8999666848,Desk Lamp,1,34.99,0.0,34.99,pending,3262 Elm Ct,Austin,TX,78796,2024,12,34.99
+18785,2024-12-31,Donald Martin,donald.martin@outlook.com,2608645921,Mouse Pad XL,4,24.99,0.0,99.96,refunded,1257 Birch Way,Nashville,TN,37219,2024,12,99.96
+11369,2024-01-02,Ruth Parker,ruth.parker@hotmail.com,19276987528,Phone Case,2,19.99,5.0,37.98,cancelled,8349 Spruce Blvd,Boston,MA,2155,2024,1,39.98
+5875,2024-12-31,David Torres,david.torres@outlook.com,,Keyboard Wrist Rest,1,19.99,0.0,19.99,completed,3721 Walnut Way,Salt Lake City,UT,84132,2024,12,19.99
+18503,2024-12-31,Sharon Sanchez,sharon.sanchez@aol.com,18536826071,Monitor,1,299.99,0.0,299.99,pending,"""3615 Aspen St, Apt 18""",Nashville,TN,37229,2024,12,299.99
+14607,2024-12-31,Kevin Miller,kevin.miller@aol.com,7264937989,Wireless Mouse,2,39.99,10.0,71.98,refunded,4864 Spruce Blvd,Dallas,TX,75228,2024,12,79.98
+11458,2024-12-31,Rebecca Turner,rebecca.turner@outlook.com,7307983982,USB-C Cable,3,12.49,15.0,31.85,completed,5520 Maple Rd,San Diego,CA,92188,2024,12,37.47
+16898,2024-12-31,Amanda Smith,amanda.smith@outlook.com,9113367192,Desk Lamp,2,34.99,0.0,69.98,cancelled,1827 Aspen St,San Diego,CA,92133,2024,12,69.98
+24969,2023-11-12,Karen Thompson,karen.thompson@outlook.com,9942958442,Desk Lamp,3,34.99,0.0,104.97,cancelled,4831 Birch Ct,Indianapolis,IN,46286,2023,11,104.97
+7182,2023-06-24,Sharon Johnson,sharon.johnson@outlook.com,18958658861,Microphone,3,199.99,0.0,599.97,refunded,4468 Main Rd,Boston,MA,2190,2023,6,599.97
+1327,2024-12-31,Ronald Lewis,ronald.lewis@gmail.com,2952268166,Ring Light,2,79.99,15.0,135.98,completed,9552 Birch Blvd,Columbus,OH,43280,2024,12,159.98
+22452,2024-12-31,George Scott,george.scott@yahoo.com,9732794110,Mechanical Keyboard,1,129.99,15.0,110.49,completed,2485 Aspen Way,Columbus,OH,43229,2024,12,129.99
+10509,2024-12-31,Emma Mitchell,emma.mitchell@icloud.com,5556134340,"Laptop Sleeve 15""",1,29.99,5.0,28.49,completed,5215 Birch St,Portland,OR,97238,2024,12,29.99
+23420,2024-12-31,Jeffrey Garcia,jeffrey.garcia@icloud.com,3598875632,Laptop Stand,4,45.0,15.0,153.0,completed,2406 Pine Ct,Columbus,OH,43281,2024,12,180.0
+21732,2024-12-31,Unknown Customer,n/a@placeholder.com,14552748470,4K Webcam,4,149.99,10.0,539.96,pending,1147 Pine Way,Phoenix,AZ,85074,2024,12,599.96
+3445,2024-12-31,James Lewis,james.lewis@outlook.com,19572972690,Smart Plug 4-Pack,3,29.99,10.0,80.97,refunded,8296 Cedar Ln,Phoenix,AZ,85024,2024,12,89.97
+26444,2024-12-31,Matthew Carter,matthew.carter@icloud.com,8422437332,Standing Desk,4,599.99,15.0,2039.97,cancelled,9299 Elm Ave,Denver,CO,80281,2024,12,2399.96
+27398,2024-12-31,Emma Wright,emma.wright@icloud.com,4247872258,Laptop Stand,1,45.0,20.0,36.0,cancelled,8122 Aspen Ave,Portland,OR,97253,2024,12,45.0
+20259,2024-12-31,John Stewart,john.stewart@outlook.com,7732203612,HDMI Cable 6ft,3,9.99,20.0,23.98,pending,2742 Main Ln,Portland,OR,97261,2024,12,29.97
+6925,2024-12-31,Unknown Customer,linda.harris@icloud.com,3102663092,Gaming Headset,2,89.99,0.0,179.98,shipped,1848 Walnut Ln,Phoenix,AZ,85023,2024,12,179.98
+4598,2024-12-31,James Hill,james.hill@outlook.com,9352904285,Keyboard Wrist Rest,2,19.99,5.0,37.98,pending,1473 Pine Ave,Charlotte,NC,28240,2024,12,39.98
+21905,2024-12-31,Brian Torres,brian.torres@outlook.com,16669794760,Laptop Cooler,3,39.99,5.0,113.97,completed,8198 Oak Ave,Atlanta,GA,30376,2024,12,119.97
+11060,2024-12-31,Ronald Williams,ronald.williams@gmail.com,7746761010,Ergonomic Chair,4,349.99,5.0,1329.96,completed,3940 Pine Blvd,Austin,TX,78741,2024,12,1399.96
+27232,2023-10-16,Emily Evans,emily.evans@icloud.com,17784893891,HDMI Cable 6ft,1,9.99,15.0,8.49,cancelled,"""1002 Cedar Ct, Apt 9""",Salt Lake City,UT,84156,2023,10,9.99
+22537,2024-12-31,David Smith,david.smith@outlook.com,3528946282,Webcam,1,89.99,0.0,89.99,pending,6441 Main Dr,Boston,MA,2190,2024,12,89.99
+4687,2024-12-31,Jennifer Reed,jennifer.reed@yahoo.com,5155959637,"Laptop Sleeve 15""",3,29.99,20.0,71.98,shipped,1593 Spruce Ln,Seattle,WA,98125,2024,12,89.97
+25672,2024-12-31,Jeffrey White,jeffrey.white@gmail.com,,Monitor Arm,2,89.99,0.0,179.98,shipped,6686 Spruce Ave,Charlotte,NC,28238,2024,12,179.98
+18178,2024-12-31,Carol Martinez,carol.martinez@hotmail.com,7993123796,Keyboard Wrist Rest,4,19.99,10.0,71.96,shipped,6484 Spruce Ct,Seattle,WA,98172,2024,12,79.96
+24808,2024-12-31,Daniel Hernandez,daniel.hernandez@outlook.com,2328855038,"Laptop Sleeve 15""",1,29.99,10.0,26.99,cancelled,9340 Oak Blvd,Phoenix,AZ,85094,2024,12,29.99
+24291,2024-05-06,Daniel Parker,daniel.parker@hotmail.com,5154705575,Mouse Pad XL,3,24.99,15.0,63.72,shipped,807 Birch Dr,Minneapolis,MN,55456,2024,5,74.97
+11250,2024-12-31,Jeffrey Perez,jeffrey.perez@gmail.com,7438226305,Phone Case,2,19.99,0.0,39.98,pending,1845 Aspen Ln,Boston,MA,2128,2024,12,39.98
+6783,2024-10-21,Edward Allen,edward.allen@hotmail.com,,Cable Organizer,3,12.99,0.0,38.97,pending,2343 Spruce Ln,Portland,OR,97210,2024,10,38.97
+3308,2024-12-31,Amanda Nguyen,amanda.nguyen@aol.com,8954092780,4K Webcam,2,149.99,5.0,284.98,shipped,5007 Pine Ave,San Jose,CA,95178,2024,12,299.98
+14281,2024-02-12,Unknown Customer,sharon.jones@gmail.com,5555905390,Webcam,2,89.99,0.0,179.98,shipped,8340 Cedar Rd,Portland,OR,97256,2024,2,179.98
+11657,2024-12-31,William White,william.white@gmail.com,9348702825,USB Hub 7-Port,3,34.99,10.0,94.47,refunded,5367 Oak Dr,Seattle,WA,98131,2024,12,104.97
+11512,2024-12-31,Angela Hill,angela.hill@gmail.com,2334174858,Phone Stand,3,15.99,0.0,47.97,refunded,6630 Maple Dr,Charlotte,NC,28282,2024,12,47.97
+12618,2024-12-31,Anna Turner,anna.turner@hotmail.com,7964807468,Smart Plug 4-Pack,4,29.99,20.0,95.97,cancelled,3399 Walnut Ln,Portland,OR,97272,2024,12,119.96
+5263,2024-12-31,Lisa Sanchez,lisa.sanchez@outlook.com,15778863008,Gaming Headset,1,89.99,5.0,85.49,refunded,9760 Walnut Ave,Boston,MA,2131,2024,12,89.99
+2646,2024-12-31,Daniel Collins,unknown@email.com,3572023532,"Laptop Sleeve 15""",3,29.99,0.0,89.97,cancelled,5348 Maple Way,Minneapolis,MN,55473,2024,12,89.97
+15534,2023-02-24,Daniel King,daniel.king@hotmail.com,19305242462,Webcam,4,89.99,0.0,359.96,cancelled,782 Cedar Way,Dallas,TX,75254,2023,2,359.96
+8470,2024-12-31,Pamela Williams,pamela.williams@icloud.com,15273406373,USB-C Cable,4,12.49,10.0,44.96,shipped,1935 Birch Ct,Chicago,IL,60650,2024,12,49.96
+11595,2024-12-31,Kevin Young,kevin.young@outlook.com,9298613294,Laptop Cooler,1,39.99,0.0,39.99,shipped,608 Spruce Blvd,Philadelphia,PA,19150,2024,12,39.99
+20363,2023-11-17,Timothy Young,timothy.young@outlook.com,9493983990,Cable Organizer,3,12.99,20.0,31.18,refunded,7283 Walnut Way,Seattle,WA,98163,2023,11,38.97
+22934,2024-12-31,Gary Stewart,gary.stewart@hotmail.com,7269351449,Mechanical Keyboard,2,129.99,5.0,246.98,shipped,2640 Maple Way,Dallas,TX,75223,2024,12,259.98
+9089,2024-12-31,Pamela Harris,pamela.harris@outlook.com,14998233402,Laptop Cooler,1,39.99,15.0,33.99,shipped,1897 Birch Ct,Minneapolis,MN,55490,2024,12,39.99
+9673,2024-12-31,Michelle Williams,michelle.williams@yahoo.com,Unknown,Mechanical Keyboard,2,129.99,5.0,246.98,shipped,8561 Elm Ave,Seattle,WA,98179,2024,12,259.98
+12312,2024-12-31,Brenda Anderson,brenda.anderson@outlook.com,6745068587,4K Webcam,1,149.99,20.0,119.99,refunded,9294 Walnut Blvd,Charlotte,NC,28256,2024,12,149.99
+13779,2024-12-31,Jason Jones,jason.jones@icloud.com,16447158907,Mouse Pad XL,4,24.99,15.0,84.97,completed,6582 Maple St,Boston,MA,2115,2024,12,99.96
+14734,2024-12-31,Karen Carter,unknown@email.com,6769214599,Portable Charger,4,49.99,0.0,199.96,refunded,5508 Cedar Ct,Indianapolis,IN,46274,2024,12,199.96
+22112,2024-12-31,Jennifer Torres,jennifer.torres@gmail.com,6079792818,Laptop Cooler,3,39.99,0.0,119.97,pending,2894 Main Ave,Boston,MA,2123,2024,12,119.97
+6859,2024-12-31,Kevin Hill,kevin.hill@icloud.com,6795912662,Desk Lamp,3,34.99,0.0,104.97,refunded,3502 Birch Dr,Boston,MA,2154,2024,12,104.97
+26198,2024-12-31,Linda Jones,linda.jones@yahoo.com,8846084935,Monitor,1,299.99,20.0,239.99,completed,545 Oak Ln,San Diego,CA,92172,2024,12,299.99
+15666,2024-12-31,Ryan Williams,ryan.williams@icloud.com,,Wireless Headphones,3,79.99,0.0,239.97,completed,1712 Oak Way,Seattle,WA,98182,2024,12,239.96999999999997
+14997,2024-12-31,Amanda Turner,amanda.turner@yahoo.com,8853493779,Ring Light,4,79.99,15.0,271.97,refunded,4697 Elm Dr,San Diego,CA,92151,2024,12,319.96
+23515,2024-12-31,Lisa Allen,lisa.allen@gmail.com,2652353505,Gaming Headset,2,89.99,0.0,179.98,cancelled,2448 Oak Ave,Seattle,WA,98126,2024,12,179.98
+10012,2024-12-31,Pamela Morris,pamela.morris@gmail.com,8875672584,4K Webcam,2,149.99,0.0,299.98,shipped,"""2918 Oak St, Apt 9""",San Jose,CA,95132,2024,12,299.98
+26309,2024-12-31,Jonathan Anderson,unknown@email.com,7732334194,Cable Organizer,3,12.99,20.0,31.18,completed,7588 Maple Ct,Chicago,IL,60628,2024,12,38.97
+2215,2024-12-31,Ruth White,ruth.white@hotmail.com,12734244392,Phone Stand,4,15.99,0.0,63.96,shipped,331 Cedar Ln,Philadelphia,PA,19150,2024,12,63.96
+14894,2024-12-31,Stephanie Lee,stephanie.lee@gmail.com,6114414250,Monitor,3,299.99,15.0,764.97,cancelled,6923 Main Ave,Philadelphia,PA,19192,2024,12,899.97
+24528,2024-12-31,Anna Carter,anna.carter@aol.com,4354079672,"Laptop Sleeve 15""",3,29.99,0.0,89.97,pending,5307 Main St,Denver,CO,80290,2024,12,89.97
+27992,2024-12-31,Unknown Customer,lisa.thomas@outlook.com,2563435914,Desk Lamp,3,34.99,20.0,83.98,refunded,2549 Aspen Ave,Denver,CO,80223,2024,12,104.97
+20922,2024-12-31,Paul Martinez,paul.martinez@gmail.com,12559643284,Ergonomic Chair,2,349.99,10.0,629.98,pending,9404 Aspen Rd,Salt Lake City,UT,84132,2024,12,699.98
+1066,2024-12-31,Susan Williams,susan.williams@outlook.com,9486695215,Monitor,3,299.99,0.0,899.97,pending,2298 Spruce Way,Salt Lake City,UT,84144,2024,12,899.97
+6008,2023-08-11,Stephanie Davis,stephanie.davis@icloud.com,7307672416,USB Hub 7-Port,3,34.99,0.0,104.97,pending,4134 Walnut Rd,Minneapolis,MN,55470,2023,8,104.97
+27897,2024-06-09,Ashley Reed,ashley.reed@yahoo.com,13519177818,Keyboard Wrist Rest,2,19.99,5.0,37.98,shipped,3585 Spruce Ave,Nashville,TN,37281,2024,6,39.98
+26399,2024-12-31,Jason Morris,jason.morris@aol.com,2697948790,Cable Management Kit,3,14.99,10.0,40.47,shipped,3849 Aspen Blvd,Charlotte,NC,28220,2024,12,44.97
+11887,2024-12-31,Brian Baker,brian.baker@icloud.com,16754192474,Mouse Pad XL,3,24.99,0.0,74.97,refunded,4101 Main Way,Chicago,IL,60639,2024,12,74.97
+15923,2024-12-31,Jennifer Carter,jennifer.carter@aol.com,7182648776,Gaming Headset,4,89.99,5.0,341.96,pending,3539 Cedar Dr,Las Vegas,NV,89121,2024,12,359.96
+22876,2024-12-31,Emma Baker,emma.baker@icloud.com,4294171329,Portable Charger,1,49.99,0.0,49.99,pending,6514 Main St,Minneapolis,MN,55447,2024,12,49.99
+11627,2024-12-31,Ronald Wright,ronald.wright@aol.com,3585745883,Laptop Cooler,4,39.99,0.0,159.96,pending,2477 Walnut Dr,Seattle,WA,98118,2024,12,159.96
+19197,2024-03-13,Brenda Anderson,brenda.anderson@icloud.com,5353837637,USB-C Cable,2,12.49,5.0,23.73,refunded,7294 Birch Ave,Portland,OR,97290,2024,3,24.98
+8668,2024-12-31,Susan Robinson,susan.robinson@icloud.com,,Cable Management Kit,2,14.99,0.0,29.98,shipped,5602 Maple Ct,Boston,MA,2197,2024,12,29.98
+15418,2024-12-31,Matthew Rogers,matthew.rogers@yahoo.com,7094323790,Desk Lamp,4,34.99,5.0,132.96,shipped,"""1700 Main Rd, Apt 16""",Philadelphia,PA,19160,2024,12,139.96
+24072,2024-12-31,Edward Turner,edward.turner@icloud.com,9617514445,Wireless Headphones,3,79.99,0.0,239.97,cancelled,7140 Pine Ave,Atlanta,GA,30321,2024,12,239.96999999999997
+24366,2024-12-31,Anna King,anna.king@aol.com,17745915498,"Laptop Sleeve 15""",1,29.99,15.0,25.49,shipped,893 Aspen Ct,Seattle,WA,98139,2024,12,29.99
+7927,2024-12-31,Timothy Turner,timothy.turner@outlook.com,7322435153,Mechanical Keyboard,2,129.99,10.0,233.98,completed,8337 Elm Rd,Salt Lake City,UT,84125,2024,12,259.98
+10508,2024-12-31,Linda Garcia,linda.garcia@gmail.com,7816004025,Ring Light,3,79.99,10.0,215.97,cancelled,1396 Spruce Rd,Dallas,TX,75255,2024,12,239.96999999999997
+12756,2024-12-31,Laura Rogers,laura.rogers@outlook.com,6023334881,Streaming Mic Bundle,3,299.99,0.0,899.97,cancelled,4555 Pine Rd,Seattle,WA,98155,2024,12,899.97
+11136,2024-12-31,Karen Jones,karen.jones@outlook.com,2214759990,HDMI Cable 6ft,2,9.99,10.0,17.98,shipped,9930 Oak Blvd,Las Vegas,NV,89143,2024,12,19.98
+12059,2024-03-09,Ashley Jackson,ashley.jackson@outlook.com,9354845303,Ergonomic Chair,2,349.99,0.0,699.98,shipped,1194 Oak Ct,Portland,OR,97212,2024,3,699.98
+22549,2024-12-31,Sharon Parker,sharon.parker@outlook.com,6156412496,Blue Light Glasses,3,24.99,0.0,74.97,completed,2591 Elm Rd,Las Vegas,NV,89150,2024,12,74.97
+17477,2024-12-31,Jennifer Nguyen,jennifer.nguyen@aol.com,4206187952,Streaming Mic Bundle,4,299.99,15.0,1019.97,cancelled,3057 Pine Ave,San Jose,CA,95137,2024,12,1199.96
+11113,2024-12-31,Sharon Clark,sharon.clark@aol.com,8756886647,Mouse Pad XL,2,24.99,15.0,42.48,cancelled,2061 Aspen Way,San Diego,CA,92131,2024,12,49.98
+2876,2024-12-31,William Stewart,william.stewart@outlook.com,9489174643,Ergonomic Chair,3,349.99,0.0,1049.97,cancelled,4599 Aspen Way,San Jose,CA,95119,2024,12,1049.97
+21209,2024-11-26,Jacob Garcia,jacob.garcia@outlook.com,2459173885,"Laptop Sleeve 15""",4,29.99,10.0,107.96,completed,1992 Cedar Way,Las Vegas,NV,89178,2024,11,119.96
+13028,2024-12-31,Patricia King,patricia.king@gmail.com,9429582142,Gaming Headset,1,89.99,10.0,80.99,pending,794 Spruce Blvd,Nashville,TN,37246,2024,12,89.99
+5181,2024-12-31,Daniel White,daniel.white@outlook.com,Unknown,4K Webcam,3,149.99,20.0,359.98,refunded,5120 Birch Blvd,Chicago,IL,60639,2024,12,449.97
+17215,2023-11-03,Anthony King,anthony.king@yahoo.com,2137315444,Streaming Mic Bundle,4,299.99,20.0,959.97,shipped,"""4196 Spruce Ct, Apt 13""",Miami,FL,33140,2023,11,1199.96
+10944,2024-12-31,Joseph Collins,joseph.collins@outlook.com,9448461567,4K Webcam,4,149.99,10.0,539.96,cancelled,534 Aspen Dr,Portland,OR,97250,2024,12,599.96
+27250,2024-07-03,Laura Taylor,laura.taylor@aol.com,4886223704,Monitor Arm,4,89.99,15.0,305.97,completed,1117 Birch Rd,Seattle,WA,98187,2024,7,359.96
+8656,2024-12-31,Emily Carter,emily.carter@outlook.com,4865679042,USB Hub 7-Port,2,34.99,0.0,69.98,completed,4112 Pine Ct,Chicago,IL,60697,2024,12,69.98
+9045,2024-12-31,Sharon Turner,sharon.turner@yahoo.com,9076176643,Ergonomic Chair,2,349.99,5.0,664.98,pending,"""4317 Main Ln, Apt 3""",Atlanta,GA,30331,2024,12,699.98
+24976,2024-12-31,Jason Taylor,jason.taylor@aol.com,2012302812,Blue Light Glasses,3,24.99,10.0,67.47,completed,8048 Birch Ln,Seattle,WA,98152,2024,12,74.97
+26310,2024-12-31,Anna Thomas,anna.thomas@gmail.com,7617272761,Noise Cancelling Headphones,1,249.99,10.0,224.99,completed,266 Pine Dr,Las Vegas,NV,89193,2024,12,249.99
+15894,2024-02-23,Brenda Martin,brenda.martin@aol.com,4919399536,Phone Stand,2,15.99,15.0,27.18,completed,828 Maple St,Denver,CO,80238,2024,2,31.98
+25915,2024-12-31,Carol Carter,carol.carter@hotmail.com,7166539034,Ring Light,2,79.99,10.0,143.98,cancelled,8995 Oak St,Minneapolis,MN,55410,2024,12,159.98
+19432,2024-12-31,Ashley Garcia,ashley.garcia@icloud.com,9766267482,Wireless Headphones,4,79.99,0.0,319.96,pending,3117 Main Blvd,Dallas,TX,75294,2024,12,319.96
+1900,2024-12-31,Jeffrey Wright,jeffrey.wright@gmail.com,8445404378,Standing Desk,3,599.99,0.0,1799.97,pending,8038 Maple Ct,Minneapolis,MN,55491,2024,12,1799.97
+17715,2024-12-31,Donald Robinson,donald.robinson@hotmail.com,6972554010,Blue Light Glasses,4,24.99,10.0,89.96,pending,5421 Maple Ave,Salt Lake City,UT,84172,2024,12,99.96
+13635,2024-12-31,Brian Evans,brian.evans@outlook.com,5356703226,Blue Light Glasses,1,24.99,0.0,24.99,cancelled,2602 Aspen Ln,Las Vegas,NV,89144,2024,12,24.99
+7890,2024-12-31,Patricia Jackson,patricia.jackson@yahoo.com,6088362191,Streaming Mic Bundle,2,299.99,0.0,599.98,pending,7662 Spruce Ln,San Diego,CA,92149,2024,12,599.98
+16818,2024-12-31,John Moore,john.moore@icloud.com,5277249121,Wireless Headphones,1,79.99,15.0,67.99,refunded,"""937 Maple Ct, Apt 1""",Philadelphia,PA,19194,2024,12,79.99
+14627,2024-12-31,Nicholas Hill,nicholas.hill@icloud.com,2729466345,Laptop Stand,4,45.0,10.0,162.0,completed,9661 Birch Blvd,Charlotte,NC,28212,2024,12,180.0
+7489,2023-01-13,Ashley Stewart,ashley.stewart@aol.com,7799134633,Ergonomic Chair,4,349.99,20.0,1119.97,refunded,4013 Birch Ave,Nashville,TN,37247,2023,1,1399.96
+24887,2024-12-31,Ryan Thomas,ryan.thomas@icloud.com,8383476401,Wireless Headphones,4,79.99,0.0,319.96,cancelled,3565 Maple Way,Austin,TX,78775,2024,12,319.96
+10526,2024-12-31,James Mitchell,james.mitchell@gmail.com,2636911585,Smart Plug 4-Pack,4,29.99,15.0,101.97,pending,"""7948 Cedar Dr, Apt 14""",Denver,CO,80227,2024,12,119.96
+25417,2023-11-06,Charles Moore,charles.moore@aol.com,4296454434,4K Webcam,3,149.99,15.0,382.47,cancelled,5756 Maple Rd,Boston,MA,2135,2023,11,449.97
+17166,2024-12-31,Amy Taylor,amy.taylor@hotmail.com,5618856145,Ring Light,4,79.99,0.0,319.96,cancelled,7919 Oak Ct,Portland,OR,97250,2024,12,319.96
+16770,2024-12-31,Jeffrey Lewis,jeffrey.lewis@yahoo.com,2945826785,Cable Management Kit,4,14.99,10.0,53.96,cancelled,8684 Elm Way,Denver,CO,80283,2024,12,59.96
+15814,2024-12-31,Melissa Stewart,melissa.stewart@gmail.com,14172125999,Noise Cancelling Headphones,3,249.99,0.0,749.97,refunded,9880 Elm Blvd,Atlanta,GA,30314,2024,12,749.97
+23685,2024-12-31,John Baker,john.baker@icloud.com,2884709595,Mouse Pad XL,3,24.99,20.0,59.98,cancelled,"""4224 Spruce Ave, Apt 20""",San Diego,CA,92147,2024,12,74.97
+17626,2024-12-31,Karen Clark,karen.clark@gmail.com,3118818251,Wireless Mouse,3,39.99,0.0,119.97,completed,4608 Aspen Ave,Philadelphia,PA,19156,2024,12,119.97
+22565,2024-12-31,Brenda Reed,brenda.reed@yahoo.com,17836947148,Keyboard Wrist Rest,4,19.99,5.0,75.96,refunded,452 Oak Ct,Seattle,WA,98132,2024,12,79.96
+5342,2024-12-31,Ashley Moore,ashley.moore@yahoo.com,2573808611,Laptop Stand,2,45.0,10.0,81.0,completed,6573 Oak St,Philadelphia,PA,19151,2024,12,90.0
+19343,2024-12-31,Kevin Thompson,kevin.thompson@icloud.com,7697351129,Phone Case,3,19.99,0.0,59.97,refunded,1698 Walnut Blvd,Boston,MA,2149,2024,12,59.97
+12070,2024-12-31,Brenda Rogers,brenda.rogers@hotmail.com,19948663544,Ring Light,3,79.99,10.0,215.97,cancelled,4292 Birch Blvd,Phoenix,AZ,85034,2024,12,239.96999999999997
+20311,2024-12-31,Paul Anderson,paul.anderson@aol.com,5813205592,Wireless Mouse,4,39.99,20.0,127.97,shipped,215 Cedar Dr,San Jose,CA,95133,2024,12,159.96
+14402,2024-12-31,Emma Torres,emma.torres@gmail.com,7785478136,USB-C Cable,3,12.49,5.0,35.6,completed,4508 Maple Ln,Atlanta,GA,30315,2024,12,37.47
+20904,2024-05-18,Thomas Johnson,thomas.johnson@hotmail.com,3142932564,Wireless Headphones,1,79.99,0.0,79.99,pending,8490 Elm St,Nashville,TN,37216,2024,5,79.99
+3780,2024-12-31,Donald Scott,donald.scott@hotmail.com,9948638379,Wireless Mouse,3,39.99,10.0,107.97,refunded,"""4301 Pine Dr, Apt 2""",Portland,OR,97281,2024,12,119.97
+3250,2024-12-31,Nicholas White,nicholas.white@icloud.com,3126119171,Microphone,2,199.99,0.0,399.98,refunded,2194 Elm Dr,Indianapolis,IN,46236,2024,12,399.98
+2562,2024-01-26,Joseph Collins,joseph.collins@gmail.com,3797171370,Ring Light,4,79.99,10.0,287.96,completed,5136 Oak Blvd,Seattle,WA,98140,2024,1,319.96
+4223,2024-12-31,Anna Miller,anna.miller@gmail.com,18733947926,"Laptop Sleeve 15""",2,29.99,10.0,53.98,refunded,9640 Walnut Rd,Denver,CO,80284,2024,12,59.98
+9970,2024-12-31,Brenda Wilson,brenda.wilson@gmail.com,2537961080,Wireless Headphones,4,79.99,0.0,319.96,cancelled,6827 Main Ct,San Jose,CA,95145,2024,12,319.96
+14860,2024-12-31,William King,unknown@email.com,4915248268,Monitor Arm,4,89.99,0.0,359.96,cancelled,"""3900 Pine Blvd, Apt 17""",Indianapolis,IN,46263,2024,12,359.96
+23988,2024-12-31,Ruth Reed,ruth.reed@yahoo.com,2608786710,Streaming Mic Bundle,1,299.99,0.0,299.99,refunded,6058 Pine Ct,Miami,FL,33184,2024,12,299.99
+20956,2024-11-28,Deborah Ramirez,deborah.ramirez@outlook.com,13704141489,Laptop Cooler,3,39.99,10.0,107.97,shipped,8669 Birch Ave,Boston,MA,2114,2024,11,119.97
+15778,2024-12-31,Melissa Cook,melissa.cook@hotmail.com,9592227715,Monitor,3,299.99,10.0,809.97,shipped,4219 Cedar Way,Portland,OR,97294,2024,12,899.97
+7909,2024-12-31,Barbara Miller,barbara.miller@gmail.com,9978041727,Phone Case,3,19.99,0.0,59.97,pending,4917 Cedar Rd,Philadelphia,PA,19121,2024,12,59.97
+18287,2024-12-31,Sarah Baker,sarah.baker@gmail.com,8487264005,Streaming Mic Bundle,4,299.99,20.0,959.97,shipped,7991 Oak St,Columbus,OH,43223,2024,12,1199.96
+22258,2024-12-31,Karen Thomas,unknown@email.com,8542491799,Cable Organizer,1,12.99,0.0,12.99,completed,6240 Maple Ct,Boston,MA,2173,2024,12,12.99
+19865,2024-12-31,Donald Martinez,unknown@email.com,2466464243,Smart Plug 4-Pack,2,29.99,15.0,50.98,completed,5605 Spruce St,Atlanta,GA,30312,2024,12,59.98
+6900,2024-12-31,David Jackson,david.jackson@aol.com,8468266145,Portable Charger,4,49.99,0.0,199.96,completed,1732 Pine Blvd,Phoenix,AZ,85028,2024,12,199.96
+5278,2024-11-08,Brian Clark,brian.clark@aol.com,6238342986,Standing Desk,4,599.99,10.0,2159.96,pending,9149 Birch Way,Columbus,OH,43262,2024,11,2399.96
+26100,2024-12-31,Jason Harris,jason.harris@outlook.com,3397472998,Wireless Mouse,2,39.99,10.0,71.98,refunded,7188 Main Ct,Chicago,IL,60632,2024,12,79.98
+23422,2023-02-04,John Taylor,john.taylor@hotmail.com,3348523516,USB-C Cable,2,12.49,0.0,24.98,pending,1380 Birch Ct,Indianapolis,IN,46286,2023,2,24.98
+27234,2024-12-31,Edward Nguyen,edward.nguyen@aol.com,2178664283,Phone Case,3,19.99,20.0,47.98,refunded,8303 Cedar Rd,Phoenix,AZ,85017,2024,12,59.97
+20147,2024-12-31,Emily Lee,emily.lee@yahoo.com,9975265578,Streaming Mic Bundle,1,299.99,15.0,254.99,shipped,7932 Cedar St,Phoenix,AZ,85019,2024,12,299.99
+20383,2024-12-31,William Thompson,william.thompson@yahoo.com,4707798465,Blue Light Glasses,4,24.99,20.0,79.97,cancelled,5162 Birch Blvd,Denver,CO,80277,2024,12,99.96
+19885,2024-12-31,Susan Hernandez,susan.hernandez@hotmail.com,7117268076,Wireless Mouse,2,39.99,5.0,75.98,refunded,1694 Spruce Way,Nashville,TN,37255,2024,12,79.98
+21556,2024-12-31,Anthony Young,anthony.young@yahoo.com,19745429937,Desk Lamp,4,34.99,0.0,139.96,shipped,1781 Cedar Blvd,San Jose,CA,95127,2024,12,139.96
+10683,2024-12-31,James Reed,james.reed@gmail.com,17767949666,Laptop Cooler,1,39.99,0.0,39.99,shipped,8822 Oak Ct,Miami,FL,33186,2024,12,39.99
+10496,2024-12-31,Ruth Nguyen,ruth.nguyen@aol.com,,Cable Management Kit,3,14.99,10.0,40.47,shipped,3937 Cedar Dr,Indianapolis,IN,46245,2024,12,44.97
+2349,2024-12-31,George Parker,george.parker@aol.com,15774885195,4K Webcam,1,149.99,15.0,127.49,cancelled,7768 Main Rd,Philadelphia,PA,19156,2024,12,149.99
+25691,2024-03-06,Nicholas Moore,nicholas.moore@yahoo.com,3885679212,Desk Lamp,1,34.99,10.0,31.49,cancelled,7401 Spruce Ave,Salt Lake City,UT,84170,2024,3,34.99
+10257,2024-12-31,Kevin Lee,kevin.lee@icloud.com,7195966495,Cable Management Kit,2,14.99,0.0,29.98,shipped,"""3727 Cedar Ave, Apt 18""",Portland,OR,97227,2024,12,29.98
+7195,2024-12-31,Matthew Rogers,matthew.rogers@gmail.com,19426421472,Mouse Pad XL,1,24.99,0.0,24.99,cancelled,6659 Cedar Rd,Las Vegas,NV,89199,2024,12,24.99
+10776,2024-12-31,Sarah Garcia,sarah.garcia@outlook.com,2777752558,USB-C Cable,3,12.49,15.0,31.85,completed,2123 Spruce Rd,Columbus,OH,43269,2024,12,37.47
+27381,2023-04-01,Melissa Mitchell,melissa.mitchell@outlook.com,2946477617,Desk Lamp,2,34.99,5.0,66.48,refunded,2657 Cedar Rd,Portland,OR,97238,2023,4,69.98
+9159,2024-12-31,John Scott,john.scott@gmail.com,5834407858,Noise Cancelling Headphones,3,249.99,0.0,749.97,completed,5450 Cedar Blvd,Miami,FL,33194,2024,12,749.97
+6392,2024-12-25,William Thomas,william.thomas@hotmail.com,17379968882,USB-C Cable,2,12.49,0.0,24.98,completed,1278 Spruce Way,Seattle,WA,98126,2024,12,24.98
+21459,2024-12-31,David Young,david.young@outlook.com,17779825132,Wireless Mouse,4,39.99,0.0,159.96,shipped,3373 Elm Rd,Boston,MA,2175,2024,12,159.96
+27443,2024-12-31,Amanda Turner,amanda.turner@gmail.com,4614077875,Microphone,3,199.99,5.0,569.97,completed,"""9767 Main Blvd, Apt 19""",Boston,MA,2135,2024,12,599.97
+24697,2024-12-31,Edward Adams,edward.adams@yahoo.com,8128187449,Wireless Mouse,4,39.99,5.0,151.96,shipped,2158 Birch St,San Jose,CA,95162,2024,12,159.96
+27821,2023-03-29,Thomas Martin,thomas.martin@hotmail.com,9543128634,Monitor Arm,1,89.99,0.0,89.99,shipped,9325 Cedar Ln,Philadelphia,PA,19133,2023,3,89.99
+1706,2024-12-31,Robert Brown,robert.brown@outlook.com,14594867172,Wireless Headphones,1,79.99,5.0,75.99,refunded,639 Maple Dr,Las Vegas,NV,89136,2024,12,79.99
+17954,2024-12-31,Sharon Cook,sharon.cook@gmail.com,4092634232,Laptop Cooler,1,39.99,20.0,31.99,refunded,725 Birch Ave,Chicago,IL,60661,2024,12,39.99
+4912,2024-12-31,Michael Hill,michael.hill@outlook.com,12923682894,Phone Case,1,19.99,15.0,16.99,cancelled,5443 Elm Ln,Minneapolis,MN,55435,2024,12,19.99
+13574,2024-12-31,James Moore,james.moore@yahoo.com,7929293663,Phone Stand,1,15.99,0.0,15.99,refunded,9796 Birch Ave,Boston,MA,2136,2024,12,15.99
+14971,2024-12-31,Jacob Sanchez,jacob.sanchez@hotmail.com,12457131898,Laptop Cooler,3,39.99,0.0,119.97,cancelled,7679 Spruce Way,Las Vegas,NV,89125,2024,12,119.97
+7684,2024-12-31,John Mitchell,john.mitchell@yahoo.com,19105051492,Streaming Mic Bundle,3,299.99,20.0,719.98,pending,2754 Cedar Ln,Boston,MA,2175,2024,12,899.97
+3964,2024-12-31,Karen Hernandez,karen.hernandez@gmail.com,15417332162,Phone Case,4,19.99,20.0,63.97,completed,1780 Cedar Blvd,Dallas,TX,75247,2024,12,79.96
+7914,2024-12-31,Jessica Parker,jessica.parker@icloud.com,3619326846,"Laptop Sleeve 15""",1,29.99,20.0,23.99,pending,4698 Maple Ave,Miami,FL,33123,2024,12,29.99
+10505,2024-12-31,Charles Taylor,charles.taylor@hotmail.com,18898063466,Ergonomic Chair,2,349.99,15.0,594.98,refunded,4874 Cedar Ln,Seattle,WA,98193,2024,12,699.98
+27358,2024-12-31,Michael White,michael.white@gmail.com,15744143494,Keyboard Wrist Rest,2,19.99,0.0,39.98,cancelled,2611 Main Ln,Austin,TX,78720,2024,12,39.98
+4645,2024-12-31,Unknown Customer,n/a@placeholder.com,3446792080,Standing Desk,2,599.99,5.0,1139.98,refunded,1681 Elm Ln,Minneapolis,MN,55484,2024,12,1199.98
+6965,2024-12-31,Amy Robinson,amy.robinson@outlook.com,4024471236,Phone Case,3,19.99,20.0,47.98,pending,"""700 Maple Blvd, Apt 12""",San Diego,CA,92143,2024,12,59.97
+18087,2024-12-31,Linda Williams,linda.williams@gmail.com,4176142726,Wireless Headphones,1,79.99,0.0,79.99,cancelled,7191 Birch Dr,Seattle,WA,98127,2024,12,79.99
+11023,2024-12-31,Ronald Taylor,ronald.taylor@gmail.com,2816676172,Monitor Arm,1,89.99,15.0,76.49,pending,"""9234 Walnut Ct, Apt 20""",Miami,FL,33129,2024,12,89.99
+12084,2024-12-31,Robert Lewis,unknown@email.com,3658963517,USB Hub 7-Port,2,34.99,20.0,55.98,cancelled,9443 Aspen Blvd,Denver,CO,80291,2024,12,69.98
+6802,2024-12-31,Brenda Nelson,brenda.nelson@outlook.com,6794192952,USB Hub 7-Port,4,34.99,0.0,139.96,shipped,3131 Pine Blvd,Philadelphia,PA,19186,2024,12,139.96
+4040,2024-09-15,Sharon Jones,sharon.jones@yahoo.com,8103905036,Ergonomic Chair,3,349.99,0.0,1049.97,completed,"""4973 Birch Ave, Apt 6""",San Diego,CA,92153,2024,9,1049.97
+8820,2023-09-20,Amy Nelson,amy.nelson@gmail.com,9198288026,Monitor,1,299.99,0.0,299.99,completed,2989 Birch Ave,Seattle,WA,98122,2023,9,299.99
+25701,2024-12-31,Laura Hill,laura.hill@hotmail.com,3436352289,Monitor Arm,3,89.99,5.0,256.47,cancelled,6363 Aspen St,Las Vegas,NV,89146,2024,12,269.96999999999997
+18691,2024-10-31,Charles Allen,charles.allen@yahoo.com,2133224972,Ring Light,1,79.99,0.0,79.99,shipped,4185 Pine Blvd,Philadelphia,PA,19151,2024,10,79.99
+26802,2024-12-31,Mary Nguyen,mary.nguyen@gmail.com,8912429847,HDMI Cable 6ft,2,9.99,0.0,19.98,shipped,2296 Main Dr,Portland,OR,97224,2024,12,19.98
+20473,2024-12-31,Laura Harris,laura.harris@hotmail.com,4572668568,Cable Organizer,4,12.99,5.0,49.36,shipped,379 Pine Ln,Seattle,WA,98172,2024,12,51.96
+7041,2024-12-31,Anna Harris,anna.harris@icloud.com,7155523883,USB Hub 7-Port,1,34.99,0.0,34.99,shipped,9050 Spruce Ave,San Diego,CA,92169,2024,12,34.99
+23710,2024-12-31,Linda Walker,linda.walker@yahoo.com,9155833252,Webcam,3,89.99,0.0,269.97,refunded,788 Elm Dr,Indianapolis,IN,46275,2024,12,269.96999999999997
+19039,2024-12-31,Lisa Garcia,lisa.garcia@gmail.com,9677024560,Mouse Pad XL,2,24.99,10.0,44.98,completed,2444 Elm Ct,San Diego,CA,92145,2024,12,49.98
+26691,2024-12-31,John Walker,john.walker@icloud.com,5586203660,USB-C Cable,3,12.49,15.0,31.85,cancelled,"""251 Cedar St, Apt 1""",Indianapolis,IN,46216,2024,12,37.47
+26120,2024-02-10,Jacob Morris,jacob.morris@aol.com,2874084050,Mechanical Keyboard,4,129.99,0.0,519.96,cancelled,8652 Aspen Ct,Portland,OR,97290,2024,2,519.96
+5654,2024-12-31,Anna Sanchez,anna.sanchez@hotmail.com,6498351466,Streaming Mic Bundle,3,299.99,15.0,764.97,completed,8660 Elm Ln,Boston,MA,2146,2024,12,899.97
+1339,2024-11-04,Sarah Anderson,sarah.anderson@hotmail.com,2177805762,Monitor,2,299.99,0.0,599.98,shipped,7863 Aspen St,Chicago,IL,60672,2024,11,599.98
+23206,2024-12-31,Unknown Customer,n/a@placeholder.com,3613549012,Smart Plug 4-Pack,4,29.99,10.0,107.96,completed,1319 Walnut Ct,Philadelphia,PA,19176,2024,12,119.96
+22696,2023-07-03,Amanda Torres,amanda.torres@outlook.com,12597147163,Portable Charger,4,49.99,20.0,159.97,pending,3513 Oak Dr,Phoenix,AZ,85054,2023,7,199.96
+6202,2024-12-31,David Cook,david.cook@hotmail.com,2804542433,Smart Plug 4-Pack,3,29.99,5.0,85.47,cancelled,8175 Walnut St,Atlanta,GA,30321,2024,12,89.97
+22039,2024-12-31,Mark Clark,mark.clark@yahoo.com,4463596392,Gaming Headset,3,89.99,5.0,256.47,completed,2282 Walnut Ave,Boston,MA,2196,2024,12,269.96999999999997
+6411,2024-12-31,Daniel White,unknown@email.com,12952178267,Smart Plug 4-Pack,2,29.99,10.0,53.98,shipped,271 Main Rd,Philadelphia,PA,19142,2024,12,59.98
+7657,2024-12-31,Laura Clark,laura.clark@gmail.com,5554834810,Cable Management Kit,1,14.99,5.0,14.24,refunded,9128 Pine Ln,San Diego,CA,92126,2024,12,14.99
+6047,2023-05-21,Unknown Customer,jeffrey.allen@yahoo.com,9567166922,USB Hub 7-Port,3,34.99,0.0,104.97,pending,7434 Aspen Blvd,Columbus,OH,43248,2023,5,104.97
+23239,2024-12-31,Anthony Reed,anthony.reed@hotmail.com,15679937666,Cable Management Kit,2,14.99,0.0,29.98,cancelled,"""399 Cedar Rd, Apt 17""",Philadelphia,PA,19157,2024,12,29.98
+12641,2024-12-31,Deborah White,deborah.white@gmail.com,6347686453,Blue Light Glasses,4,24.99,0.0,99.96,refunded,5202 Cedar Dr,San Diego,CA,92110,2024,12,99.96
+23570,2024-12-31,Sarah Robinson,sarah.robinson@hotmail.com,3222802741,4K Webcam,1,149.99,0.0,149.99,pending,3768 Oak Blvd,San Jose,CA,95121,2024,12,149.99
+22154,2024-12-31,Barbara Wilson,barbara.wilson@hotmail.com,6749362798,"Laptop Sleeve 15""",1,29.99,0.0,29.99,pending,1960 Cedar Blvd,Boston,MA,2126,2024,12,29.99
+13728,2024-12-31,Edward Turner,edward.turner@aol.com,3226444611,Mechanical Keyboard,3,129.99,20.0,311.98,refunded,306 Aspen Way,Chicago,IL,60625,2024,12,389.97
+3647,2024-12-31,Laura Davis,laura.davis@yahoo.com,7677213090,Laptop Cooler,1,39.99,0.0,39.99,completed,3239 Cedar Ave,Austin,TX,78773,2024,12,39.99
+15293,2023-08-31,Sharon Carter,sharon.carter@hotmail.com,3274264848,Smart Plug 4-Pack,2,29.99,0.0,59.98,refunded,8862 Spruce St,Las Vegas,NV,89182,2023,8,59.98
+15509,2024-12-31,Daniel Morris,daniel.morris@aol.com,7604938397,Wireless Headphones,3,79.99,20.0,191.98,cancelled,1753 Aspen Blvd,San Diego,CA,92135,2024,12,239.96999999999997
+7746,2024-12-31,Brian Scott,brian.scott@icloud.com,8124945211,Phone Case,2,19.99,10.0,35.98,refunded,1111 Cedar Rd,Boston,MA,2166,2024,12,39.98
+22584,2024-12-31,Jonathan Anderson,jonathan.anderson@icloud.com,8967597658,Gaming Headset,3,89.99,0.0,269.97,completed,8093 Pine Rd,Denver,CO,80225,2024,12,269.96999999999997
+22607,2024-12-31,Kevin Stewart,kevin.stewart@hotmail.com,4229117143,HDMI Cable 6ft,4,9.99,20.0,31.97,completed,292 Walnut Ln,Minneapolis,MN,55485,2024,12,39.96
+22672,2024-12-31,Susan Reed,susan.reed@outlook.com,2324639819,Keyboard Wrist Rest,3,19.99,5.0,56.97,cancelled,7125 Maple Ave,Charlotte,NC,28214,2024,12,59.97
+17029,2024-12-31,Deborah Nguyen,deborah.nguyen@gmail.com,5285893891,4K Webcam,3,149.99,15.0,382.47,shipped,"""8814 Birch St, Apt 2""",Charlotte,NC,28228,2024,12,449.97
+22078,2024-12-31,David Williams,david.williams@yahoo.com,7789641111,USB Hub 7-Port,3,34.99,20.0,83.98,pending,4064 Cedar Ln,San Diego,CA,92134,2024,12,104.97
+20712,2024-12-31,Deborah Cook,deborah.cook@outlook.com,Unknown,Portable Charger,1,49.99,5.0,47.49,refunded,3617 Main Ln,Seattle,WA,98174,2024,12,49.99
+23665,2024-12-31,Joseph Williams,joseph.williams@outlook.com,9696817893,Cable Organizer,1,12.99,15.0,11.04,shipped,2092 Main Ave,Las Vegas,NV,89131,2024,12,12.99
+25811,2024-12-31,Eric Brown,eric.brown@gmail.com,13923504822,Portable Charger,3,49.99,0.0,149.97,refunded,8410 Maple Ave,Atlanta,GA,30358,2024,12,149.97
+4084,2024-12-31,Jacob Parker,jacob.parker@aol.com,6158284779,Monitor Arm,1,89.99,5.0,85.49,cancelled,4414 Oak Dr,Philadelphia,PA,19196,2024,12,89.99
+15577,2024-12-31,Daniel Johnson,daniel.johnson@aol.com,3344202138,Blue Light Glasses,4,24.99,0.0,99.96,pending,1637 Birch Blvd,Chicago,IL,60618,2024,12,99.96
+8800,2024-12-31,Stephanie Torres,stephanie.torres@icloud.com,4089739545,Desk Lamp,4,34.99,0.0,139.96,cancelled,7002 Elm St,Phoenix,AZ,85083,2024,12,139.96
+19424,2024-12-31,Mary Miller,unknown@email.com,4729116335,Blue Light Glasses,1,24.99,10.0,22.49,refunded,5939 Aspen Ave,Miami,FL,33177,2024,12,24.99
+18401,2024-12-31,Mary Anderson,mary.anderson@outlook.com,2093736209,Wireless Headphones,3,79.99,20.0,191.98,shipped,7039 Oak Way,San Jose,CA,95110,2024,12,239.96999999999997
+26620,2023-11-17,Sharon Miller,sharon.miller@aol.com,5279931730,4K Webcam,3,149.99,15.0,382.47,refunded,3111 Main Way,San Jose,CA,95132,2023,11,449.97
+3333,2024-12-31,Charles Mitchell,charles.mitchell@yahoo.com,9963483636,Laptop Stand,1,45.0,0.0,45.0,refunded,7552 Cedar St,San Jose,CA,95168,2024,12,45.0
+27582,2023-10-04,Unknown Customer,john.williams@aol.com,3439647201,Mechanical Keyboard,1,129.99,0.0,129.99,completed,4189 Oak Ct,Indianapolis,IN,46230,2023,10,129.99
+18150,2024-12-31,Barbara Rogers,barbara.rogers@outlook.com,6132239031,HDMI Cable 6ft,1,9.99,0.0,9.99,completed,1298 Cedar Ave,Philadelphia,PA,19121,2024,12,9.99
+4037,2024-12-31,Jeffrey Adams,jeffrey.adams@gmail.com,18838396243,Wireless Headphones,4,79.99,15.0,271.97,refunded,4000 Walnut Way,Chicago,IL,60652,2024,12,319.96
+2430,2024-12-31,Mark Morris,mark.morris@icloud.com,9266405868,Ergonomic Chair,4,349.99,0.0,1399.96,refunded,"""506 Aspen Rd, Apt 9""",Minneapolis,MN,55451,2024,12,1399.96
+19552,2024-12-31,James Carter,james.carter@gmail.com,15404501433,"Laptop Sleeve 15""",1,29.99,10.0,26.99,completed,1364 Cedar Ave,Columbus,OH,43276,2024,12,29.99
+23316,2024-12-31,Linda Perez,linda.perez@gmail.com,3914863660,Phone Case,1,19.99,0.0,19.99,cancelled,7480 Elm Rd,Seattle,WA,98164,2024,12,19.99
+15798,2024-11-28,George Evans,george.evans@hotmail.com,4257206579,Portable Charger,1,49.99,0.0,49.99,completed,7414 Pine Ln,Miami,FL,33193,2024,11,49.99
+14830,2024-12-31,Thomas Anderson,thomas.anderson@hotmail.com,13308717086,Noise Cancelling Headphones,1,249.99,10.0,224.99,completed,2389 Cedar Way,Dallas,TX,75275,2024,12,249.99
+11115,2024-12-31,Anthony Wright,anthony.wright@yahoo.com,9074521348,Phone Case,4,19.99,0.0,79.96,pending,8016 Pine Rd,Denver,CO,80287,2024,12,79.96
+13500,2024-12-31,Amy Garcia,amy.garcia@gmail.com,15923582611,Cable Organizer,4,12.99,0.0,51.96,refunded,5483 Cedar Way,Denver,CO,80261,2024,12,51.96
+14455,2024-12-31,Unknown Customer,ashley.wilson@gmail.com,17572371971,Laptop Cooler,4,39.99,0.0,159.96,cancelled,8514 Cedar St,Dallas,TX,75276,2024,12,159.96
+13326,2024-12-31,George Young,george.young@hotmail.com,4273319092,Standing Desk,4,599.99,0.0,2399.96,completed,1352 Maple Rd,Minneapolis,MN,55417,2024,12,2399.96
+26232,2024-10-05,Jennifer Brown,jennifer.brown@yahoo.com,6244808914,4K Webcam,3,149.99,0.0,449.97,shipped,3424 Oak Ln,Seattle,WA,98155,2024,10,449.97
+1648,2024-12-31,Timothy Nguyen,timothy.nguyen@icloud.com,12068509818,Cable Management Kit,2,14.99,5.0,28.48,pending,1656 Main Ct,Miami,FL,33190,2024,12,29.98
+9465,2024-12-31,Emily Young,emily.young@gmail.com,4047168087,Gaming Headset,3,89.99,10.0,242.97,cancelled,4108 Oak Dr,Las Vegas,NV,89172,2024,12,269.96999999999997
+14343,2024-12-31,Unknown Customer,n/a@placeholder.com,9813018651,Phone Case,4,19.99,5.0,75.96,shipped,3070 Elm St,San Diego,CA,92128,2024,12,79.96
+26549,2024-12-31,Charles Martinez,charles.martinez@gmail.com,8144074484,Smart Plug 4-Pack,2,29.99,20.0,47.98,refunded,8923 Spruce Ct,Phoenix,AZ,85094,2024,12,59.98
+16400,2024-12-31,Jessica Anderson,jessica.anderson@aol.com,9497623073,Ring Light,1,79.99,10.0,71.99,pending,8976 Spruce Dr,Austin,TX,78718,2024,12,79.99
+24111,2024-12-31,Ronald Parker,ronald.parker@hotmail.com,6162233470,Noise Cancelling Headphones,3,249.99,5.0,712.47,refunded,9846 Spruce Ln,San Diego,CA,92186,2024,12,749.97
+15119,2024-12-31,Stephanie Wilson,stephanie.wilson@outlook.com,3053121850,Smart Plug 4-Pack,4,29.99,0.0,119.96,cancelled,"""1801 Main Ave, Apt 2""",Indianapolis,IN,46216,2024,12,119.96
+3679,2024-12-31,Jeffrey Lee,jeffrey.lee@outlook.com,7314769421,Webcam,2,89.99,0.0,179.98,refunded,3604 Birch Ave,Chicago,IL,60636,2024,12,179.98
+6581,2024-12-31,Ryan Hernandez,ryan.hernandez@aol.com,15295756724,Laptop Cooler,3,39.99,20.0,95.98,shipped,2150 Spruce Ln,Austin,TX,78710,2024,12,119.97
+25036,2024-12-31,Jonathan Reed,jonathan.reed@gmail.com,2783466389,Webcam,2,89.99,0.0,179.98,completed,3880 Walnut Ln,Miami,FL,33147,2024,12,179.98
+27887,2024-12-31,Richard Evans,richard.evans@gmail.com,3076694032,Ring Light,1,79.99,15.0,67.99,shipped,5983 Walnut Ln,Philadelphia,PA,19189,2024,12,79.99
+6797,2024-12-31,Paul Johnson,paul.johnson@outlook.com,9746305396,Monitor,1,299.99,10.0,269.99,shipped,2614 Oak Way,Minneapolis,MN,55464,2024,12,299.99
+1206,2023-01-23,Ashley Robinson,ashley.robinson@outlook.com,5133755259,Ergonomic Chair,2,349.99,0.0,699.98,completed,8786 Spruce Way,Austin,TX,78768,2023,1,699.98
+18140,2024-12-31,Sharon Scott,sharon.scott@yahoo.com,9576634401,Monitor,3,299.99,10.0,809.97,pending,7264 Walnut Dr,San Jose,CA,95151,2024,12,899.97
+19873,2024-12-31,Daniel Baker,daniel.baker@hotmail.com,8863083294,USB-C Cable,4,12.49,0.0,49.96,cancelled,1987 Pine St,San Jose,CA,95178,2024,12,49.96
+9093,2024-12-31,Stephanie Wright,stephanie.wright@gmail.com,Unknown,Webcam,3,89.99,0.0,269.97,cancelled,3413 Maple Ct,Minneapolis,MN,55464,2024,12,269.96999999999997
+14114,2023-12-13,Eric Nguyen,eric.nguyen@aol.com,7434117376,Standing Desk,3,599.99,5.0,1709.97,pending,7939 Birch Rd,Seattle,WA,98138,2023,12,1799.97
+7570,2024-12-15,Brian Hill,brian.hill@hotmail.com,9227777647,Cable Organizer,2,12.99,0.0,25.98,pending,"""9567 Maple Ave, Apt 9""",Denver,CO,80258,2024,12,25.98
+12649,2024-12-31,Jeffrey Allen,jeffrey.allen@gmail.com,5775961811,Blue Light Glasses,3,24.99,20.0,59.98,cancelled,6378 Walnut Ave,Boston,MA,2184,2024,12,74.97
+7918,2024-05-11,Ashley Thompson,ashley.thompson@aol.com,19277829769,Wireless Mouse,2,39.99,0.0,79.98,refunded,9382 Spruce Ave,Boston,MA,2160,2024,5,79.98
+23361,2024-12-31,Michael Anderson,michael.anderson@gmail.com,3514175755,"Laptop Sleeve 15""",1,29.99,0.0,29.99,shipped,5739 Spruce Blvd,Minneapolis,MN,55480,2024,12,29.99
+23118,2024-12-31,Lisa Harris,lisa.harris@outlook.com,15019641763,Standing Desk,3,599.99,0.0,1799.97,cancelled,3725 Walnut Blvd,Austin,TX,78738,2024,12,1799.97
+8075,2024-12-31,Ashley Lee,ashley.lee@outlook.com,6456139303,"Laptop Sleeve 15""",2,29.99,5.0,56.98,completed,5478 Elm Blvd,Las Vegas,NV,89111,2024,12,59.98
+23303,2024-12-31,Sharon Clark,sharon.clark@icloud.com,2452557138,Noise Cancelling Headphones,3,249.99,15.0,637.47,refunded,8651 Elm Way,Indianapolis,IN,46227,2024,12,749.97
+8943,2024-12-31,Amy Stewart,amy.stewart@gmail.com,9154595914,4K Webcam,1,149.99,5.0,142.49,shipped,916 Spruce Ct,Dallas,TX,75240,2024,12,149.99
+21100,2024-12-31,Emma Miller,emma.miller@yahoo.com,9542753442,4K Webcam,1,149.99,15.0,127.49,refunded,5476 Spruce Way,Salt Lake City,UT,84183,2024,12,149.99
+25301,2024-12-31,Edward Turner,edward.turner@hotmail.com,17753714499,Blue Light Glasses,4,24.99,10.0,89.96,pending,2701 Spruce Rd,San Diego,CA,92119,2024,12,99.96
+12873,2023-04-08,Anthony Thomas,anthony.thomas@aol.com,8092527727,Standing Desk,1,599.99,10.0,539.99,refunded,2465 Walnut Way,Miami,FL,33169,2023,4,599.99
+18494,2024-12-31,Emily Johnson,emily.johnson@hotmail.com,3827202689,4K Webcam,4,149.99,0.0,599.96,completed,1608 Cedar Ave,Portland,OR,97290,2024,12,599.96
+4369,2024-12-31,Anna Robinson,anna.robinson@gmail.com,4214064108,Phone Stand,2,15.99,0.0,31.98,completed,1983 Aspen St,Atlanta,GA,30329,2024,12,31.98
+4682,2024-12-31,Angela Cook,angela.cook@hotmail.com,4632278646,"Laptop Sleeve 15""",2,29.99,0.0,59.98,pending,7501 Elm Rd,Portland,OR,97210,2024,12,59.98
+11720,2024-12-31,Nicholas Thomas,nicholas.thomas@outlook.com,Unknown,Smart Plug 4-Pack,3,29.99,20.0,71.98,shipped,"""2160 Elm Dr, Apt 1""",Atlanta,GA,30335,2024,12,89.97
+1641,2024-12-31,Amanda Garcia,amanda.garcia@yahoo.com,9177957590,Mechanical Keyboard,1,129.99,15.0,110.49,shipped,6825 Elm St,Indianapolis,IN,46229,2024,12,129.99
+1659,2024-12-31,Ashley Baker,ashley.baker@hotmail.com,8153867997,Keyboard Wrist Rest,2,19.99,0.0,39.98,shipped,7002 Oak Ave,Columbus,OH,43298,2024,12,39.98
+22402,2024-04-07,Lisa Garcia,lisa.garcia@aol.com,17137358827,Gaming Headset,2,89.99,0.0,179.98,cancelled,137 Maple St,Boston,MA,2190,2024,4,179.98
+5113,2023-04-12,Melissa Davis,melissa.davis@icloud.com,6504469278,Mechanical Keyboard,1,129.99,10.0,116.99,shipped,3151 Aspen St,Seattle,WA,98141,2023,4,129.99
+7786,2024-12-31,Joseph Walker,joseph.walker@aol.com,14037908192,Streaming Mic Bundle,1,299.99,15.0,254.99,completed,2586 Spruce Rd,Portland,OR,97248,2024,12,299.99
+3418,2024-12-31,Brian Sanchez,brian.sanchez@hotmail.com,8654294532,Desk Lamp,4,34.99,0.0,139.96,cancelled,4849 Oak Way,Chicago,IL,60675,2024,12,139.96
+19261,2024-12-31,Brenda Hill,brenda.hill@outlook.com,7124529626,Microphone,1,199.99,0.0,199.99,pending,"""1257 Elm Blvd, Apt 9""",Columbus,OH,43255,2024,12,199.99
+22950,2024-12-31,Thomas Mitchell,thomas.mitchell@icloud.com,9882188293,Phone Stand,3,15.99,5.0,45.57,pending,6488 Spruce Ln,Nashville,TN,37270,2024,12,47.97
+7170,2024-12-31,Amy Wilson,amy.wilson@icloud.com,8369403734,Microphone,1,199.99,0.0,199.99,completed,6000 Spruce Rd,Philadelphia,PA,19180,2024,12,199.99
+1587,2024-12-31,Amanda Walker,amanda.walker@icloud.com,2222893174,USB Hub 7-Port,1,34.99,5.0,33.24,pending,1370 Aspen Way,Las Vegas,NV,89158,2024,12,34.99
+8951,2024-12-31,Ashley Lewis,ashley.lewis@gmail.com,5725989259,Wireless Headphones,2,79.99,5.0,151.98,refunded,5251 Pine St,Miami,FL,33157,2024,12,159.98
+15396,2024-12-31,Laura Cook,laura.cook@outlook.com,15447656891,Ergonomic Chair,2,349.99,0.0,699.98,pending,3674 Oak Rd,Phoenix,AZ,85093,2024,12,699.98
+18215,2024-12-31,Anna Thompson,anna.thompson@gmail.com,19537853691,Laptop Stand,1,45.0,5.0,42.75,cancelled,1169 Walnut Ct,Atlanta,GA,30321,2024,12,45.0
+27748,2024-12-31,Unknown Customer,n/a@placeholder.com,5842696629,Standing Desk,2,599.99,0.0,1199.98,refunded,3936 Aspen Ln,Philadelphia,PA,19162,2024,12,1199.98
+16422,2024-12-31,Deborah Clark,deborah.clark@icloud.com,16456522668,HDMI Cable 6ft,1,9.99,0.0,9.99,completed,4160 Oak Ct,Miami,FL,33133,2024,12,9.99
+4044,2024-12-31,Ronald Taylor,ronald.taylor@hotmail.com,3682952188,Wireless Headphones,1,79.99,15.0,67.99,refunded,3815 Oak Rd,Denver,CO,80283,2024,12,79.99
+17596,2024-07-22,Brenda Walker,brenda.walker@hotmail.com,5428696561,Streaming Mic Bundle,4,299.99,20.0,959.97,refunded,8714 Birch Ct,Miami,FL,33143,2024,7,1199.96
+2886,2024-12-31,Michelle Parker,michelle.parker@aol.com,7059039045,Monitor,2,299.99,0.0,599.98,completed,4274 Walnut Ave,Nashville,TN,37238,2024,12,599.98
+23575,2024-12-31,Emma Clark,emma.clark@outlook.com,9905829773,Keyboard Wrist Rest,4,19.99,0.0,79.96,completed,362 Elm Ave,Charlotte,NC,28283,2024,12,79.96
+14239,2023-08-04,Anna Nelson,anna.nelson@outlook.com,3465787167,Standing Desk,2,599.99,0.0,1199.98,cancelled,1084 Aspen Blvd,Salt Lake City,UT,84131,2023,8,1199.98
+12261,2024-12-31,Unknown Customer,n/a@placeholder.com,4214126324,"Laptop Sleeve 15""",1,29.99,15.0,25.49,cancelled,1696 Walnut Dr,Portland,OR,97287,2024,12,29.99
+17009,2024-10-29,Joseph Brown,joseph.brown@icloud.com,2046164301,"Laptop Sleeve 15""",2,29.99,10.0,53.98,cancelled,4325 Main St,Salt Lake City,UT,84165,2024,10,59.98
+15963,2024-11-06,Susan Adams,susan.adams@aol.com,15833948278,"Laptop Sleeve 15""",1,29.99,20.0,23.99,completed,"""5196 Pine St, Apt 13""",Chicago,IL,60669,2024,11,29.99
+2603,2024-12-31,Jonathan Reed,jonathan.reed@aol.com,8508819536,Smart Plug 4-Pack,4,29.99,0.0,119.96,completed,9422 Pine Dr,Denver,CO,80218,2024,12,119.96
+9574,2024-12-31,Barbara Anderson,barbara.anderson@outlook.com,4039919309,Laptop Cooler,3,39.99,15.0,101.97,completed,1925 Walnut Rd,Minneapolis,MN,55488,2024,12,119.97
+13130,2023-11-22,Ruth Lee,ruth.lee@aol.com,5337238504,Smart Plug 4-Pack,3,29.99,0.0,89.97,completed,2574 Cedar Blvd,Philadelphia,PA,19198,2023,11,89.97
+6232,2024-02-01,Jonathan Baker,jonathan.baker@aol.com,8235614396,Mouse Pad XL,2,24.99,0.0,49.98,refunded,8695 Walnut Way,Indianapolis,IN,46230,2024,2,49.98
+1361,2024-05-30,Stephanie Reed,stephanie.reed@aol.com,9865704782,USB-C Cable,2,12.49,10.0,22.48,shipped,5292 Maple Dr,Chicago,IL,60683,2024,5,24.98
+6032,2024-12-31,Timothy Turner,timothy.turner@gmail.com,9879642930,Desk Lamp,1,34.99,20.0,27.99,pending,"""2053 Aspen Way, Apt 14""",Las Vegas,NV,89163,2024,12,34.99
+14620,2024-12-31,Ruth Reed,ruth.reed@icloud.com,8864431608,Streaming Mic Bundle,2,299.99,0.0,599.98,refunded,1109 Oak Dr,Miami,FL,33162,2024,12,599.98
+12998,2023-10-06,Linda Miller,linda.miller@icloud.com,7363443735,"Laptop Sleeve 15""",1,29.99,0.0,29.99,refunded,9967 Elm Blvd,Portland,OR,97234,2023,10,29.99
+2729,2024-12-31,Pamela Thomas,pamela.thomas@yahoo.com,4172253276,Keyboard Wrist Rest,1,19.99,10.0,17.99,pending,3746 Maple Way,Atlanta,GA,30319,2024,12,19.99
+14712,2024-12-31,Paul Morris,paul.morris@gmail.com,9755102577,Webcam,2,89.99,5.0,170.98,cancelled,317 Main St,Boston,MA,2184,2024,12,179.98
+10069,2024-12-31,Jessica Jackson,jessica.jackson@gmail.com,17356962766,Desk Lamp,4,34.99,0.0,139.96,cancelled,9913 Main Ln,Portland,OR,97223,2024,12,139.96
+17774,2024-12-31,Jeffrey Baker,jeffrey.baker@icloud.com,2488198116,USB-C Cable,2,12.49,5.0,23.73,shipped,854 Main Dr,Seattle,WA,98173,2024,12,24.98
+8961,2024-12-31,Matthew Robinson,matthew.robinson@yahoo.com,8492154750,Gaming Headset,4,89.99,0.0,359.96,shipped,7660 Oak Way,Boston,MA,2183,2024,12,359.96
+16096,2024-08-17,Michael Reed,michael.reed@gmail.com,15548286773,Mechanical Keyboard,2,129.99,10.0,233.98,completed,"""6022 Main Blvd, Apt 13""",Columbus,OH,43260,2024,8,259.98
+14550,2024-12-31,Thomas Wilson,thomas.wilson@icloud.com,3116397610,Microphone,1,199.99,15.0,169.99,shipped,6180 Pine Ct,Chicago,IL,60671,2024,12,199.99
+5652,2024-12-31,Emma Collins,emma.collins@gmail.com,5466496097,Keyboard Wrist Rest,2,19.99,0.0,39.98,refunded,3169 Spruce Way,Phoenix,AZ,85071,2024,12,39.98
+27856,2024-12-31,Brenda White,brenda.white@gmail.com,Unknown,HDMI Cable 6ft,3,9.99,0.0,29.97,completed,7706 Aspen Way,Austin,TX,78736,2024,12,29.97
+6652,2024-11-12,Sharon Young,sharon.young@icloud.com,7356326682,USB Hub 7-Port,3,34.99,0.0,104.97,completed,3808 Cedar Ave,Miami,FL,33110,2024,11,104.97
+23421,2024-12-31,Deborah Cook,deborah.cook@outlook.com,5499792871,Ring Light,3,79.99,0.0,239.97,refunded,3587 Birch Ct,Austin,TX,78757,2024,12,239.96999999999997
+17549,2024-12-31,Susan Carter,susan.carter@gmail.com,16088762975,Mechanical Keyboard,2,129.99,0.0,259.98,pending,8323 Spruce St,Indianapolis,IN,46269,2024,12,259.98
+10250,2024-12-31,Dorothy Davis,dorothy.davis@gmail.com,15025414210,Mouse Pad XL,3,24.99,10.0,67.47,cancelled,3221 Cedar Rd,San Diego,CA,92151,2024,12,74.97
+1194,2024-12-31,Anthony Taylor,anthony.taylor@aol.com,16007881060,Laptop Stand,2,45.0,10.0,81.0,refunded,"""8254 Pine St, Apt 2""",Salt Lake City,UT,84195,2024,12,90.0
+20273,2024-12-31,Jacob Walker,jacob.walker@gmail.com,,Blue Light Glasses,2,24.99,0.0,49.98,pending,3198 Main Ln,Chicago,IL,60676,2024,12,49.98
+27434,2024-12-31,Linda White,linda.white@yahoo.com,2334379586,Noise Cancelling Headphones,1,249.99,5.0,237.49,shipped,8538 Birch Ln,Charlotte,NC,28278,2024,12,249.99
+7966,2024-12-31,Thomas Wright,thomas.wright@outlook.com,4518133159,Monitor Arm,2,89.99,15.0,152.98,pending,300 Oak Dr,Columbus,OH,43221,2024,12,179.98
+10245,2024-12-31,Michelle Brown,michelle.brown@outlook.com,17876059976,Blue Light Glasses,4,24.99,10.0,89.96,cancelled,839 Elm Way,Las Vegas,NV,89133,2024,12,99.96
+10802,2024-12-31,Richard Turner,richard.turner@gmail.com,,USB-C Cable,2,12.49,20.0,19.98,cancelled,2524 Maple Ct,Atlanta,GA,30339,2024,12,24.98
+17400,2024-12-31,Kevin Allen,kevin.allen@yahoo.com,3124794961,Standing Desk,4,599.99,10.0,2159.96,shipped,7347 Maple Ave,Charlotte,NC,28258,2024,12,2399.96
+16789,2023-05-06,Brenda Torres,brenda.torres@yahoo.com,6077077228,Smart Plug 4-Pack,2,29.99,0.0,59.98,refunded,305 Spruce St,Miami,FL,33149,2023,5,59.98
+24576,2024-12-31,Michelle Martin,michelle.martin@yahoo.com,18987835957,Wireless Mouse,2,39.99,15.0,67.98,cancelled,633 Aspen Dr,Minneapolis,MN,55482,2024,12,79.98
+16695,2024-12-31,Ruth Young,unknown@email.com,6893401957,Wireless Headphones,1,79.99,10.0,71.99,completed,6710 Walnut Dr,Austin,TX,78719,2024,12,79.99
+2011,2023-05-09,Barbara Thompson,barbara.thompson@gmail.com,,Gaming Headset,3,89.99,15.0,229.47,completed,7251 Elm Blvd,Nashville,TN,37292,2023,5,269.96999999999997
+19116,2024-04-03,Carol White,carol.white@outlook.com,2102025954,Ring Light,4,79.99,0.0,319.96,refunded,7093 Elm Way,Indianapolis,IN,46243,2024,4,319.96
+2765,2023-02-11,Kevin Wright,kevin.wright@yahoo.com,13965546651,Phone Stand,1,15.99,0.0,15.99,shipped,6181 Spruce Dr,Seattle,WA,98122,2023,2,15.99
+13060,2024-12-31,Rebecca White,unknown@email.com,6373205543,Phone Stand,3,15.99,5.0,45.57,cancelled,5287 Elm Blvd,Atlanta,GA,30325,2024,12,47.97
+16858,2024-12-31,Linda Anderson,linda.anderson@hotmail.com,Unknown,USB Hub 7-Port,2,34.99,20.0,55.98,cancelled,"""4366 Cedar Ct, Apt 12""",Charlotte,NC,28233,2024,12,69.98
+23994,2024-12-31,Matthew Brown,matthew.brown@outlook.com,7168898764,4K Webcam,2,149.99,10.0,269.98,refunded,6527 Main Rd,Salt Lake City,UT,84172,2024,12,299.98
+4177,2024-12-31,Anthony Baker,anthony.baker@outlook.com,2867648040,Blue Light Glasses,4,24.99,5.0,94.96,completed,4662 Elm Ct,Nashville,TN,37252,2024,12,99.96
+24670,2024-12-31,Ronald Martin,unknown@email.com,17104602920,Laptop Stand,4,45.0,0.0,180.0,completed,9910 Main Blvd,Denver,CO,80288,2024,12,180.0
+15572,2023-05-12,Laura Moore,laura.moore@yahoo.com,9465513707,4K Webcam,1,149.99,10.0,134.99,completed,7292 Cedar Ave,Boston,MA,2122,2023,5,149.99
+27508,2024-12-31,Sharon Williams,sharon.williams@gmail.com,3075798145,Portable Charger,2,49.99,10.0,89.98,pending,865 Pine Way,Atlanta,GA,30381,2024,12,99.98
+19294,2024-12-31,Robert Reed,robert.reed@gmail.com,7603441043,Noise Cancelling Headphones,3,249.99,5.0,712.47,shipped,9061 Walnut Ave,Indianapolis,IN,46285,2024,12,749.97
+9336,2024-12-31,Unknown Customer,gary.moore@hotmail.com,2765044139,Wireless Headphones,4,79.99,0.0,319.96,cancelled,3381 Birch St,Boston,MA,2137,2024,12,319.96
+22881,2024-12-31,Jennifer Robinson,jennifer.robinson@hotmail.com,7223433893,Monitor Arm,2,89.99,10.0,161.98,completed,9649 Cedar Dr,Boston,MA,2199,2024,12,179.98
+26551,2024-12-31,Melissa Smith,melissa.smith@yahoo.com,8139149120,Standing Desk,4,599.99,0.0,2399.96,cancelled,"""4588 Aspen Rd, Apt 6""",Miami,FL,33157,2024,12,2399.96
+14451,2024-12-31,Edward Davis,edward.davis@icloud.com,,Keyboard Wrist Rest,3,19.99,0.0,59.97,cancelled,9300 Cedar Ct,Chicago,IL,60610,2024,12,59.97
+1531,2024-12-31,Rebecca Mitchell,rebecca.mitchell@yahoo.com,7039428768,Laptop Cooler,3,39.99,0.0,119.97,cancelled,6844 Pine Rd,Denver,CO,80254,2024,12,119.97
+11208,2024-12-31,Brian Moore,brian.moore@outlook.com,7392645988,Microphone,1,199.99,5.0,189.99,refunded,4462 Oak Dr,Austin,TX,78750,2024,12,199.99
+6155,2024-12-31,Eric Baker,eric.baker@icloud.com,19505773063,Cable Organizer,3,12.99,5.0,37.02,completed,3033 Walnut Ct,Philadelphia,PA,19120,2024,12,38.97
+21452,2024-12-31,Karen Thompson,karen.thompson@yahoo.com,9816558105,USB Hub 7-Port,1,34.99,10.0,31.49,refunded,2787 Main Ct,Nashville,TN,37268,2024,12,34.99
+16497,2024-12-31,Sharon Wright,sharon.wright@hotmail.com,5146442175,Phone Case,1,19.99,15.0,16.99,refunded,4693 Spruce Dr,Salt Lake City,UT,84116,2024,12,19.99
+3402,2024-12-31,Michael Hill,michael.hill@outlook.com,5093805979,Cable Management Kit,1,14.99,20.0,11.99,cancelled,"""4833 Cedar Ct, Apt 17""",Charlotte,NC,28280,2024,12,14.99
+21318,2024-03-08,Carol Thomas,carol.thomas@yahoo.com,16129542592,Wireless Mouse,4,39.99,0.0,159.96,cancelled,236 Spruce Dr,Minneapolis,MN,55433,2024,3,159.96
+11615,2024-12-31,Sarah Ramirez,sarah.ramirez@hotmail.com,8095952518,HDMI Cable 6ft,3,9.99,15.0,25.47,cancelled,4112 Spruce Ct,Philadelphia,PA,19163,2024,12,29.97
+25633,2024-12-31,Michelle Nelson,michelle.nelson@gmail.com,15608035931,"Laptop Sleeve 15""",3,29.99,20.0,71.98,cancelled,271 Elm St,Philadelphia,PA,19172,2024,12,89.97
+11427,2024-12-31,Dorothy King,dorothy.king@hotmail.com,,Ring Light,4,79.99,20.0,255.97,pending,297 Elm Rd,Phoenix,AZ,85057,2024,12,319.96
+5312,2024-12-31,Sharon Morris,sharon.morris@yahoo.com,8266867786,Mechanical Keyboard,2,129.99,0.0,259.98,shipped,5131 Aspen Rd,Seattle,WA,98118,2024,12,259.98
+21250,2024-12-31,Edward Mitchell,edward.mitchell@gmail.com,,Phone Stand,3,15.99,10.0,43.17,refunded,1954 Oak St,Salt Lake City,UT,84147,2024,12,47.97
+25226,2024-12-31,Unknown Customer,michael.thompson@gmail.com,,Phone Case,3,19.99,5.0,56.97,pending,544 Elm Blvd,Salt Lake City,UT,84140,2024,12,59.97
+24501,2024-12-31,Edward Young,edward.young@icloud.com,Unknown,Standing Desk,4,599.99,0.0,2399.96,pending,4408 Elm Dr,Austin,TX,78792,2024,12,2399.96
+18629,2024-12-31,Emily Reed,emily.reed@aol.com,7446195865,Wireless Headphones,1,79.99,0.0,79.99,cancelled,358 Cedar St,Seattle,WA,98185,2024,12,79.99
+19869,2024-12-31,Melissa Miller,melissa.miller@hotmail.com,19606114714,Microphone,1,199.99,0.0,199.99,shipped,3031 Pine Rd,Miami,FL,33154,2024,12,199.99
+17388,2024-12-31,Karen Collins,karen.collins@outlook.com,4386945195,Cable Management Kit,2,14.99,0.0,29.98,completed,5485 Main Way,Chicago,IL,60645,2024,12,29.98
+24951,2024-12-31,Ronald Hernandez,ronald.hernandez@aol.com,16392017946,Mouse Pad XL,1,24.99,0.0,24.99,refunded,4154 Main St,Phoenix,AZ,85034,2024,12,24.99
+17173,2024-12-31,Edward Collins,edward.collins@hotmail.com,6897713785,Standing Desk,1,599.99,10.0,539.99,cancelled,9230 Pine Ln,Nashville,TN,37292,2024,12,599.99
+4201,2024-12-31,William Moore,william.moore@hotmail.com,5884568575,Phone Stand,3,15.99,0.0,47.97,refunded,6044 Elm Ln,Chicago,IL,60632,2024,12,47.97
+8361,2024-12-31,Mark Allen,mark.allen@icloud.com,6512732646,Webcam,1,89.99,20.0,71.99,shipped,6159 Pine Ct,San Jose,CA,95144,2024,12,89.99
+27538,2024-12-31,Laura White,laura.white@aol.com,4966109435,Cable Management Kit,3,14.99,0.0,44.97,pending,"""3289 Oak Dr, Apt 1""",Indianapolis,IN,46243,2024,12,44.97
+2619,2024-10-12,Laura Sanchez,laura.sanchez@icloud.com,8843634415,Streaming Mic Bundle,3,299.99,10.0,809.97,pending,1532 Oak Dr,Charlotte,NC,28239,2024,10,899.97
+1058,2024-07-31,Barbara Anderson,barbara.anderson@aol.com,9016155873,Laptop Cooler,3,39.99,20.0,95.98,refunded,596 Walnut Blvd,Indianapolis,IN,46292,2024,7,119.97
+23180,2023-10-07,George Smith,george.smith@gmail.com,6773904154,Monitor,1,299.99,0.0,299.99,cancelled,8766 Walnut Way,Seattle,WA,98119,2023,10,299.99
+25129,2024-12-31,Ashley Wilson,ashley.wilson@outlook.com,7983736201,Smart Plug 4-Pack,4,29.99,0.0,119.96,cancelled,2066 Pine St,Charlotte,NC,28274,2024,12,119.96
+16913,2024-12-31,Jennifer Smith,jennifer.smith@hotmail.com,8306366084,Cable Management Kit,1,14.99,0.0,14.99,pending,7994 Aspen Ct,Las Vegas,NV,89197,2024,12,14.99
+23353,2024-12-31,William Smith,william.smith@gmail.com,3683189864,Gaming Headset,1,89.99,0.0,89.99,completed,"""9706 Aspen Ct, Apt 15""",Charlotte,NC,28270,2024,12,89.99
+14180,2024-12-31,Carol Adams,carol.adams@icloud.com,17509719458,USB-C Cable,3,12.49,10.0,33.72,pending,1325 Pine Dr,Dallas,TX,75233,2024,12,37.47
+8101,2024-12-31,Emily Wright,emily.wright@hotmail.com,2618573474,Phone Case,3,19.99,15.0,50.97,completed,1900 Oak Ave,Minneapolis,MN,55432,2024,12,59.97
+15112,2024-12-31,Edward Turner,edward.turner@hotmail.com,5519832780,Mechanical Keyboard,3,129.99,15.0,331.47,refunded,3615 Aspen Blvd,Boston,MA,2145,2024,12,389.97
+15721,2023-03-19,Sarah Walker,sarah.walker@hotmail.com,9356369232,Phone Stand,1,15.99,20.0,12.79,cancelled,5245 Spruce St,Nashville,TN,37241,2023,3,15.99
+16344,2024-12-31,Jessica Martin,jessica.martin@outlook.com,7865669402,Noise Cancelling Headphones,2,249.99,15.0,424.98,pending,7249 Maple Rd,Philadelphia,PA,19120,2024,12,499.98
+23918,2023-05-01,Unknown Customer,n/a@placeholder.com,8425627522,"Laptop Sleeve 15""",3,29.99,0.0,89.97,shipped,1514 Main Dr,Las Vegas,NV,89127,2023,5,89.97
+19510,2024-12-31,John Allen,john.allen@hotmail.com,4452359713,Gaming Headset,2,89.99,0.0,179.98,refunded,6032 Pine Rd,Salt Lake City,UT,84116,2024,12,179.98
+25762,2024-12-31,Amy White,amy.white@gmail.com,13248451572,Gaming Headset,1,89.99,0.0,89.99,shipped,257 Main Rd,Portland,OR,97272,2024,12,89.99
+7203,2024-12-31,George Cook,george.cook@icloud.com,6925095219,Ergonomic Chair,3,349.99,5.0,997.47,completed,7684 Walnut St,Charlotte,NC,28253,2024,12,1049.97
+24832,2024-12-31,Donald Wilson,donald.wilson@gmail.com,,Cable Management Kit,2,14.99,0.0,29.98,shipped,6630 Main St,Dallas,TX,75280,2024,12,29.98
+17013,2024-12-31,Ashley Collins,ashley.collins@hotmail.com,3915169286,Standing Desk,4,599.99,0.0,2399.96,cancelled,7676 Aspen St,Columbus,OH,43212,2024,12,2399.96
+26035,2024-12-31,Anna Cook,anna.cook@hotmail.com,3222766824,Monitor,4,299.99,0.0,1199.96,cancelled,7710 Oak Way,Indianapolis,IN,46261,2024,12,1199.96
+16939,2024-12-31,Jessica White,jessica.white@yahoo.com,3322603500,Gaming Headset,1,89.99,0.0,89.99,completed,1380 Aspen Blvd,Indianapolis,IN,46236,2024,12,89.99
+13794,2024-12-31,Jeffrey Williams,jeffrey.williams@yahoo.com,18669585404,Webcam,1,89.99,10.0,80.99,pending,8303 Spruce Dr,Minneapolis,MN,55443,2024,12,89.99
+23377,2024-12-31,Timothy Nelson,timothy.nelson@aol.com,3696009256,Mouse Pad XL,1,24.99,15.0,21.24,cancelled,4665 Aspen Way,San Jose,CA,95194,2024,12,24.99
+20857,2024-12-31,Melissa Smith,melissa.smith@gmail.com,4265391721,Mechanical Keyboard,2,129.99,10.0,233.98,refunded,5596 Walnut Dr,Phoenix,AZ,85078,2024,12,259.98
+25262,2024-12-31,Susan Harris,susan.harris@aol.com,16944129393,Streaming Mic Bundle,2,299.99,20.0,479.98,shipped,5574 Main Ave,Dallas,TX,75275,2024,12,599.98
+11150,2024-12-31,Rebecca White,rebecca.white@icloud.com,4774111418,Desk Lamp,2,34.99,5.0,66.48,pending,6795 Maple Rd,Portland,OR,97241,2024,12,69.98
+3227,2024-12-31,Emily Morris,emily.morris@aol.com,,USB-C Cable,2,12.49,5.0,23.73,pending,247 Aspen Ct,Philadelphia,PA,19188,2024,12,24.98
+17969,2024-12-31,Barbara Johnson,barbara.johnson@aol.com,2439286412,"Laptop Sleeve 15""",3,29.99,10.0,80.97,pending,159 Walnut Ave,Chicago,IL,60680,2024,12,89.97
+4766,2024-12-31,Timothy Parker,timothy.parker@outlook.com,5736642669,Ring Light,2,79.99,15.0,135.98,cancelled,3136 Walnut Way,Salt Lake City,UT,84118,2024,12,159.98
+10664,2024-12-31,Patricia Jackson,patricia.jackson@hotmail.com,16088034934,Monitor,3,299.99,0.0,899.97,pending,"""994 Pine Ln, Apt 16""",Seattle,WA,98172,2024,12,899.97
+16906,2024-12-31,John Wright,john.wright@gmail.com,2697076335,USB Hub 7-Port,3,34.99,15.0,89.22,completed,1498 Spruce Ln,Atlanta,GA,30343,2024,12,104.97
+5296,2024-12-31,Eric Jackson,eric.jackson@outlook.com,15605253692,Keyboard Wrist Rest,3,19.99,0.0,59.97,shipped,1535 Birch Ln,Dallas,TX,75252,2024,12,59.97
+11581,2024-12-31,Eric Nelson,eric.nelson@hotmail.com,19559429137,Streaming Mic Bundle,1,299.99,5.0,284.99,refunded,8154 Pine Blvd,Charlotte,NC,28212,2024,12,299.99
+24103,2024-03-03,Rebecca White,rebecca.white@hotmail.com,7988542551,Blue Light Glasses,3,24.99,5.0,71.22,pending,2879 Oak Rd,Columbus,OH,43249,2024,3,74.97
+3195,2024-12-31,Lisa Taylor,lisa.taylor@yahoo.com,4357966604,USB-C Cable,3,12.49,20.0,29.98,cancelled,3830 Oak Rd,Chicago,IL,60612,2024,12,37.47
+10084,2024-01-31,Paul Garcia,paul.garcia@hotmail.com,8427393133,Phone Stand,4,15.99,0.0,63.96,cancelled,2693 Pine Blvd,Salt Lake City,UT,84157,2024,1,63.96
+7448,2024-12-31,Brian Martin,brian.martin@yahoo.com,5933134585,Cable Management Kit,3,14.99,0.0,44.97,shipped,6444 Oak Rd,Charlotte,NC,28238,2024,12,44.97
+4397,2024-02-10,Karen Wilson,karen.wilson@outlook.com,4192957848,Monitor,4,299.99,5.0,1139.96,cancelled,4197 Walnut Blvd,Denver,CO,80259,2024,2,1199.96
+20422,2024-08-25,George Clark,george.clark@hotmail.com,7306233274,Laptop Stand,4,45.0,5.0,171.0,shipped,2504 Birch Way,Denver,CO,80288,2024,8,180.0
+10740,2024-12-31,Unknown Customer,n/a@placeholder.com,2563655368,Portable Charger,3,49.99,15.0,127.47,pending,440 Elm Dr,San Diego,CA,92123,2024,12,149.97
+2880,2024-12-31,Anthony Anderson,anthony.anderson@aol.com,2688195872,Monitor,1,299.99,5.0,284.99,shipped,5567 Pine Ct,Phoenix,AZ,85080,2024,12,299.99
+4915,2024-12-31,Jessica Jones,jessica.jones@outlook.com,19808332037,Mechanical Keyboard,3,129.99,0.0,389.97,cancelled,"""548 Pine Blvd, Apt 8""",Miami,FL,33147,2024,12,389.97
+23173,2024-12-31,George Wilson,george.wilson@outlook.com,2298036658,4K Webcam,2,149.99,0.0,299.98,shipped,2030 Pine Way,Phoenix,AZ,85082,2024,12,299.98
+24163,2023-10-12,Ronald Wilson,ronald.wilson@outlook.com,19535197255,Ring Light,1,79.99,0.0,79.99,completed,6965 Oak Rd,Chicago,IL,60643,2023,10,79.99
+5210,2024-12-31,Linda Martinez,linda.martinez@outlook.com,8088462227,Webcam,2,89.99,0.0,179.98,completed,"""6168 Cedar Way, Apt 3""",Miami,FL,33110,2024,12,179.98
+18196,2024-12-31,Kevin Ramirez,kevin.ramirez@gmail.com,12762438681,Laptop Stand,1,45.0,15.0,38.25,pending,4428 Cedar Ct,Las Vegas,NV,89197,2024,12,45.0
+22308,2024-12-31,Lisa Adams,lisa.adams@icloud.com,Unknown,Laptop Cooler,2,39.99,0.0,79.98,refunded,5102 Pine Ct,Salt Lake City,UT,84167,2024,12,79.98
+14973,2024-12-31,Brenda Anderson,brenda.anderson@aol.com,5676237594,Mouse Pad XL,1,24.99,20.0,19.99,shipped,609 Spruce Blvd,Columbus,OH,43298,2024,12,24.99
+11156,2024-12-31,Timothy Jackson,timothy.jackson@hotmail.com,8037267180,Desk Lamp,3,34.99,5.0,99.72,cancelled,2362 Elm Way,Chicago,IL,60676,2024,12,104.97
+19496,2024-03-02,Anthony Hernandez,anthony.hernandez@gmail.com,8982461297,Gaming Headset,1,89.99,5.0,85.49,completed,9081 Oak Blvd,Indianapolis,IN,46231,2024,3,89.99
+14624,2024-12-31,Barbara Ramirez,barbara.ramirez@icloud.com,16482593772,Webcam,1,89.99,0.0,89.99,cancelled,8183 Cedar Ave,Austin,TX,78742,2024,12,89.99
+1193,2024-12-31,Susan Davis,susan.davis@aol.com,Unknown,Mouse Pad XL,3,24.99,5.0,71.22,refunded,1312 Maple St,Boston,MA,2158,2024,12,74.97
+1414,2024-12-31,Susan Taylor,susan.taylor@icloud.com,12477527177,Laptop Cooler,2,39.99,0.0,79.98,completed,5532 Main Way,Portland,OR,97214,2024,12,79.98
+12311,2024-12-31,Jennifer Thompson,jennifer.thompson@gmail.com,5616205292,Portable Charger,4,49.99,5.0,189.96,pending,2508 Oak Blvd,San Diego,CA,92195,2024,12,199.96
+4256,2024-12-31,Angela Carter,angela.carter@gmail.com,9582494670,Phone Case,2,19.99,15.0,33.98,shipped,7848 Pine Rd,Seattle,WA,98137,2024,12,39.98
+18128,2024-12-31,Melissa Martinez,melissa.martinez@icloud.com,17532094523,Microphone,1,199.99,10.0,179.99,cancelled,5963 Elm Blvd,Austin,TX,78774,2024,12,199.99
+13412,2024-08-06,William Miller,william.miller@aol.com,2807934239,"Laptop Sleeve 15""",4,29.99,0.0,119.96,refunded,5564 Walnut Dr,Charlotte,NC,28215,2024,8,119.96
+7644,2024-12-31,Emily Williams,emily.williams@outlook.com,,Standing Desk,1,599.99,20.0,479.99,pending,9811 Cedar Ln,Las Vegas,NV,89114,2024,12,599.99
+5519,2023-09-19,Robert Collins,robert.collins@aol.com,3772715754,Wireless Headphones,4,79.99,20.0,255.97,cancelled,8883 Walnut Ct,Minneapolis,MN,55498,2023,9,319.96
+5469,2024-12-31,Mark Taylor,mark.taylor@yahoo.com,5035744293,Phone Case,2,19.99,0.0,39.98,completed,8047 Elm Blvd,Miami,FL,33169,2024,12,39.98
+25240,2024-12-31,Richard Mitchell,richard.mitchell@hotmail.com,5644405445,Desk Lamp,3,34.99,15.0,89.22,cancelled,6402 Spruce Blvd,Miami,FL,33193,2024,12,104.97
+2143,2024-12-31,Michelle Martinez,michelle.martinez@outlook.com,14595624245,Microphone,4,199.99,0.0,799.96,refunded,"""1749 Pine Ave, Apt 1""",Dallas,TX,75242,2024,12,799.96
+6263,2024-12-31,John Turner,john.turner@hotmail.com,8108102135,Wireless Mouse,4,39.99,15.0,135.97,pending,"""7566 Maple Blvd, Apt 14""",Boston,MA,2115,2024,12,159.96
+5672,2024-12-31,Sharon Lewis,sharon.lewis@aol.com,12388878647,Laptop Stand,2,45.0,0.0,90.0,pending,3222 Birch Rd,Portland,OR,97219,2024,12,90.0
+12613,2024-12-31,Melissa Reed,melissa.reed@outlook.com,7169701833,"Laptop Sleeve 15""",1,29.99,10.0,26.99,cancelled,3639 Walnut St,Chicago,IL,60692,2024,12,29.99
+4500,2024-12-31,Barbara Taylor,barbara.taylor@gmail.com,6637555526,Noise Cancelling Headphones,4,249.99,10.0,899.96,cancelled,7878 Pine Dr,Salt Lake City,UT,84195,2024,12,999.96
+8076,2024-12-31,William Sanchez,william.sanchez@gmail.com,8659155560,Monitor,4,299.99,20.0,959.97,pending,5816 Main Ln,Minneapolis,MN,55461,2024,12,1199.96
+21356,2024-02-26,Kevin Hill,kevin.hill@outlook.com,5074316005,Cable Management Kit,1,14.99,20.0,11.99,pending,111 Spruce Way,Philadelphia,PA,19175,2024,2,14.99
+2362,2024-12-31,Jonathan Reed,jonathan.reed@outlook.com,Unknown,"Laptop Sleeve 15""",4,29.99,5.0,113.96,cancelled,2871 Pine Blvd,Salt Lake City,UT,84161,2024,12,119.96
+1951,2024-12-31,Angela Davis,angela.davis@icloud.com,19436977704,Phone Stand,4,15.99,0.0,63.96,pending,2151 Cedar Ct,Miami,FL,33194,2024,12,63.96
+25541,2024-12-31,Brenda Johnson,brenda.johnson@icloud.com,5163653293,Keyboard Wrist Rest,3,19.99,20.0,47.98,cancelled,2960 Birch Ave,Portland,OR,97267,2024,12,59.97
+27379,2024-12-31,Richard Nelson,richard.nelson@hotmail.com,7745878137,Desk Lamp,3,34.99,0.0,104.97,completed,5481 Aspen Ave,San Diego,CA,92191,2024,12,104.97
+16378,2024-12-31,Dorothy Thomas,dorothy.thomas@gmail.com,5284624542,Noise Cancelling Headphones,1,249.99,15.0,212.49,pending,2500 Walnut Ave,Denver,CO,80273,2024,12,249.99
+23253,2024-12-31,Lisa Sanchez,lisa.sanchez@aol.com,18636058490,Laptop Cooler,4,39.99,20.0,127.97,cancelled,2166 Maple St,Las Vegas,NV,89144,2024,12,159.96
+17468,2024-12-31,Sharon Sanchez,sharon.sanchez@aol.com,2903041846,Monitor,3,299.99,15.0,764.97,pending,1485 Maple Ct,San Diego,CA,92197,2024,12,899.97
+10932,2023-03-01,Unknown Customer,robert.white@gmail.com,6168511714,Laptop Stand,1,45.0,20.0,36.0,shipped,"""1421 Aspen Ln, Apt 18""",San Diego,CA,92161,2023,3,45.0
+23022,2024-12-31,Sharon Nguyen,sharon.nguyen@icloud.com,17716568378,Cable Organizer,4,12.99,10.0,46.76,refunded,8026 Spruce Ct,Austin,TX,78721,2024,12,51.96
+7702,2024-12-31,Michael Lewis,michael.lewis@aol.com,Unknown,Ergonomic Chair,4,349.99,20.0,1119.97,refunded,9947 Birch Ave,Minneapolis,MN,55476,2024,12,1399.96
+26932,2023-05-12,Edward Scott,edward.scott@yahoo.com,19348504026,Cable Management Kit,2,14.99,0.0,29.98,completed,8929 Pine Ln,Miami,FL,33166,2023,5,29.98
+15581,2024-12-31,Amy Stewart,amy.stewart@hotmail.com,9499113850,Desk Lamp,2,34.99,10.0,62.98,completed,9425 Aspen St,Miami,FL,33121,2024,12,69.98
+5710,2024-12-31,Jessica Smith,unknown@email.com,9529717278,Smart Plug 4-Pack,2,29.99,20.0,47.98,pending,1840 Pine Blvd,Dallas,TX,75243,2024,12,59.98
+24217,2023-09-17,Anthony Wright,anthony.wright@hotmail.com,4852781536,"Laptop Sleeve 15""",2,29.99,20.0,47.98,pending,828 Aspen Way,San Jose,CA,95172,2023,9,59.98
+13090,2024-12-31,Amanda Brown,amanda.brown@outlook.com,9949652973,Noise Cancelling Headphones,4,249.99,0.0,999.96,completed,9060 Pine St,San Jose,CA,95157,2024,12,999.96
+11466,2024-12-31,Patricia Thomas,patricia.thomas@hotmail.com,8548581389,Webcam,4,89.99,15.0,305.97,refunded,2262 Aspen Way,San Diego,CA,92144,2024,12,359.96
+2001,2024-12-31,James Wright,james.wright@icloud.com,,Microphone,4,199.99,10.0,719.96,cancelled,5894 Birch Ln,Boston,MA,2147,2024,12,799.96
+3838,2024-12-31,Jacob Reed,jacob.reed@hotmail.com,9949133276,USB Hub 7-Port,3,34.99,0.0,104.97,pending,5249 Oak Way,Seattle,WA,98183,2024,12,104.97
+1073,2024-12-31,Stephanie Jackson,stephanie.jackson@hotmail.com,2154164113,Standing Desk,1,599.99,5.0,569.99,shipped,9726 Spruce Dr,Nashville,TN,37271,2024,12,599.99
+6433,2024-12-31,Ronald Martinez,ronald.martinez@gmail.com,9983279527,Microphone,2,199.99,20.0,319.98,completed,1266 Elm Ct,Las Vegas,NV,89185,2024,12,399.98
+15229,2024-12-31,Amanda Miller,amanda.miller@outlook.com,2636223130,Wireless Headphones,1,79.99,0.0,79.99,pending,3782 Birch Dr,Minneapolis,MN,55496,2024,12,79.99
+6693,2024-12-03,Charles Lee,charles.lee@gmail.com,6525807982,Phone Case,1,19.99,20.0,15.99,refunded,6345 Spruce Ct,Las Vegas,NV,89175,2024,12,19.99
+12057,2024-12-31,Unknown Customer,edward.baker@icloud.com,7035275548,Monitor,4,299.99,0.0,1199.96,shipped,6527 Walnut Ct,Seattle,WA,98186,2024,12,1199.96
+9705,2024-12-31,Amy Young,amy.young@gmail.com,8163657957,Blue Light Glasses,4,24.99,0.0,99.96,shipped,5988 Aspen Way,Atlanta,GA,30338,2024,12,99.96
+22142,2024-12-31,Melissa Brown,melissa.brown@icloud.com,12023823274,Ergonomic Chair,1,349.99,0.0,349.99,pending,7380 Elm St,Nashville,TN,37255,2024,12,349.99
+12976,2024-12-31,Emily Garcia,emily.garcia@gmail.com,5455279005,Blue Light Glasses,3,24.99,0.0,74.97,pending,9703 Maple St,Austin,TX,78723,2024,12,74.97
+16154,2024-12-31,Gary Hernandez,gary.hernandez@gmail.com,,Mouse Pad XL,3,24.99,0.0,74.97,pending,1715 Maple Dr,San Jose,CA,95124,2024,12,74.97
+24098,2024-12-31,Daniel Scott,daniel.scott@outlook.com,4365152678,Microphone,4,199.99,20.0,639.97,cancelled,9409 Pine Blvd,Austin,TX,78758,2024,12,799.96
+21265,2024-12-31,James Ramirez,james.ramirez@aol.com,3544103678,Laptop Stand,2,45.0,15.0,76.5,refunded,752 Cedar Ct,Las Vegas,NV,89176,2024,12,90.0
+11348,2024-12-31,Unknown Customer,brian.scott@icloud.com,8708291486,Mouse Pad XL,1,24.99,0.0,24.99,pending,2995 Maple Rd,Denver,CO,80245,2024,12,24.99
+1719,2024-12-31,Kevin Stewart,kevin.stewart@hotmail.com,4899292526,Wireless Headphones,3,79.99,0.0,239.97,completed,3347 Birch Ave,Austin,TX,78711,2024,12,239.96999999999997
+23810,2024-12-31,Edward Garcia,edward.garcia@gmail.com,6624324453,Streaming Mic Bundle,4,299.99,10.0,1079.96,completed,1965 Aspen Way,Indianapolis,IN,46224,2024,12,1199.96
+4776,2024-12-31,Kevin Young,kevin.young@gmail.com,7325163161,Mouse Pad XL,3,24.99,0.0,74.97,pending,2053 Aspen Dr,Dallas,TX,75213,2024,12,74.97
+11202,2024-12-31,Matthew Anderson,matthew.anderson@hotmail.com,18527061166,Monitor Arm,1,89.99,0.0,89.99,pending,9373 Aspen Way,Seattle,WA,98149,2024,12,89.99
+3740,2024-12-31,Jacob Anderson,jacob.anderson@gmail.com,15455268952,Streaming Mic Bundle,3,299.99,0.0,899.97,refunded,2276 Spruce Dr,Boston,MA,2141,2024,12,899.97
+2333,2024-12-31,Deborah Moore,deborah.moore@outlook.com,4458714399,Phone Stand,2,15.99,5.0,30.38,shipped,1493 Elm Ln,Dallas,TX,75223,2024,12,31.98
+11744,2024-02-21,Jessica Harris,jessica.harris@aol.com,8618912401,Ring Light,3,79.99,0.0,239.97,refunded,865 Elm Ave,Dallas,TX,75260,2024,2,239.96999999999997
+19688,2024-12-31,Jessica Collins,jessica.collins@outlook.com,3889901820,Cable Management Kit,4,14.99,0.0,59.96,refunded,1496 Elm Rd,Boston,MA,2124,2024,12,59.96
+17805,2024-04-05,Laura Walker,laura.walker@aol.com,2895542630,Wireless Headphones,1,79.99,5.0,75.99,refunded,3185 Birch Ln,Chicago,IL,60699,2024,4,79.99
+2686,2024-12-31,Michael Torres,unknown@email.com,6068769575,Smart Plug 4-Pack,1,29.99,10.0,26.99,cancelled,7753 Birch Dr,Phoenix,AZ,85086,2024,12,29.99
+5428,2024-02-23,Melissa Walker,melissa.walker@gmail.com,,USB-C Cable,3,12.49,0.0,37.47,completed,"""5000 Main Way, Apt 18""",Salt Lake City,UT,84190,2024,2,37.47
+13428,2024-01-17,Ryan Miller,ryan.miller@yahoo.com,18987423885,Ring Light,3,79.99,0.0,239.97,refunded,6279 Maple St,Boston,MA,2110,2024,1,239.96999999999997
+21674,2024-12-31,Gary Parker,gary.parker@outlook.com,7675384581,Ring Light,2,79.99,0.0,159.98,refunded,5593 Maple Way,Atlanta,GA,30354,2024,12,159.98
+25145,2024-12-31,James Mitchell,james.mitchell@outlook.com,3423968900,Wireless Headphones,2,79.99,10.0,143.98,completed,4161 Cedar Ln,San Jose,CA,95154,2024,12,159.98
+13784,2024-12-31,Jason Williams,jason.williams@outlook.com,12647067319,Desk Lamp,4,34.99,0.0,139.96,pending,4198 Pine Blvd,San Jose,CA,95143,2024,12,139.96
+12629,2024-12-31,James Taylor,james.taylor@gmail.com,6904333518,Ergonomic Chair,3,349.99,5.0,997.47,cancelled,4600 Spruce Ln,Miami,FL,33168,2024,12,1049.97
+11704,2024-12-31,Linda Clark,linda.clark@gmail.com,5739153189,Cable Management Kit,4,14.99,0.0,59.96,shipped,9230 Walnut Ave,Miami,FL,33116,2024,12,59.96
+27034,2024-12-31,Emma Baker,emma.baker@hotmail.com,5532745464,Cable Organizer,4,12.99,0.0,51.96,pending,5923 Oak Dr,Austin,TX,78744,2024,12,51.96
+26343,2024-12-31,Robert Hernandez,robert.hernandez@yahoo.com,,Cable Organizer,2,12.99,0.0,25.98,cancelled,5775 Walnut Ave,Charlotte,NC,28242,2024,12,25.98
+27333,2024-12-31,William Jones,william.jones@hotmail.com,5622745065,Portable Charger,3,49.99,5.0,142.47,shipped,7775 Walnut Ct,San Jose,CA,95180,2024,12,149.97
+12640,2024-05-04,Barbara Hernandez,barbara.hernandez@yahoo.com,4133509938,Laptop Stand,2,45.0,0.0,90.0,completed,1137 Main Way,Minneapolis,MN,55425,2024,5,90.0
+8775,2024-12-31,Paul Lee,paul.lee@yahoo.com,6422133557,Phone Stand,3,15.99,0.0,47.97,cancelled,205 Maple Ave,Atlanta,GA,30399,2024,12,47.97
+19573,2024-12-31,Angela Taylor,angela.taylor@gmail.com,7303005553,HDMI Cable 6ft,3,9.99,5.0,28.47,completed,6064 Main Ct,Philadelphia,PA,19164,2024,12,29.97
+21950,2024-09-08,Patricia Nguyen,patricia.nguyen@icloud.com,6929103712,Streaming Mic Bundle,3,299.99,0.0,899.97,cancelled,9530 Maple Ln,Boston,MA,2190,2024,9,899.97
+13415,2024-05-30,Ashley Nguyen,ashley.nguyen@hotmail.com,4159413424,Phone Stand,1,15.99,10.0,14.39,pending,6945 Oak Rd,Seattle,WA,98157,2024,5,15.99
+21886,2024-12-31,Unknown Customer,sarah.lewis@gmail.com,5579808511,Microphone,4,199.99,15.0,679.97,pending,667 Aspen Ln,Columbus,OH,43249,2024,12,799.96
+15790,2024-12-31,Unknown Customer,n/a@placeholder.com,3549615848,Noise Cancelling Headphones,2,249.99,5.0,474.98,cancelled,"""7881 Maple Way, Apt 5""",Minneapolis,MN,55490,2024,12,499.98
+6890,2024-01-03,William Stewart,william.stewart@hotmail.com,3876503620,Laptop Cooler,2,39.99,5.0,75.98,pending,9439 Cedar Ave,Boston,MA,2199,2024,1,79.98
+12095,2024-12-31,Patricia Nguyen,patricia.nguyen@gmail.com,14228492174,Ring Light,4,79.99,20.0,255.97,refunded,5519 Main Ct,San Jose,CA,95144,2024,12,319.96
+16338,2024-12-31,Richard Taylor,richard.taylor@hotmail.com,16684558004,Keyboard Wrist Rest,4,19.99,5.0,75.96,refunded,9269 Pine St,Columbus,OH,43271,2024,12,79.96
+7162,2024-12-31,Timothy Stewart,timothy.stewart@outlook.com,7605936180,Wireless Mouse,2,39.99,20.0,63.98,pending,7803 Maple St,Nashville,TN,37286,2024,12,79.98
+21277,2024-12-31,Lisa Perez,lisa.perez@hotmail.com,Unknown,Phone Stand,2,15.99,10.0,28.78,refunded,6315 Cedar Ave,Columbus,OH,43250,2024,12,31.98
+25211,2024-12-31,Gary Nelson,gary.nelson@yahoo.com,8389777591,Laptop Cooler,2,39.99,15.0,67.98,refunded,1274 Pine St,Miami,FL,33153,2024,12,79.98
+2306,2024-12-31,Jennifer Reed,jennifer.reed@hotmail.com,5538989195,Laptop Stand,4,45.0,0.0,180.0,cancelled,4440 Maple Ave,Salt Lake City,UT,84157,2024,12,180.0
+17359,2024-12-31,George Morris,george.morris@hotmail.com,9853285374,Streaming Mic Bundle,3,299.99,15.0,764.97,shipped,8287 Maple Ave,Chicago,IL,60647,2024,12,899.97
+12914,2024-12-31,Daniel Adams,daniel.adams@yahoo.com,17496799607,Desk Lamp,1,34.99,0.0,34.99,shipped,6278 Spruce St,Phoenix,AZ,85070,2024,12,34.99
+11381,2024-12-31,Mary Nguyen,mary.nguyen@hotmail.com,9548835624,Ergonomic Chair,1,349.99,0.0,349.99,refunded,9886 Pine Ct,Charlotte,NC,28260,2024,12,349.99
+23495,2023-07-11,Michael King,michael.king@yahoo.com,,Desk Lamp,1,34.99,15.0,29.74,shipped,4883 Maple Ct,Columbus,OH,43241,2023,7,34.99
+26676,2024-02-09,Timothy Garcia,timothy.garcia@hotmail.com,5387368861,Streaming Mic Bundle,2,299.99,0.0,599.98,refunded,583 Oak Ln,Phoenix,AZ,85037,2024,2,599.98
+2913,2024-12-31,Amy Wright,amy.wright@aol.com,,Cable Organizer,2,12.99,5.0,24.68,refunded,9834 Oak Blvd,Columbus,OH,43265,2024,12,25.98
+24324,2024-12-31,Sarah Scott,sarah.scott@icloud.com,,Monitor,3,299.99,0.0,899.97,pending,3591 Walnut Ave,Seattle,WA,98121,2024,12,899.97
+17093,2024-12-31,Ashley Martin,ashley.martin@aol.com,19308201407,Mechanical Keyboard,2,129.99,20.0,207.98,refunded,1413 Aspen Ct,Austin,TX,78790,2024,12,259.98
+25899,2024-12-31,Gary Evans,gary.evans@hotmail.com,Unknown,Portable Charger,2,49.99,10.0,89.98,cancelled,2302 Aspen St,San Jose,CA,95137,2024,12,99.98
+23917,2024-12-31,Barbara Mitchell,barbara.mitchell@gmail.com,7686451752,Standing Desk,1,599.99,0.0,599.99,pending,9971 Main Way,Las Vegas,NV,89181,2024,12,599.99
+19708,2024-12-31,Ruth Jones,ruth.jones@icloud.com,6039723924,Ergonomic Chair,3,349.99,10.0,944.97,pending,7935 Maple Ln,Indianapolis,IN,46264,2024,12,1049.97
+3757,2024-12-31,Dorothy Anderson,dorothy.anderson@outlook.com,8159637076,Microphone,4,199.99,0.0,799.96,cancelled,3180 Birch Ave,Miami,FL,33144,2024,12,799.96
+9846,2024-12-31,Unknown Customer,mary.evans@yahoo.com,14133124899,Portable Charger,3,49.99,5.0,142.47,shipped,1786 Aspen Way,San Diego,CA,92196,2024,12,149.97
+27201,2024-12-31,Jonathan Smith,jonathan.smith@icloud.com,2018877485,Mechanical Keyboard,3,129.99,10.0,350.97,completed,1359 Spruce Blvd,Salt Lake City,UT,84182,2024,12,389.97
+21999,2024-12-31,George Turner,george.turner@icloud.com,7478066759,Ring Light,3,79.99,0.0,239.97,cancelled,2886 Aspen Ln,Austin,TX,78784,2024,12,239.96999999999997
+26960,2024-12-31,Sharon Nelson,sharon.nelson@aol.com,5447497008,Cable Management Kit,2,14.99,0.0,29.98,cancelled,7382 Birch Rd,Denver,CO,80263,2024,12,29.98
+7827,2024-07-16,Ronald Garcia,ronald.garcia@hotmail.com,7165692986,Ergonomic Chair,3,349.99,0.0,1049.97,completed,4612 Birch Dr,Austin,TX,78755,2024,7,1049.97
+18017,2024-12-31,Pamela Wright,pamela.wright@icloud.com,9328471600,Monitor,4,299.99,0.0,1199.96,pending,731 Walnut Way,Salt Lake City,UT,84193,2024,12,1199.96
+26630,2024-12-31,Angela Hill,angela.hill@aol.com,4126021530,Noise Cancelling Headphones,1,249.99,0.0,249.99,shipped,"""6094 Aspen Ct, Apt 3""",Charlotte,NC,28285,2024,12,249.99
+11403,2024-12-31,Donald Rogers,donald.rogers@outlook.com,Unknown,Blue Light Glasses,4,24.99,5.0,94.96,refunded,3551 Birch Way,Nashville,TN,37248,2024,12,99.96
+9419,2024-12-31,Thomas Baker,thomas.baker@icloud.com,3209103867,HDMI Cable 6ft,4,9.99,10.0,35.96,completed,6589 Walnut Ct,Salt Lake City,UT,84179,2024,12,39.96
+25847,2024-12-31,Donald Mitchell,donald.mitchell@outlook.com,6407953744,Gaming Headset,3,89.99,0.0,269.97,pending,3729 Aspen Blvd,Indianapolis,IN,46282,2024,12,269.96999999999997
+20536,2024-12-31,George Stewart,george.stewart@aol.com,2138374568,Mechanical Keyboard,1,129.99,0.0,129.99,pending,6476 Birch Dr,Denver,CO,80243,2024,12,129.99
+2224,2024-12-01,Dorothy Harris,dorothy.harris@gmail.com,6702317800,Streaming Mic Bundle,1,299.99,15.0,254.99,shipped,6385 Main Ave,Denver,CO,80284,2024,12,299.99
+15108,2024-07-10,Stephanie Rogers,stephanie.rogers@outlook.com,2673019931,"Laptop Sleeve 15""",2,29.99,0.0,59.98,completed,8817 Pine Blvd,San Jose,CA,95127,2024,7,59.98
+10476,2024-12-31,Carol Lewis,carol.lewis@yahoo.com,8293646176,Webcam,1,89.99,5.0,85.49,completed,6018 Spruce Dr,Philadelphia,PA,19198,2024,12,89.99
+16993,2024-12-31,Ashley Garcia,ashley.garcia@yahoo.com,4093526125,"Laptop Sleeve 15""",2,29.99,20.0,47.98,completed,2357 Elm Blvd,San Jose,CA,95193,2024,12,59.98
+26790,2024-12-31,Michael Parker,michael.parker@hotmail.com,2365815761,Wireless Headphones,2,79.99,0.0,159.98,completed,358 Cedar St,Indianapolis,IN,46266,2024,12,159.98
+9648,2024-12-31,Matthew Collins,matthew.collins@gmail.com,8205014566,Ring Light,3,79.99,0.0,239.97,pending,9664 Birch St,Dallas,TX,75227,2024,12,239.96999999999997
+26640,2023-02-12,Pamela Miller,pamela.miller@aol.com,9172234587,Noise Cancelling Headphones,2,249.99,10.0,449.98,pending,5088 Maple Blvd,Miami,FL,33169,2023,2,499.98
+3485,2024-12-31,Laura Nelson,laura.nelson@yahoo.com,3147183455,Gaming Headset,1,89.99,15.0,76.49,completed,571 Elm Dr,Dallas,TX,75216,2024,12,89.99
+9272,2024-12-31,Michelle Brown,michelle.brown@aol.com,13348601649,Noise Cancelling Headphones,2,249.99,10.0,449.98,cancelled,2316 Maple Blvd,San Jose,CA,95166,2024,12,499.98
+14414,2024-12-31,Unknown Customer,melissa.rogers@outlook.com,3723364753,Webcam,4,89.99,5.0,341.96,completed,6390 Main Ct,Seattle,WA,98197,2024,12,359.96
+2056,2024-12-31,Unknown Customer,ryan.garcia@yahoo.com,9624312785,USB Hub 7-Port,3,34.99,0.0,104.97,completed,2124 Main Ave,Seattle,WA,98128,2024,12,104.97
+11293,2024-12-31,Jennifer Evans,jennifer.evans@outlook.com,Unknown,4K Webcam,3,149.99,0.0,449.97,shipped,8764 Birch Ln,Philadelphia,PA,19167,2024,12,449.97
+4362,2024-12-31,Donald King,donald.king@aol.com,13309291404,Noise Cancelling Headphones,1,249.99,20.0,199.99,cancelled,"""9233 Oak Ct, Apt 15""",Denver,CO,80272,2024,12,249.99
+13527,2024-12-31,Michelle Parker,michelle.parker@outlook.com,2163164231,Gaming Headset,1,89.99,0.0,89.99,refunded,5885 Birch St,Austin,TX,78775,2024,12,89.99
+7863,2024-12-31,Deborah Scott,deborah.scott@gmail.com,18535942559,Smart Plug 4-Pack,1,29.99,0.0,29.99,shipped,9606 Aspen Dr,Philadelphia,PA,19122,2024,12,29.99
+2140,2024-12-31,David Parker,david.parker@outlook.com,2877465509,Noise Cancelling Headphones,2,249.99,15.0,424.98,pending,9453 Aspen Blvd,San Jose,CA,95144,2024,12,499.98
+20112,2024-12-31,Jonathan Miller,jonathan.miller@gmail.com,6048578239,HDMI Cable 6ft,4,9.99,0.0,39.96,shipped,"""1698 Pine Blvd, Apt 5""",Minneapolis,MN,55439,2024,12,39.96
+4393,2024-12-31,David Adams,david.adams@aol.com,13338708722,Streaming Mic Bundle,2,299.99,0.0,599.98,pending,8926 Pine Dr,Boston,MA,2131,2024,12,599.98
+8272,2024-12-31,Dorothy Parker,dorothy.parker@yahoo.com,7147316570,Desk Lamp,4,34.99,0.0,139.96,refunded,866 Elm Rd,Miami,FL,33195,2024,12,139.96
+22680,2024-12-31,George Smith,george.smith@yahoo.com,2937499837,Noise Cancelling Headphones,3,249.99,20.0,599.98,pending,6095 Cedar Way,Columbus,OH,43235,2024,12,749.97
+23089,2024-12-31,Robert Collins,robert.collins@hotmail.com,5677164141,USB-C Cable,4,12.49,0.0,49.96,completed,2224 Maple Rd,San Diego,CA,92148,2024,12,49.96
+25571,2024-12-31,Karen Lewis,karen.lewis@icloud.com,13057184622,Monitor Arm,3,89.99,0.0,269.97,completed,"""4954 Walnut St, Apt 15""",Columbus,OH,43295,2024,12,269.96999999999997
+25168,2024-12-31,Rebecca Turner,rebecca.turner@yahoo.com,2335387526,Ergonomic Chair,1,349.99,0.0,349.99,refunded,5616 Elm Ln,Boston,MA,2179,2024,12,349.99
+18539,2024-12-31,Jacob Williams,jacob.williams@gmail.com,5555109109,Monitor Arm,3,89.99,15.0,229.47,refunded,1730 Aspen Dr,Indianapolis,IN,46236,2024,12,269.96999999999997
+25523,2024-12-31,Stephanie Johnson,stephanie.johnson@yahoo.com,8109392588,Monitor Arm,3,89.99,0.0,269.97,refunded,5576 Oak Ave,Charlotte,NC,28263,2024,12,269.96999999999997
+18496,2024-12-31,Thomas Miller,thomas.miller@yahoo.com,2366543972,Desk Lamp,4,34.99,15.0,118.97,pending,7512 Elm Rd,Dallas,TX,75257,2024,12,139.96
+16037,2024-12-31,Mary Robinson,mary.robinson@hotmail.com,5404127343,Wireless Mouse,3,39.99,10.0,107.97,pending,4401 Aspen Ct,Dallas,TX,75212,2024,12,119.97
+4537,2024-02-20,Eric Stewart,eric.stewart@yahoo.com,4568825687,Desk Lamp,1,34.99,0.0,34.99,pending,7031 Spruce Ave,San Jose,CA,95194,2024,2,34.99
+27871,2023-03-10,Jacob Smith,jacob.smith@outlook.com,6343574751,Standing Desk,2,599.99,15.0,1019.98,shipped,3452 Aspen St,Salt Lake City,UT,84135,2023,3,1199.98
+11763,2024-05-13,Brian Turner,unknown@email.com,Unknown,Portable Charger,3,49.99,5.0,142.47,pending,1103 Cedar Dr,Charlotte,NC,28264,2024,5,149.97
+17637,2024-12-31,Robert Clark,robert.clark@aol.com,,HDMI Cable 6ft,2,9.99,0.0,19.98,refunded,3148 Oak Rd,Charlotte,NC,28220,2024,12,19.98
+12810,2024-12-31,Amy Morris,amy.morris@gmail.com,,Noise Cancelling Headphones,2,249.99,0.0,499.98,cancelled,3748 Cedar Rd,Boston,MA,2164,2024,12,499.98
+3126,2024-12-31,William Garcia,william.garcia@hotmail.com,4926367104,Phone Stand,4,15.99,20.0,51.17,shipped,8464 Walnut St,Salt Lake City,UT,84114,2024,12,63.96
+4806,2024-12-31,Amanda Ramirez,amanda.ramirez@yahoo.com,7704135606,Desk Lamp,1,34.99,0.0,34.99,cancelled,2653 Oak Ave,Dallas,TX,75211,2024,12,34.99
+6607,2024-12-31,Brian Clark,brian.clark@hotmail.com,9873578393,Cable Organizer,4,12.99,0.0,51.96,shipped,4100 Maple Ct,Salt Lake City,UT,84143,2024,12,51.96
+22923,2024-12-31,Dorothy Miller,dorothy.miller@aol.com,4436919694,USB Hub 7-Port,2,34.99,0.0,69.98,cancelled,7540 Spruce Ct,Denver,CO,80213,2024,12,69.98
+27044,2024-12-31,Mark Mitchell,unknown@email.com,5172004616,Blue Light Glasses,4,24.99,0.0,99.96,cancelled,8289 Aspen Way,Miami,FL,33115,2024,12,99.96
+26585,2024-12-31,Joseph Reed,joseph.reed@outlook.com,17849167501,Streaming Mic Bundle,2,299.99,15.0,509.98,refunded,6059 Pine Dr,Seattle,WA,98148,2024,12,599.98
+12443,2023-09-26,Charles Cook,charles.cook@hotmail.com,5545211449,"Laptop Sleeve 15""",2,29.99,0.0,59.98,completed,1917 Pine Ave,Indianapolis,IN,46261,2023,9,59.98
+27267,2024-12-31,Pamela Turner,unknown@email.com,2839767016,Laptop Cooler,1,39.99,0.0,39.99,completed,9173 Maple Ct,Nashville,TN,37264,2024,12,39.99
+14399,2023-07-01,Charles Williams,charles.williams@gmail.com,8657016420,Phone Stand,3,15.99,10.0,43.17,shipped,7637 Spruce Ct,Minneapolis,MN,55475,2023,7,47.97
+9355,2024-12-31,Sharon Sanchez,unknown@email.com,Unknown,Ring Light,2,79.99,0.0,159.98,pending,5756 Walnut Ct,Salt Lake City,UT,84157,2024,12,159.98
+10216,2024-12-31,Nicholas Hernandez,nicholas.hernandez@gmail.com,5076766175,USB Hub 7-Port,1,34.99,0.0,34.99,shipped,6565 Birch Dr,Salt Lake City,UT,84157,2024,12,34.99
+3161,2024-12-31,Laura Wright,laura.wright@gmail.com,8735806279,USB-C Cable,4,12.49,10.0,44.96,completed,2944 Maple Way,Salt Lake City,UT,84115,2024,12,49.96
+24117,2024-12-31,Stephanie Harris,stephanie.harris@aol.com,9582867159,Laptop Cooler,2,39.99,20.0,63.98,pending,4100 Main Ct,Minneapolis,MN,55456,2024,12,79.98
+7070,2024-12-31,Daniel Allen,daniel.allen@icloud.com,4788905744,USB-C Cable,2,12.49,20.0,19.98,cancelled,9906 Oak Dr,Boston,MA,2140,2024,12,24.98
+12031,2024-12-31,Edward Martin,edward.martin@hotmail.com,17886158430,4K Webcam,2,149.99,15.0,254.98,cancelled,7492 Oak Rd,Seattle,WA,98148,2024,12,299.98
+11206,2024-12-31,Anna Allen,anna.allen@gmail.com,17248442129,Desk Lamp,3,34.99,0.0,104.97,completed,7690 Birch Dr,Dallas,TX,75299,2024,12,104.97
+26407,2024-12-31,Donald White,donald.white@yahoo.com,7722484454,Cable Management Kit,2,14.99,10.0,26.98,cancelled,8367 Walnut Ave,San Jose,CA,95119,2024,12,29.98
+20626,2024-12-31,Gary Carter,unknown@email.com,3755277326,Ring Light,2,79.99,20.0,127.98,refunded,5530 Main Rd,San Jose,CA,95150,2024,12,159.98
+2907,2024-12-31,Edward Robinson,unknown@email.com,12489391476,Portable Charger,4,49.99,15.0,169.97,cancelled,9046 Oak St,Salt Lake City,UT,84121,2024,12,199.96
+25547,2024-12-31,Joseph Clark,joseph.clark@icloud.com,8937012133,Phone Stand,4,15.99,5.0,60.76,refunded,6191 Cedar Ln,Salt Lake City,UT,84161,2024,12,63.96
+24959,2024-12-31,Lisa Hernandez,lisa.hernandez@icloud.com,6443263496,USB-C Cable,2,12.49,0.0,24.98,completed,7124 Pine Ln,Denver,CO,80280,2024,12,24.98
+10401,2024-12-31,Emma King,emma.king@yahoo.com,8012874269,Blue Light Glasses,4,24.99,0.0,99.96,completed,1425 Aspen Ct,Philadelphia,PA,19199,2024,12,99.96
+9927,2024-12-31,Ronald Martinez,unknown@email.com,Unknown,Noise Cancelling Headphones,2,249.99,0.0,499.98,completed,7044 Elm Way,Minneapolis,MN,55428,2024,12,499.98
+14080,2024-12-31,Mary Evans,mary.evans@outlook.com,5179611849,Mechanical Keyboard,4,129.99,20.0,415.97,completed,3440 Oak Ave,Atlanta,GA,30313,2024,12,519.96
+23998,2024-12-31,Ashley Morris,ashley.morris@gmail.com,8092109521,Webcam,1,89.99,5.0,85.49,shipped,8936 Oak Blvd,Salt Lake City,UT,84189,2024,12,89.99
+4367,2024-12-31,Robert Hill,robert.hill@aol.com,4784382743,Mechanical Keyboard,4,129.99,20.0,415.97,completed,7070 Main Ave,Minneapolis,MN,55439,2024,12,519.96
+25801,2024-12-31,Gary Hernandez,gary.hernandez@aol.com,,HDMI Cable 6ft,1,9.99,0.0,9.99,pending,7546 Main Blvd,Charlotte,NC,28249,2024,12,9.99
+2645,2024-12-31,Emma Baker,emma.baker@hotmail.com,19563602370,Noise Cancelling Headphones,4,249.99,0.0,999.96,pending,9849 Birch Ln,Charlotte,NC,28251,2024,12,999.96
+4739,2024-12-31,Michael Thompson,michael.thompson@aol.com,7462402112,Laptop Stand,4,45.0,20.0,144.0,completed,"""3791 Pine Dr, Apt 3""",Atlanta,GA,30343,2024,12,180.0
+19645,2024-12-31,Ronald Perez,ronald.perez@hotmail.com,14668567397,HDMI Cable 6ft,3,9.99,0.0,29.97,shipped,8346 Main Blvd,Philadelphia,PA,19127,2024,12,29.97
+19184,2024-02-13,Donald Wright,donald.wright@gmail.com,6889048855,Cable Management Kit,1,14.99,0.0,14.99,completed,4981 Spruce Ln,Charlotte,NC,28220,2024,2,14.99
+19657,2023-06-12,Brenda Thompson,brenda.thompson@outlook.com,6864217163,Laptop Stand,4,45.0,20.0,144.0,cancelled,1519 Aspen Rd,Charlotte,NC,28277,2023,6,180.0
+13278,2024-12-31,Emily Wilson,emily.wilson@aol.com,18407221982,Standing Desk,4,599.99,20.0,1919.97,refunded,985 Spruce Ave,Dallas,TX,75255,2024,12,2399.96
+6317,2024-12-31,Sharon Wright,sharon.wright@yahoo.com,7663454073,Portable Charger,1,49.99,10.0,44.99,pending,5718 Maple Rd,Phoenix,AZ,85074,2024,12,49.99
+18466,2023-06-13,Paul Evans,paul.evans@yahoo.com,9742334002,Phone Case,3,19.99,15.0,50.97,refunded,4752 Spruce Rd,Charlotte,NC,28295,2023,6,59.97
+10520,2024-12-31,Matthew Thompson,matthew.thompson@icloud.com,5239413688,Monitor Arm,1,89.99,0.0,89.99,refunded,8883 Oak Ave,Phoenix,AZ,85031,2024,12,89.99
+1078,2024-12-31,Carol Williams,carol.williams@yahoo.com,5488197499,Wireless Headphones,2,79.99,10.0,143.98,refunded,2392 Oak Ln,Atlanta,GA,30316,2024,12,159.98
+4164,2024-12-31,Richard Moore,richard.moore@outlook.com,5687197538,Mechanical Keyboard,4,129.99,5.0,493.96,cancelled,9519 Main Blvd,Portland,OR,97224,2024,12,519.96
+20393,2024-12-31,Deborah Walker,deborah.walker@yahoo.com,6782967842,Wireless Mouse,4,39.99,5.0,151.96,shipped,8522 Cedar Way,Indianapolis,IN,46220,2024,12,159.96
+8938,2024-07-30,Patricia Cook,patricia.cook@outlook.com,13054885615,Mouse Pad XL,3,24.99,5.0,71.22,pending,9912 Main Ct,Phoenix,AZ,85031,2024,7,74.97
+9020,2024-12-31,Lisa Perez,lisa.perez@gmail.com,2284147477,Smart Plug 4-Pack,3,29.99,0.0,89.97,refunded,"""3740 Pine Ave, Apt 13""",San Jose,CA,95171,2024,12,89.97
+16168,2024-12-31,Robert Hernandez,robert.hernandez@hotmail.com,5065828989,Wireless Headphones,3,79.99,15.0,203.97,cancelled,3587 Oak Rd,Nashville,TN,37279,2024,12,239.96999999999997
+18304,2024-12-31,Eric Thompson,eric.thompson@icloud.com,6464402394,Cable Management Kit,2,14.99,5.0,28.48,completed,3732 Walnut Blvd,San Jose,CA,95173,2024,12,29.98
+7467,2024-12-31,Lisa Mitchell,lisa.mitchell@gmail.com,3018981520,Portable Charger,2,49.99,10.0,89.98,completed,137 Elm Ave,San Diego,CA,92190,2024,12,99.98
+17887,2024-12-31,Sharon Evans,sharon.evans@outlook.com,15252314684,Smart Plug 4-Pack,3,29.99,5.0,85.47,pending,4750 Pine Ave,Atlanta,GA,30329,2024,12,89.97
+12942,2023-06-14,Jonathan Brown,jonathan.brown@gmail.com,,Wireless Mouse,2,39.99,10.0,71.98,cancelled,7439 Maple Dr,Denver,CO,80299,2023,6,79.98
+14827,2024-12-31,William Cook,william.cook@outlook.com,7843915852,Wireless Headphones,1,79.99,0.0,79.99,cancelled,4138 Oak Way,Minneapolis,MN,55435,2024,12,79.99
+22218,2024-12-31,Patricia Smith,patricia.smith@yahoo.com,12409264379,Blue Light Glasses,3,24.99,0.0,74.97,cancelled,1966 Aspen Rd,Seattle,WA,98179,2024,12,74.97
+24421,2024-12-31,Unknown Customer,brenda.thompson@hotmail.com,9373542085,HDMI Cable 6ft,4,9.99,5.0,37.96,pending,2771 Walnut Ln,Columbus,OH,43272,2024,12,39.96
+3235,2024-12-31,Edward Garcia,unknown@email.com,8383871154,Mechanical Keyboard,2,129.99,10.0,233.98,completed,2643 Cedar Ln,Phoenix,AZ,85082,2024,12,259.98
+12747,2024-12-31,Ashley Brown,ashley.brown@hotmail.com,16442612430,Smart Plug 4-Pack,3,29.99,20.0,71.98,refunded,"""4144 Aspen Ct, Apt 7""",Austin,TX,78772,2024,12,89.97
+8758,2024-04-12,Sharon Moore,sharon.moore@gmail.com,2666158118,Portable Charger,4,49.99,5.0,189.96,pending,9682 Oak Ln,Denver,CO,80269,2024,4,199.96
+15728,2023-10-19,Melissa Young,melissa.young@icloud.com,7452412597,HDMI Cable 6ft,1,9.99,15.0,8.49,refunded,9019 Pine Ave,Dallas,TX,75264,2023,10,9.99
+19515,2024-04-18,Edward Williams,unknown@email.com,9394424478,USB Hub 7-Port,4,34.99,0.0,139.96,refunded,2551 Maple Blvd,Philadelphia,PA,19123,2024,4,139.96
+19134,2024-12-31,James Morris,unknown@email.com,2898595772,Monitor,2,299.99,0.0,599.98,refunded,3327 Main St,Las Vegas,NV,89141,2024,12,599.98
+22604,2024-12-31,Ruth Perez,ruth.perez@outlook.com,9462032770,HDMI Cable 6ft,3,9.99,5.0,28.47,cancelled,2446 Walnut Dr,Austin,TX,78783,2024,12,29.97
+2243,2024-12-31,William Thompson,william.thompson@hotmail.com,4602148551,Wireless Headphones,4,79.99,5.0,303.96,completed,"""3011 Maple Rd, Apt 7""",Chicago,IL,60677,2024,12,319.96
+18011,2024-12-31,Michael Williams,michael.williams@gmail.com,19725437574,USB-C Cable,3,12.49,20.0,29.98,cancelled,5656 Walnut Way,Chicago,IL,60651,2024,12,37.47
+17366,2023-11-03,Melissa Taylor,melissa.taylor@icloud.com,3048678476,Keyboard Wrist Rest,3,19.99,0.0,59.97,shipped,"""1993 Aspen Blvd, Apt 2""",San Jose,CA,95128,2023,11,59.97
+8055,2024-12-31,Emily Thomas,emily.thomas@yahoo.com,2294831349,Phone Stand,3,15.99,5.0,45.57,completed,9356 Aspen Ln,Salt Lake City,UT,84196,2024,12,47.97
+16433,2024-12-31,Dorothy Smith,dorothy.smith@outlook.com,9408212490,4K Webcam,1,149.99,0.0,149.99,pending,9452 Oak St,Columbus,OH,43219,2024,12,149.99
+19711,2024-03-18,Anna Torres,anna.torres@aol.com,4912211944,Laptop Stand,4,45.0,0.0,180.0,shipped,1255 Main Rd,Denver,CO,80225,2024,3,180.0
+14763,2024-12-31,William Garcia,william.garcia@yahoo.com,5254804950,4K Webcam,1,149.99,10.0,134.99,refunded,7728 Oak Ave,Las Vegas,NV,89157,2024,12,149.99
+24899,2024-12-31,Mark Morris,mark.morris@yahoo.com,2369402181,Cable Management Kit,3,14.99,0.0,44.97,completed,5206 Maple Ct,Minneapolis,MN,55459,2024,12,44.97
+9730,2024-12-31,Mary Thompson,mary.thompson@yahoo.com,19854905464,Ring Light,3,79.99,20.0,191.98,pending,9931 Maple Way,Minneapolis,MN,55493,2024,12,239.96999999999997
+11044,2023-09-04,Charles Harris,charles.harris@aol.com,2013248079,Blue Light Glasses,2,24.99,0.0,49.98,pending,4408 Elm St,Dallas,TX,75269,2023,9,49.98
+7163,2024-12-31,Thomas Parker,thomas.parker@hotmail.com,7737781292,Microphone,3,199.99,0.0,599.97,completed,4746 Pine Blvd,Phoenix,AZ,85097,2024,12,599.97
+25695,2024-12-31,Rebecca Wright,rebecca.wright@aol.com,8139669800,Wireless Headphones,3,79.99,0.0,239.97,cancelled,9241 Cedar Ln,Austin,TX,78778,2024,12,239.96999999999997
+24516,2024-12-31,Jeffrey Wilson,jeffrey.wilson@hotmail.com,4176146275,Ring Light,1,79.99,20.0,63.99,completed,6331 Birch Ct,Chicago,IL,60612,2024,12,79.99
+13205,2024-12-31,Anna Nguyen,anna.nguyen@hotmail.com,2905835393,Monitor,1,299.99,10.0,269.99,completed,9251 Elm Way,Denver,CO,80219,2024,12,299.99
+21845,2024-12-31,Stephanie Anderson,stephanie.anderson@outlook.com,7652415913,Webcam,2,89.99,0.0,179.98,refunded,9533 Cedar Dr,Austin,TX,78733,2024,12,179.98
+6745,2024-12-31,William Lewis,william.lewis@gmail.com,12344533135,Standing Desk,4,599.99,5.0,2279.96,shipped,3998 Cedar Ln,Miami,FL,33154,2024,12,2399.96
+10770,2024-01-10,Unknown Customer,kevin.nelson@icloud.com,4556934103,Ergonomic Chair,2,349.99,10.0,629.98,pending,7267 Cedar Dr,Chicago,IL,60651,2024,1,699.98
+19047,2024-12-31,Amy Williams,amy.williams@hotmail.com,13707377732,Phone Stand,2,15.99,0.0,31.98,cancelled,8092 Walnut Ct,Minneapolis,MN,55460,2024,12,31.98
+5262,2024-12-31,Linda Robinson,linda.robinson@hotmail.com,4587049863,HDMI Cable 6ft,1,9.99,15.0,8.49,completed,3655 Pine Ln,Phoenix,AZ,85059,2024,12,9.99
+22340,2024-12-31,Michael Davis,michael.davis@yahoo.com,6954712254,Ring Light,4,79.99,10.0,287.96,refunded,3339 Oak Rd,Atlanta,GA,30326,2024,12,319.96
+14204,2024-12-31,Susan King,susan.king@outlook.com,7784423171,Ring Light,3,79.99,20.0,191.98,pending,8559 Pine Ln,Columbus,OH,43274,2024,12,239.96999999999997
+11643,2024-02-08,Mary Cook,mary.cook@yahoo.com,Unknown,Cable Management Kit,2,14.99,10.0,26.98,refunded,6011 Oak St,Boston,MA,2166,2024,2,29.98
+10736,2024-12-31,Charles Smith,charles.smith@hotmail.com,8684268800,Cable Management Kit,2,14.99,10.0,26.98,completed,4467 Maple Blvd,Chicago,IL,60644,2024,12,29.98
+8517,2024-12-31,Jacob Thompson,jacob.thompson@icloud.com,9839721182,Desk Lamp,4,34.99,20.0,111.97,completed,4574 Pine Ln,Las Vegas,NV,89166,2024,12,139.96
+14268,2024-12-31,Patricia Perez,patricia.perez@outlook.com,2022497245,"Laptop Sleeve 15""",2,29.99,0.0,59.98,shipped,5601 Birch Blvd,Atlanta,GA,30397,2024,12,59.98
+2187,2024-12-31,Unknown Customer,patricia.evans@hotmail.com,,Keyboard Wrist Rest,3,19.99,20.0,47.98,shipped,8235 Spruce Blvd,Austin,TX,78765,2024,12,59.97
+21068,2024-12-31,Rebecca Allen,rebecca.allen@yahoo.com,4266913211,Portable Charger,1,49.99,0.0,49.99,pending,8854 Cedar St,Columbus,OH,43233,2024,12,49.99
+20747,2024-12-31,Jeffrey Adams,jeffrey.adams@outlook.com,5732594143,Portable Charger,3,49.99,20.0,119.98,cancelled,7869 Oak Ct,Boston,MA,2150,2024,12,149.97
+19965,2024-12-31,Sharon Scott,unknown@email.com,6496573832,Keyboard Wrist Rest,3,19.99,15.0,50.97,pending,4189 Pine St,Boston,MA,2143,2024,12,59.97
+22751,2024-12-31,Unknown Customer,donald.collins@outlook.com,3526935478,Wireless Headphones,2,79.99,0.0,159.98,pending,1664 Pine Ave,Salt Lake City,UT,84169,2024,12,159.98
+11893,2024-12-31,Jennifer Young,jennifer.young@yahoo.com,16395381462,Phone Case,2,19.99,5.0,37.98,refunded,184 Main Way,Seattle,WA,98191,2024,12,39.98
+17632,2023-09-09,Donald Robinson,donald.robinson@outlook.com,4407013254,Portable Charger,2,49.99,15.0,84.98,pending,9813 Main Ln,Miami,FL,33140,2023,9,99.98
+17152,2024-12-31,Jonathan Rogers,jonathan.rogers@hotmail.com,4159247168,HDMI Cable 6ft,3,9.99,15.0,25.47,shipped,1220 Birch Blvd,Atlanta,GA,30357,2024,12,29.97
+18175,2024-12-31,Eric Young,eric.young@aol.com,6337859363,Monitor,3,299.99,15.0,764.97,pending,2621 Maple Ln,Seattle,WA,98148,2024,12,899.97
+11445,2024-12-31,Daniel Martinez,daniel.martinez@icloud.com,8779448397,Gaming Headset,2,89.99,5.0,170.98,cancelled,3272 Spruce Blvd,Chicago,IL,60691,2024,12,179.98
+2214,2024-12-31,Carol Thompson,carol.thompson@gmail.com,2925631855,Monitor Arm,2,89.99,20.0,143.98,cancelled,3396 Pine Ct,Salt Lake City,UT,84172,2024,12,179.98
+25693,2024-12-31,James Miller,james.miller@aol.com,6652087493,Monitor,3,299.99,20.0,719.98,cancelled,8775 Spruce Ct,Philadelphia,PA,19175,2024,12,899.97
+1986,2024-12-31,Anna Moore,anna.moore@icloud.com,9664863979,Laptop Cooler,2,39.99,10.0,71.98,cancelled,790 Main Rd,Chicago,IL,60628,2024,12,79.98
+21631,2024-12-31,Angela Hill,angela.hill@gmail.com,6616924455,Cable Management Kit,4,14.99,0.0,59.96,completed,4488 Oak Ave,Charlotte,NC,28239,2024,12,59.96
+7178,2024-12-31,Ronald Anderson,ronald.anderson@hotmail.com,8915405775,USB Hub 7-Port,3,34.99,0.0,104.97,completed,9502 Spruce Blvd,Las Vegas,NV,89119,2024,12,104.97
+14531,2024-05-17,David Turner,david.turner@yahoo.com,6577525294,Ring Light,3,79.99,10.0,215.97,refunded,545 Walnut St,Portland,OR,97214,2024,5,239.96999999999997
+12092,2024-11-19,Timothy Nelson,timothy.nelson@gmail.com,8173467626,Ring Light,2,79.99,10.0,143.98,pending,816 Cedar Dr,Boston,MA,2177,2024,11,159.98
+3907,2024-12-31,Jeffrey Nguyen,jeffrey.nguyen@outlook.com,5352385563,Desk Lamp,2,34.99,15.0,59.48,refunded,5062 Oak Rd,Seattle,WA,98192,2024,12,69.98
+22083,2024-12-31,Dorothy Martin,dorothy.martin@outlook.com,3537793425,Wireless Mouse,2,39.99,20.0,63.98,shipped,8283 Aspen St,Charlotte,NC,28269,2024,12,79.98
+27669,2024-12-31,Sharon Jones,sharon.jones@gmail.com,8418646002,Noise Cancelling Headphones,2,249.99,0.0,499.98,pending,8050 Maple Blvd,Charlotte,NC,28221,2024,12,499.98
+12199,2024-12-31,Anthony Turner,anthony.turner@gmail.com,6602718082,Monitor,4,299.99,20.0,959.97,refunded,2975 Main Ct,Miami,FL,33144,2024,12,1199.96
+17293,2024-12-31,Michelle Clark,michelle.clark@outlook.com,6938415012,Laptop Cooler,4,39.99,20.0,127.97,refunded,2435 Oak Ave,Salt Lake City,UT,84135,2024,12,159.96
+11418,2024-12-31,James Taylor,james.taylor@gmail.com,3817117865,Wireless Headphones,3,79.99,10.0,215.97,pending,2799 Oak Blvd,Denver,CO,80274,2024,12,239.96999999999997
+5089,2024-12-31,John Jackson,john.jackson@outlook.com,9345917293,HDMI Cable 6ft,3,9.99,0.0,29.97,completed,5268 Main Blvd,Indianapolis,IN,46276,2024,12,29.97
+1302,2024-12-31,Mark Jackson,mark.jackson@icloud.com,,Laptop Cooler,2,39.99,0.0,79.98,refunded,3191 Aspen Rd,Portland,OR,97239,2024,12,79.98
+5540,2024-12-31,Mark Brown,mark.brown@hotmail.com,9988862973,Wireless Mouse,2,39.99,15.0,67.98,pending,1232 Cedar Ave,Portland,OR,97286,2024,12,79.98
+6809,2024-12-31,David Nelson,david.nelson@gmail.com,8639535164,Smart Plug 4-Pack,4,29.99,0.0,119.96,shipped,9677 Main St,Boston,MA,2158,2024,12,119.96
+13164,2024-12-31,Patricia Thomas,patricia.thomas@yahoo.com,2515704933,Cable Management Kit,4,14.99,20.0,47.97,shipped,9941 Birch Ave,San Jose,CA,95154,2024,12,59.96
+9805,2024-12-31,Gary Jones,unknown@email.com,,USB-C Cable,2,12.49,0.0,24.98,cancelled,2420 Oak Ave,Denver,CO,80234,2024,12,24.98
+3817,2024-12-31,James Turner,unknown@email.com,5558344686,Webcam,3,89.99,10.0,242.97,completed,"""774 Main Ct, Apt 8""",Minneapolis,MN,55435,2024,12,269.96999999999997
+15331,2024-12-31,William Harris,william.harris@outlook.com,4116881291,Standing Desk,1,599.99,0.0,599.99,refunded,5689 Aspen Ct,Indianapolis,IN,46277,2024,12,599.99
+12168,2024-12-31,Sharon Brown,sharon.brown@aol.com,15032065721,Noise Cancelling Headphones,2,249.99,0.0,499.98,refunded,"""9729 Spruce Ln, Apt 11""",Boston,MA,2153,2024,12,499.98
+13442,2024-12-31,Sharon Nguyen,sharon.nguyen@outlook.com,12338738744,Desk Lamp,2,34.99,5.0,66.48,refunded,9873 Cedar Way,Portland,OR,97230,2024,12,69.98
+19536,2024-12-31,David Hill,david.hill@gmail.com,12129832107,Laptop Stand,4,45.0,15.0,153.0,shipped,"""6430 Oak Blvd, Apt 8""",Atlanta,GA,30312,2024,12,180.0
+17076,2024-12-31,Linda White,linda.white@yahoo.com,13788348055,Laptop Stand,2,45.0,0.0,90.0,completed,9579 Walnut Ave,Portland,OR,97278,2024,12,90.0
+18456,2024-12-31,Thomas Clark,thomas.clark@yahoo.com,3405367132,Gaming Headset,3,89.99,15.0,229.47,shipped,9122 Maple Rd,Nashville,TN,37262,2024,12,269.96999999999997
+26559,2024-12-31,Laura Stewart,laura.stewart@hotmail.com,5408685462,Wireless Headphones,1,79.99,0.0,79.99,shipped,7465 Cedar Ave,Portland,OR,97258,2024,12,79.99
+19999,2024-12-31,Patricia Adams,patricia.adams@aol.com,5524065279,Keyboard Wrist Rest,3,19.99,0.0,59.97,pending,"""207 Walnut Way, Apt 9""",San Jose,CA,95116,2024,12,59.97
+9659,2024-12-31,Unknown Customer,unknown@email.com,7106882920,Streaming Mic Bundle,1,299.99,20.0,239.99,refunded,5567 Maple Blvd,Indianapolis,IN,46225,2024,12,299.99
+26845,2024-12-31,Jonathan Walker,jonathan.walker@hotmail.com,,Standing Desk,2,599.99,10.0,1079.98,refunded,8767 Birch Blvd,Portland,OR,97256,2024,12,1199.98
+1484,2024-12-31,Patricia Sanchez,patricia.sanchez@outlook.com,2612259347,Cable Organizer,4,12.99,0.0,51.96,refunded,8402 Pine St,San Diego,CA,92122,2024,12,51.96
+2025,2024-12-31,Jason Davis,jason.davis@hotmail.com,9599698798,"Laptop Sleeve 15""",3,29.99,0.0,89.97,completed,2236 Walnut Ln,Boston,MA,2131,2024,12,89.97
+4515,2024-12-31,Deborah Sanchez,deborah.sanchez@icloud.com,6846962171,Phone Stand,1,15.99,0.0,15.99,refunded,5850 Aspen Ave,San Jose,CA,95135,2024,12,15.99
+19391,2024-06-06,Thomas Wilson,thomas.wilson@hotmail.com,13478928203,"Laptop Sleeve 15""",2,29.99,15.0,50.98,completed,5854 Birch St,Seattle,WA,98171,2024,6,59.98
+9015,2024-12-31,Kevin Adams,kevin.adams@icloud.com,4032894929,Gaming Headset,3,89.99,0.0,269.97,cancelled,4578 Main Ave,San Jose,CA,95178,2024,12,269.96999999999997
+25578,2024-12-31,Jeffrey Lee,jeffrey.lee@icloud.com,6957973009,Smart Plug 4-Pack,3,29.99,15.0,76.47,refunded,3449 Aspen Way,San Jose,CA,95176,2024,12,89.97
+18895,2024-12-31,Jacob Perez,jacob.perez@gmail.com,3106022161,Standing Desk,2,599.99,0.0,1199.98,refunded,"""7221 Walnut Rd, Apt 8""",Boston,MA,2149,2024,12,1199.98
+5917,2024-12-31,Rebecca Lee,rebecca.lee@aol.com,2623339133,USB-C Cable,2,12.49,20.0,19.98,pending,2025 Oak Blvd,Phoenix,AZ,85025,2024,12,24.98
+13670,2023-03-06,Jonathan Garcia,jonathan.garcia@outlook.com,6315011856,Monitor Arm,2,89.99,5.0,170.98,cancelled,180 Elm Ln,Indianapolis,IN,46285,2023,3,179.98
+17445,2024-12-31,Michael Hill,michael.hill@yahoo.com,2243371016,Phone Stand,3,15.99,10.0,43.17,pending,2821 Oak Dr,Columbus,OH,43252,2024,12,47.97
+27591,2024-04-03,Jeffrey Johnson,jeffrey.johnson@outlook.com,6909668479,Portable Charger,1,49.99,10.0,44.99,completed,"""5550 Maple Ln, Apt 19""",Boston,MA,2152,2024,4,49.99
+22065,2024-12-31,Lisa King,lisa.king@gmail.com,4193679833,Laptop Stand,1,45.0,20.0,36.0,refunded,790 Aspen Ave,Chicago,IL,60611,2024,12,45.0
+16001,2024-12-31,Richard Lewis,richard.lewis@outlook.com,5768166396,Blue Light Glasses,3,24.99,5.0,71.22,refunded,1118 Cedar Rd,Atlanta,GA,30312,2024,12,74.97
+6144,2024-04-09,Matthew Hill,matthew.hill@outlook.com,16445594051,Mouse Pad XL,2,24.99,0.0,49.98,shipped,6517 Main Blvd,Phoenix,AZ,85080,2024,4,49.98
+7748,2024-09-28,Ryan Rogers,ryan.rogers@hotmail.com,4136641626,Laptop Stand,1,45.0,15.0,38.25,pending,1613 Elm St,Salt Lake City,UT,84158,2024,9,45.0
+7266,2024-12-31,Amanda Rogers,amanda.rogers@hotmail.com,3488826327,4K Webcam,1,149.99,0.0,149.99,refunded,1743 Main Way,Dallas,TX,75265,2024,12,149.99
+26185,2024-12-31,Unknown Customer,susan.taylor@yahoo.com,15409312602,Laptop Stand,3,45.0,0.0,135.0,shipped,8014 Oak Ln,Atlanta,GA,30315,2024,12,135.0
+7970,2024-12-31,Carol Rogers,carol.rogers@yahoo.com,8058595229,Portable Charger,2,49.99,0.0,99.98,shipped,1648 Spruce Ave,Atlanta,GA,30338,2024,12,99.98
+17483,2024-12-31,Sharon Lee,sharon.lee@yahoo.com,19274367829,Keyboard Wrist Rest,2,19.99,15.0,33.98,shipped,1717 Pine Way,Atlanta,GA,30374,2024,12,39.98
+18102,2024-12-31,Dorothy Hill,dorothy.hill@outlook.com,2973814549,Mouse Pad XL,3,24.99,20.0,59.98,refunded,862 Main Ln,Philadelphia,PA,19136,2024,12,74.97
+3049,2024-12-31,Joseph Johnson,joseph.johnson@icloud.com,2299038868,"Laptop Sleeve 15""",3,29.99,0.0,89.97,refunded,3460 Maple Ln,Miami,FL,33117,2024,12,89.97
+12336,2024-12-31,Melissa Williams,melissa.williams@aol.com,9606263104,Portable Charger,3,49.99,5.0,142.47,shipped,5562 Oak Blvd,Phoenix,AZ,85024,2024,12,149.97
+27664,2023-04-04,Amy Anderson,amy.anderson@hotmail.com,19035897605,Ring Light,1,79.99,15.0,67.99,shipped,7387 Walnut Way,San Jose,CA,95132,2023,4,79.99
+2696,2024-12-31,Jennifer Miller,jennifer.miller@gmail.com,9862134396,Phone Case,2,19.99,5.0,37.98,shipped,"""8902 Elm Ave, Apt 9""",Columbus,OH,43257,2024,12,39.98
+8563,2024-12-31,Emma Rogers,emma.rogers@yahoo.com,,HDMI Cable 6ft,2,9.99,0.0,19.98,refunded,"""4871 Pine Rd, Apt 6""",Miami,FL,33190,2024,12,19.98
+1467,2024-12-31,Sharon Stewart,sharon.stewart@aol.com,19137787359,Keyboard Wrist Rest,4,19.99,15.0,67.97,cancelled,"""2203 Aspen St, Apt 17""",Seattle,WA,98166,2024,12,79.96
+24135,2024-12-31,Brenda White,brenda.white@gmail.com,Unknown,Keyboard Wrist Rest,3,19.99,0.0,59.97,pending,"""4763 Aspen Blvd, Apt 17""",Las Vegas,NV,89144,2024,12,59.97
+6011,2024-10-30,James Johnson,james.johnson@gmail.com,6283254359,Phone Stand,2,15.99,5.0,30.38,completed,"""692 Walnut Ave, Apt 1""",San Jose,CA,95111,2024,10,31.98
+21914,2024-12-31,Michelle Martinez,michelle.martinez@icloud.com,19244191166,Noise Cancelling Headphones,3,249.99,15.0,637.47,cancelled,9632 Main Ln,Miami,FL,33128,2024,12,749.97
+10667,2024-12-31,Anna Anderson,anna.anderson@outlook.com,17548773693,Cable Organizer,4,12.99,0.0,51.96,refunded,2983 Aspen Ct,Nashville,TN,37267,2024,12,51.96
+5739,2024-12-31,Ashley Carter,ashley.carter@outlook.com,16497026598,Wireless Headphones,3,79.99,20.0,191.98,completed,1451 Aspen Blvd,Indianapolis,IN,46282,2024,12,239.96999999999997
+20146,2023-07-10,Emily Nelson,emily.nelson@gmail.com,15992766215,Cable Management Kit,3,14.99,15.0,38.22,pending,3859 Aspen Ave,Miami,FL,33172,2023,7,44.97
+27658,2024-01-11,Michael Williams,michael.williams@aol.com,8702835646,Cable Organizer,3,12.99,5.0,37.02,refunded,7826 Birch Way,Indianapolis,IN,46296,2024,1,38.97
+11986,2023-09-12,James Lee,james.lee@outlook.com,5645852920,USB-C Cable,3,12.49,15.0,31.85,shipped,7869 Pine Ct,San Jose,CA,95111,2023,9,37.47
+15455,2024-12-31,Amanda Smith,amanda.smith@outlook.com,,Streaming Mic Bundle,4,299.99,5.0,1139.96,cancelled,3714 Pine Ct,Austin,TX,78769,2024,12,1199.96
+22489,2023-01-28,Carol Moore,carol.moore@hotmail.com,4437531544,USB-C Cable,1,12.49,10.0,11.24,pending,2363 Walnut St,Minneapolis,MN,55411,2023,1,12.49
+13649,2024-12-31,Ashley Williams,ashley.williams@aol.com,19259016031,Cable Organizer,4,12.99,0.0,51.96,pending,4302 Aspen Rd,San Jose,CA,95136,2024,12,51.96
+3776,2024-12-31,Daniel Brown,daniel.brown@yahoo.com,16937792021,4K Webcam,1,149.99,0.0,149.99,cancelled,2709 Walnut Ave,Philadelphia,PA,19118,2024,12,149.99
+21963,2024-12-31,Mary Reed,mary.reed@icloud.com,8248119264,Wireless Headphones,4,79.99,5.0,303.96,pending,1062 Main Dr,Las Vegas,NV,89180,2024,12,319.96
+7522,2024-12-31,Michelle White,michelle.white@hotmail.com,19304344533,Ring Light,2,79.99,0.0,159.98,shipped,8352 Pine Rd,Las Vegas,NV,89121,2024,12,159.98
+23951,2024-12-31,Emily Martin,emily.martin@yahoo.com,6413166626,Cable Management Kit,2,14.99,15.0,25.48,shipped,7690 Cedar Way,San Jose,CA,95141,2024,12,29.98
+26753,2024-12-31,Barbara Miller,unknown@email.com,3632317030,Ring Light,1,79.99,0.0,79.99,pending,"""3052 Main Ave, Apt 2""",Dallas,TX,75212,2024,12,79.99
+15899,2024-12-31,Nicholas Parker,nicholas.parker@outlook.com,7964913927,Portable Charger,3,49.99,5.0,142.47,refunded,4728 Cedar Ln,Salt Lake City,UT,84188,2024,12,149.97
+7662,2024-12-31,Unknown Customer,richard.evans@aol.com,13589926927,Wireless Mouse,1,39.99,5.0,37.99,cancelled,1472 Aspen St,Phoenix,AZ,85078,2024,12,39.99
+23514,2023-05-02,Linda Torres,linda.torres@icloud.com,9466036038,Noise Cancelling Headphones,3,249.99,0.0,749.97,refunded,5026 Pine Ln,Atlanta,GA,30380,2023,5,749.97
+19491,2024-12-31,Susan Morris,susan.morris@yahoo.com,,Webcam,4,89.99,20.0,287.97,completed,5062 Aspen St,Boston,MA,2127,2024,12,359.96
+5103,2024-12-31,Richard Perez,richard.perez@aol.com,16557472949,Laptop Cooler,3,39.99,0.0,119.97,pending,2023 Spruce St,San Jose,CA,95134,2024,12,119.97
+3066,2024-06-03,Mark Turner,mark.turner@aol.com,Unknown,Monitor Arm,3,89.99,15.0,229.47,pending,7110 Birch Ave,Chicago,IL,60648,2024,6,269.96999999999997
+10459,2023-11-18,Sarah King,sarah.king@gmail.com,3493784191,Wireless Headphones,3,79.99,15.0,203.97,pending,6124 Walnut Dr,Dallas,TX,75222,2023,11,239.96999999999997
+3607,2024-12-31,George Nelson,george.nelson@hotmail.com,5496687729,Phone Case,3,19.99,0.0,59.97,pending,8398 Maple Ct,Portland,OR,97290,2024,12,59.97
+16958,2024-12-31,Charles Collins,charles.collins@gmail.com,5173831486,Cable Management Kit,1,14.99,0.0,14.99,completed,3064 Main Rd,Las Vegas,NV,89199,2024,12,14.99
+14690,2024-12-31,David Allen,unknown@email.com,9819122345,Desk Lamp,2,34.99,0.0,69.98,shipped,"""6584 Pine Way, Apt 7""",Austin,TX,78743,2024,12,69.98
+25397,2024-12-31,Sharon Walker,sharon.walker@yahoo.com,8223629726,Monitor Arm,4,89.99,0.0,359.96,cancelled,3481 Aspen Blvd,Las Vegas,NV,89169,2024,12,359.96
+8935,2024-12-31,Unknown Customer,n/a@placeholder.com,9249125294,Ergonomic Chair,1,349.99,0.0,349.99,pending,3587 Elm Ave,Las Vegas,NV,89147,2024,12,349.99
+1475,2024-12-31,Anthony Smith,anthony.smith@gmail.com,9782551672,HDMI Cable 6ft,3,9.99,5.0,28.47,pending,7904 Birch Ct,Nashville,TN,37250,2024,12,29.97
+26645,2023-08-08,John Morris,john.morris@outlook.com,7467988359,Laptop Cooler,4,39.99,10.0,143.96,completed,2283 Aspen Rd,Charlotte,NC,28282,2023,8,159.96
+18380,2024-12-31,Deborah Johnson,deborah.johnson@aol.com,12182689535,Gaming Headset,1,89.99,0.0,89.99,shipped,6547 Birch Rd,Philadelphia,PA,19139,2024,12,89.99
+11768,2024-12-31,Brian Perez,brian.perez@hotmail.com,8952679374,Desk Lamp,1,34.99,10.0,31.49,completed,4202 Oak Ave,Charlotte,NC,28294,2024,12,34.99
+24468,2024-12-31,Michael Carter,michael.carter@gmail.com,9093929474,Phone Stand,4,15.99,0.0,63.96,refunded,8868 Birch Rd,Charlotte,NC,28257,2024,12,63.96
+21634,2024-12-31,Ruth Evans,ruth.evans@yahoo.com,14737279360,USB Hub 7-Port,2,34.99,15.0,59.48,refunded,"""4946 Aspen Ave, Apt 10""",Las Vegas,NV,89149,2024,12,69.98
+24541,2024-12-31,Mary Lee,mary.lee@gmail.com,2475469891,Microphone,4,199.99,20.0,639.97,pending,8949 Cedar Ave,Philadelphia,PA,19152,2024,12,799.96
+13726,2024-12-31,Barbara Thompson,barbara.thompson@gmail.com,7775528368,Phone Stand,3,15.99,10.0,43.17,refunded,2536 Pine Way,Austin,TX,78788,2024,12,47.97
+2882,2024-12-31,Jessica Cook,jessica.cook@gmail.com,3525675789,USB Hub 7-Port,4,34.99,20.0,111.97,cancelled,4936 Cedar Dr,Chicago,IL,60623,2024,12,139.96
+25062,2024-12-31,David Jackson,david.jackson@hotmail.com,13609689375,USB Hub 7-Port,2,34.99,0.0,69.98,cancelled,3720 Birch Blvd,San Jose,CA,95185,2024,12,69.98
+13300,2024-12-31,Ashley Brown,ashley.brown@icloud.com,5178359621,Keyboard Wrist Rest,1,19.99,0.0,19.99,shipped,6015 Oak Blvd,Phoenix,AZ,85061,2024,12,19.99
+12075,2024-12-31,Gary Nguyen,gary.nguyen@aol.com,5559412350,Webcam,4,89.99,0.0,359.96,refunded,7954 Pine Dr,Indianapolis,IN,46272,2024,12,359.96
+13669,2024-12-31,Joseph Davis,joseph.davis@hotmail.com,9688787160,Streaming Mic Bundle,1,299.99,15.0,254.99,completed,9754 Elm Way,Indianapolis,IN,46293,2024,12,299.99
+27539,2023-11-06,Jeffrey Nelson,jeffrey.nelson@aol.com,5352024548,Laptop Stand,2,45.0,15.0,76.5,refunded,1243 Maple Dr,Columbus,OH,43287,2023,11,90.0
+14682,2024-12-31,Emma Martin,emma.martin@gmail.com,Unknown,Noise Cancelling Headphones,3,249.99,20.0,599.98,refunded,4083 Elm Ave,Nashville,TN,37296,2024,12,749.97
+3488,2024-08-04,Mary King,mary.king@outlook.com,6333552917,Phone Stand,2,15.99,0.0,31.98,cancelled,5715 Walnut Way,Phoenix,AZ,85049,2024,8,31.98
+21604,2024-12-31,Robert Anderson,robert.anderson@hotmail.com,2965767910,Standing Desk,2,599.99,15.0,1019.98,cancelled,5927 Main Way,Dallas,TX,75278,2024,12,1199.98
+20774,2024-12-31,William Robinson,william.robinson@outlook.com,5583165534,Monitor,3,299.99,0.0,899.97,cancelled,"""2041 Pine Rd, Apt 1""",Las Vegas,NV,89169,2024,12,899.97
+14462,2024-12-31,Emma Young,emma.young@yahoo.com,6308218709,Phone Stand,2,15.99,5.0,30.38,completed,"""9252 Oak Rd, Apt 2""",Salt Lake City,UT,84137,2024,12,31.98
+17979,2024-12-31,Emily Thomas,emily.thomas@hotmail.com,8613314293,Laptop Cooler,4,39.99,0.0,159.96,pending,7905 Elm St,Salt Lake City,UT,84185,2024,12,159.96
+13600,2024-12-31,Jeffrey Allen,jeffrey.allen@hotmail.com,7583405204,Laptop Cooler,4,39.99,0.0,159.96,refunded,8943 Aspen Ct,Las Vegas,NV,89163,2024,12,159.96
+27932,2024-12-31,Ruth Thompson,ruth.thompson@aol.com,3718211211,Monitor Arm,1,89.99,5.0,85.49,refunded,9178 Birch Blvd,Austin,TX,78786,2024,12,89.99
+15121,2024-12-31,Eric Thompson,eric.thompson@aol.com,8985667484,Monitor Arm,2,89.99,0.0,179.98,completed,2056 Elm Ct,Atlanta,GA,30326,2024,12,179.98
+6630,2024-12-21,Jessica Turner,jessica.turner@gmail.com,14117713151,Wireless Headphones,4,79.99,10.0,287.96,shipped,353 Cedar Ln,Chicago,IL,60655,2024,12,319.96
+22319,2024-12-31,Matthew Miller,matthew.miller@aol.com,19538364847,Laptop Stand,3,45.0,0.0,135.0,shipped,9896 Spruce Rd,Indianapolis,IN,46293,2024,12,135.0
+7692,2024-12-31,Pamela Torres,pamela.torres@outlook.com,12218899661,Gaming Headset,1,89.99,20.0,71.99,refunded,9145 Elm Way,Austin,TX,78766,2024,12,89.99
+5254,2024-12-31,Jessica Parker,jessica.parker@hotmail.com,8823232632,Desk Lamp,3,34.99,20.0,83.98,completed,9028 Spruce Rd,Portland,OR,97255,2024,12,104.97
+21316,2024-12-31,Patricia Rogers,unknown@email.com,4897777457,Webcam,4,89.99,20.0,287.97,refunded,"""8229 Spruce St, Apt 11""",Portland,OR,97234,2024,12,359.96
+22041,2024-12-31,Barbara Walker,barbara.walker@icloud.com,2879128859,Laptop Stand,4,45.0,20.0,144.0,pending,452 Maple Blvd,Denver,CO,80229,2024,12,180.0
+21145,2024-12-31,Ruth Davis,ruth.davis@yahoo.com,12953717306,Wireless Headphones,1,79.99,20.0,63.99,pending,5065 Pine Blvd,Seattle,WA,98122,2024,12,79.99
+6604,2024-12-31,Michelle Robinson,michelle.robinson@icloud.com,15276764122,Ring Light,2,79.99,0.0,159.98,refunded,2257 Elm Ct,Nashville,TN,37223,2024,12,159.98
+23279,2024-12-31,Eric Garcia,eric.garcia@aol.com,5158122514,Streaming Mic Bundle,3,299.99,5.0,854.97,pending,9802 Cedar Ct,Nashville,TN,37295,2024,12,899.97
+20641,2024-12-31,Jeffrey Clark,jeffrey.clark@outlook.com,18282228413,Cable Management Kit,3,14.99,5.0,42.72,shipped,5812 Birch Ln,Columbus,OH,43283,2024,12,44.97
+26766,2024-12-31,Ruth Cook,ruth.cook@aol.com,17743945968,"Laptop Sleeve 15""",4,29.99,0.0,119.96,shipped,3209 Maple Rd,Chicago,IL,60683,2024,12,119.96
+27864,2023-01-05,Jason Morris,jason.morris@icloud.com,9054678190,Mouse Pad XL,2,24.99,20.0,39.98,cancelled,6972 Oak Ct,Indianapolis,IN,46287,2023,1,49.98
+10108,2024-12-31,Deborah Moore,deborah.moore@hotmail.com,17548905461,Cable Management Kit,1,14.99,10.0,13.49,refunded,5685 Main Rd,Minneapolis,MN,55465,2024,12,14.99
+5175,2024-12-31,Kevin King,kevin.king@aol.com,16618368009,Ergonomic Chair,2,349.99,15.0,594.98,completed,7079 Elm St,Atlanta,GA,30382,2024,12,699.98
+5803,2023-08-09,Anthony Brown,anthony.brown@yahoo.com,Unknown,Phone Case,3,19.99,0.0,59.97,completed,377 Pine Ln,Portland,OR,97281,2023,8,59.97
+10373,2024-12-31,Dorothy Anderson,dorothy.anderson@hotmail.com,3295989397,USB-C Cable,4,12.49,0.0,49.96,shipped,5959 Elm Dr,San Jose,CA,95140,2024,12,49.96
+11280,2024-12-31,Rebecca Mitchell,rebecca.mitchell@outlook.com,2145716917,Cable Organizer,3,12.99,5.0,37.02,shipped,971 Pine Ave,Philadelphia,PA,19124,2024,12,38.97
+18654,2024-12-31,John White,john.white@outlook.com,7998442200,HDMI Cable 6ft,2,9.99,0.0,19.98,refunded,276 Main Ct,Atlanta,GA,30323,2024,12,19.98
+19102,2024-12-31,Sarah Rogers,sarah.rogers@gmail.com,7477212302,USB Hub 7-Port,4,34.99,5.0,132.96,shipped,6171 Maple Rd,Seattle,WA,98164,2024,12,139.96
+26066,2024-12-31,Joseph Clark,joseph.clark@hotmail.com,8318679046,Keyboard Wrist Rest,1,19.99,0.0,19.99,pending,117 Aspen Ln,Las Vegas,NV,89134,2024,12,19.99
+4959,2024-12-31,Anna Anderson,anna.anderson@icloud.com,9622558092,Mouse Pad XL,4,24.99,0.0,99.96,completed,4486 Oak Dr,Austin,TX,78725,2024,12,99.96
+7566,2023-05-13,John Young,john.young@outlook.com,6045604438,Mechanical Keyboard,1,129.99,20.0,103.99,refunded,"""6850 Elm Ln, Apt 12""",Columbus,OH,43213,2023,5,129.99
+20202,2024-12-31,Melissa Thomas,melissa.thomas@hotmail.com,2123402432,Phone Stand,3,15.99,0.0,47.97,cancelled,3400 Elm St,Portland,OR,97277,2024,12,47.97
+13071,2024-12-31,James Turner,james.turner@icloud.com,8258052353,Noise Cancelling Headphones,3,249.99,20.0,599.98,pending,1858 Walnut Way,Atlanta,GA,30352,2024,12,749.97
+3405,2023-03-14,Kevin Thompson,unknown@email.com,8482065756,Keyboard Wrist Rest,3,19.99,10.0,53.97,cancelled,941 Maple Way,Denver,CO,80292,2023,3,59.97
+15317,2024-12-31,Jonathan Taylor,jonathan.taylor@aol.com,12667615115,Standing Desk,4,599.99,0.0,2399.96,refunded,6789 Cedar Rd,Chicago,IL,60665,2024,12,2399.96
+26017,2024-12-31,Deborah White,deborah.white@yahoo.com,19912515408,Desk Lamp,2,34.99,10.0,62.98,refunded,4319 Oak Rd,Austin,TX,78722,2024,12,69.98
+23142,2024-12-31,Laura Clark,laura.clark@outlook.com,5439612854,Gaming Headset,2,89.99,5.0,170.98,refunded,9420 Elm Dr,Boston,MA,2164,2024,12,179.98
+10672,2024-12-31,Sharon Young,sharon.young@yahoo.com,4117971676,USB-C Cable,2,12.49,5.0,23.73,refunded,7871 Main St,Columbus,OH,43271,2024,12,24.98
+23000,2024-12-31,Brian Clark,brian.clark@gmail.com,4964503960,Keyboard Wrist Rest,2,19.99,0.0,39.98,completed,6945 Walnut Ln,Nashville,TN,37292,2024,12,39.98
+2897,2024-12-31,Angela Hernandez,angela.hernandez@outlook.com,4616212931,Laptop Stand,2,45.0,20.0,72.0,cancelled,6223 Maple Way,Chicago,IL,60615,2024,12,90.0
+1544,2023-06-16,Sarah Scott,sarah.scott@icloud.com,9235459359,Blue Light Glasses,3,24.99,5.0,71.22,pending,7469 Spruce Way,Las Vegas,NV,89145,2023,6,74.97
+26725,2024-12-31,Susan Walker,susan.walker@aol.com,7212599541,Keyboard Wrist Rest,3,19.99,0.0,59.97,completed,"""5350 Pine Rd, Apt 9""",Columbus,OH,43211,2024,12,59.97
+16833,2024-12-31,Deborah Sanchez,deborah.sanchez@yahoo.com,8205848877,Phone Case,3,19.99,0.0,59.97,refunded,4582 Cedar Dr,Chicago,IL,60632,2024,12,59.97
+25608,2024-05-22,Nicholas King,nicholas.king@hotmail.com,14907621127,Desk Lamp,4,34.99,10.0,125.96,cancelled,3915 Maple Way,Salt Lake City,UT,84139,2024,5,139.96
+4563,2024-12-31,George Morris,george.morris@outlook.com,6829553987,"Laptop Sleeve 15""",2,29.99,15.0,50.98,cancelled,5106 Spruce Way,Atlanta,GA,30394,2024,12,59.98
+18890,2024-12-31,William Smith,william.smith@icloud.com,,Smart Plug 4-Pack,1,29.99,20.0,23.99,cancelled,1573 Cedar Rd,Miami,FL,33136,2024,12,29.99
+17471,2024-12-31,Jeffrey Mitchell,jeffrey.mitchell@aol.com,9186228836,Cable Management Kit,4,14.99,0.0,59.96,refunded,6371 Main Ave,Chicago,IL,60671,2024,12,59.96
+25224,2023-11-26,Emily Rogers,emily.rogers@hotmail.com,8457868932,4K Webcam,3,149.99,0.0,449.97,refunded,9966 Aspen Ct,Portland,OR,97280,2023,11,449.97
+14645,2024-12-31,Daniel Carter,daniel.carter@aol.com,15327593414,Streaming Mic Bundle,1,299.99,20.0,239.99,shipped,406 Cedar Way,Philadelphia,PA,19145,2024,12,299.99
+2594,2024-12-31,Brenda Smith,brenda.smith@aol.com,7715945224,"Laptop Sleeve 15""",4,29.99,0.0,119.96,completed,1832 Birch Way,San Diego,CA,92180,2024,12,119.96
+22345,2023-05-27,Jonathan White,unknown@email.com,18233271989,Smart Plug 4-Pack,4,29.99,0.0,119.96,refunded,6741 Oak Way,Indianapolis,IN,46286,2023,5,119.96
+14752,2024-12-31,Linda Thompson,linda.thompson@gmail.com,2277578867,Phone Stand,2,15.99,10.0,28.78,pending,3521 Birch St,Indianapolis,IN,46283,2024,12,31.98
+6960,2024-12-31,Angela Thomas,angela.thomas@hotmail.com,17622216519,HDMI Cable 6ft,1,9.99,0.0,9.99,refunded,5845 Main Ave,Columbus,OH,43216,2024,12,9.99
+1252,2024-12-31,Unknown Customer,linda.lee@gmail.com,16166562374,Keyboard Wrist Rest,4,19.99,0.0,79.96,pending,9703 Oak Dr,Atlanta,GA,30381,2024,12,79.96
+24511,2024-12-31,Angela Lee,angela.lee@outlook.com,13178121244,Blue Light Glasses,4,24.99,0.0,99.96,shipped,9617 Cedar Ct,Salt Lake City,UT,84117,2024,12,99.96
+27197,2024-12-31,Ryan Lee,ryan.lee@yahoo.com,5246207643,Ergonomic Chair,1,349.99,0.0,349.99,pending,8916 Pine Rd,Philadelphia,PA,19166,2024,12,349.99
+4041,2024-12-31,Jacob Taylor,jacob.taylor@hotmail.com,5194131647,Phone Case,2,19.99,0.0,39.98,completed,"""7169 Oak Ln, Apt 1""",San Diego,CA,92145,2024,12,39.98
+9715,2024-12-31,Anthony Martinez,anthony.martinez@yahoo.com,2058123436,Standing Desk,2,599.99,15.0,1019.98,pending,7113 Oak Blvd,Portland,OR,97248,2024,12,1199.98
+1346,2024-12-31,Michael Jackson,michael.jackson@yahoo.com,18734463797,4K Webcam,1,149.99,20.0,119.99,refunded,2118 Birch Rd,Seattle,WA,98191,2024,12,149.99
+22675,2024-12-31,Angela Baker,angela.baker@hotmail.com,4458052136,Phone Case,3,19.99,0.0,59.97,refunded,9426 Cedar Way,Austin,TX,78784,2024,12,59.97
+11522,2024-12-31,Karen Torres,karen.torres@yahoo.com,6359432425,Smart Plug 4-Pack,2,29.99,0.0,59.98,cancelled,8591 Birch Way,Salt Lake City,UT,84193,2024,12,59.98
+7689,2024-12-31,Ashley Martin,ashley.martin@yahoo.com,9693682286,Gaming Headset,4,89.99,0.0,359.96,completed,4593 Spruce St,Salt Lake City,UT,84176,2024,12,359.96
+9052,2024-12-31,Ashley Evans,ashley.evans@hotmail.com,2262407232,4K Webcam,2,149.99,5.0,284.98,shipped,7310 Pine Ave,Atlanta,GA,30319,2024,12,299.98
+4767,2024-12-31,Unknown Customer,n/a@placeholder.com,15029734371,Phone Stand,4,15.99,20.0,51.17,pending,5436 Main Ave,San Jose,CA,95115,2024,12,63.96
+25479,2024-12-31,Nicholas Davis,nicholas.davis@hotmail.com,,USB Hub 7-Port,2,34.99,5.0,66.48,refunded,2597 Pine Rd,Denver,CO,80297,2024,12,69.98
+15344,2024-12-31,David Robinson,unknown@email.com,6624495759,Laptop Stand,1,45.0,0.0,45.0,shipped,3824 Walnut Blvd,Charlotte,NC,28268,2024,12,45.0
+7913,2024-02-14,Carol Robinson,carol.robinson@outlook.com,6875939652,Desk Lamp,3,34.99,0.0,104.97,shipped,3211 Cedar Ave,Nashville,TN,37252,2024,2,104.97
+19610,2024-12-31,Thomas Taylor,thomas.taylor@aol.com,8374566380,Smart Plug 4-Pack,3,29.99,10.0,80.97,refunded,6229 Oak Blvd,Philadelphia,PA,19166,2024,12,89.97
+7054,2024-12-31,Ryan Baker,unknown@email.com,8484445256,USB Hub 7-Port,2,34.99,15.0,59.48,refunded,3417 Pine Rd,Miami,FL,33178,2024,12,69.98
+19103,2024-01-12,Patricia Williams,patricia.williams@hotmail.com,3783689670,Phone Case,3,19.99,20.0,47.98,cancelled,4887 Walnut Ln,Seattle,WA,98161,2024,1,59.97
+1390,2024-12-31,Donald Walker,donald.walker@gmail.com,8103146853,Ergonomic Chair,1,349.99,0.0,349.99,shipped,4904 Cedar Ct,San Jose,CA,95112,2024,12,349.99
+5826,2024-12-31,Gary Walker,gary.walker@hotmail.com,7152572609,Ergonomic Chair,1,349.99,5.0,332.49,pending,3364 Aspen Ave,Atlanta,GA,30344,2024,12,349.99
+27391,2024-12-31,Linda White,linda.white@yahoo.com,8932601146,Smart Plug 4-Pack,2,29.99,5.0,56.98,refunded,7708 Pine Way,Salt Lake City,UT,84119,2024,12,59.98
+18093,2024-12-31,Jeffrey Cook,jeffrey.cook@outlook.com,,4K Webcam,3,149.99,0.0,449.97,pending,3254 Elm Way,Charlotte,NC,28224,2024,12,449.97
+21257,2024-12-31,George Lewis,george.lewis@aol.com,2469337531,Portable Charger,1,49.99,20.0,39.99,cancelled,4994 Oak Way,Salt Lake City,UT,84153,2024,12,49.99
+21246,2024-12-31,Laura Allen,laura.allen@yahoo.com,5349951572,Microphone,3,199.99,20.0,479.98,cancelled,3862 Oak Way,Philadelphia,PA,19131,2024,12,599.97
+19192,2024-12-31,Dorothy Reed,dorothy.reed@icloud.com,6146498011,Wireless Headphones,2,79.99,5.0,151.98,cancelled,5304 Spruce Ct,Indianapolis,IN,46243,2024,12,159.98
+27960,2024-11-25,Stephanie Harris,stephanie.harris@hotmail.com,2705795770,Phone Case,3,19.99,5.0,56.97,pending,2515 Walnut Ct,Columbus,OH,43250,2024,11,59.97
+22938,2024-12-31,Ryan Reed,ryan.reed@aol.com,2223317146,4K Webcam,2,149.99,10.0,269.98,pending,9602 Spruce Dr,Portland,OR,97260,2024,12,299.98
+23933,2024-12-31,Angela Thompson,angela.thompson@aol.com,19499062124,HDMI Cable 6ft,3,9.99,0.0,29.97,cancelled,3191 Aspen Blvd,San Diego,CA,92135,2024,12,29.97
+9787,2024-12-31,Sharon Evans,sharon.evans@hotmail.com,2966929389,Monitor,3,299.99,0.0,899.97,pending,4873 Aspen Ave,Seattle,WA,98180,2024,12,899.97
+1716,2024-12-31,Ryan Anderson,ryan.anderson@hotmail.com,15076573819,Portable Charger,2,49.99,20.0,79.98,pending,"""1841 Spruce Rd, Apt 12""",Dallas,TX,75294,2024,12,99.98
+25047,2024-12-31,Michael Johnson,michael.johnson@yahoo.com,6512408280,Mechanical Keyboard,1,129.99,10.0,116.99,refunded,9597 Pine Way,Denver,CO,80238,2024,12,129.99
+1010,2024-12-31,Carol Baker,carol.baker@icloud.com,5572705002,Standing Desk,3,599.99,0.0,1799.97,cancelled,9324 Oak Ave,Charlotte,NC,28278,2024,12,1799.97
+9111,2024-03-15,Sarah Perez,unknown@email.com,3764879373,Gaming Headset,2,89.99,10.0,161.98,refunded,5137 Birch Rd,Philadelphia,PA,19133,2024,3,179.98
+8626,2024-12-31,Edward Collins,edward.collins@gmail.com,6667064616,USB-C Cable,1,12.49,0.0,12.49,completed,5205 Spruce Blvd,Atlanta,GA,30339,2024,12,12.49
+20764,2024-12-31,Edward Torres,edward.torres@gmail.com,6462557829,"Laptop Sleeve 15""",2,29.99,5.0,56.98,shipped,819 Walnut St,Chicago,IL,60683,2024,12,59.98
+18716,2024-12-31,Anthony Miller,anthony.miller@outlook.com,5693197326,Streaming Mic Bundle,3,299.99,20.0,719.98,shipped,1093 Cedar St,Atlanta,GA,30354,2024,12,899.97
+23446,2024-12-31,Jason Walker,jason.walker@aol.com,12035358300,Desk Lamp,3,34.99,5.0,99.72,cancelled,8126 Walnut Ct,Philadelphia,PA,19130,2024,12,104.97
+15888,2024-12-31,Ashley Martin,ashley.martin@yahoo.com,16675505087,Wireless Headphones,1,79.99,20.0,63.99,cancelled,2795 Cedar Ln,Atlanta,GA,30318,2024,12,79.99
+12708,2024-12-31,Anthony Thomas,anthony.thomas@yahoo.com,,HDMI Cable 6ft,2,9.99,5.0,18.98,refunded,529 Birch Blvd,Minneapolis,MN,55424,2024,12,19.98
+8195,2024-12-31,Jacob Allen,jacob.allen@icloud.com,7027529833,USB-C Cable,3,12.49,20.0,29.98,refunded,2795 Birch Ct,Austin,TX,78749,2024,12,37.47
+27129,2024-12-31,Michelle Morris,michelle.morris@gmail.com,,Ring Light,2,79.99,5.0,151.98,cancelled,3928 Spruce Blvd,Phoenix,AZ,85039,2024,12,159.98
+11579,2024-12-31,Jennifer Wilson,jennifer.wilson@yahoo.com,9185415830,Smart Plug 4-Pack,3,29.99,0.0,89.97,refunded,6444 Cedar Rd,San Diego,CA,92183,2024,12,89.97
+12329,2024-09-19,Karen Sanchez,karen.sanchez@gmail.com,4108503601,Blue Light Glasses,1,24.99,0.0,24.99,cancelled,785 Main Ln,Chicago,IL,60692,2024,9,24.99
+24437,2024-12-31,Ronald Martin,ronald.martin@icloud.com,7925194772,Smart Plug 4-Pack,3,29.99,20.0,71.98,cancelled,2296 Cedar Blvd,Las Vegas,NV,89155,2024,12,89.97
+21932,2024-12-31,Jessica Rogers,jessica.rogers@yahoo.com,Unknown,Smart Plug 4-Pack,3,29.99,15.0,76.47,cancelled,4673 Main Ct,Phoenix,AZ,85038,2024,12,89.97
+2227,2024-12-31,Patricia Reed,patricia.reed@hotmail.com,5132142484,USB Hub 7-Port,4,34.99,10.0,125.96,cancelled,8215 Spruce St,Charlotte,NC,28297,2024,12,139.96
+10725,2024-02-02,Anna Sanchez,anna.sanchez@outlook.com,2396406144,Cable Organizer,4,12.99,20.0,41.57,refunded,"""4234 Birch Rd, Apt 17""",Atlanta,GA,30380,2024,2,51.96
+24957,2024-12-31,Emily Young,emily.young@outlook.com,9248452381,Monitor Arm,3,89.99,0.0,269.97,pending,3168 Pine Rd,Chicago,IL,60694,2024,12,269.96999999999997
+17815,2024-12-31,Stephanie Anderson,stephanie.anderson@aol.com,7675604849,Phone Case,2,19.99,0.0,39.98,completed,1506 Walnut St,Nashville,TN,37285,2024,12,39.98
+10330,2023-04-04,Anna Parker,anna.parker@outlook.com,6893958583,Streaming Mic Bundle,2,299.99,10.0,539.98,shipped,5243 Spruce St,Columbus,OH,43256,2023,4,599.98
+15742,2024-12-31,Emma Taylor,emma.taylor@aol.com,4193272246,4K Webcam,4,149.99,0.0,599.96,cancelled,6879 Main St,Nashville,TN,37298,2024,12,599.96
+5368,2024-12-31,Charles Stewart,charles.stewart@hotmail.com,3267767443,Smart Plug 4-Pack,2,29.99,0.0,59.98,completed,1375 Spruce Ave,Columbus,OH,43237,2024,12,59.98
+21108,2024-12-31,Sharon Smith,sharon.smith@icloud.com,3073191310,Ring Light,2,79.99,15.0,135.98,refunded,9226 Pine St,Minneapolis,MN,55459,2024,12,159.98
+16194,2024-04-21,Ruth Walker,ruth.walker@outlook.com,2855953522,USB-C Cable,4,12.49,15.0,42.47,shipped,3217 Elm Ct,Nashville,TN,37247,2024,4,49.96
+23656,2023-11-19,Dorothy Collins,dorothy.collins@gmail.com,17987224351,Wireless Headphones,4,79.99,20.0,255.97,pending,2404 Elm Ave,Denver,CO,80298,2023,11,319.96
+3125,2024-12-31,Daniel Parker,daniel.parker@yahoo.com,7842613389,Gaming Headset,2,89.99,15.0,152.98,refunded,5064 Main Ave,Columbus,OH,43286,2024,12,179.98
+24970,2024-12-31,Ruth Thomas,unknown@email.com,7869685464,Standing Desk,1,599.99,15.0,509.99,cancelled,3608 Maple Blvd,Phoenix,AZ,85061,2024,12,599.99
+12560,2024-12-31,Linda Nguyen,linda.nguyen@icloud.com,3434078508,Monitor Arm,4,89.99,5.0,341.96,completed,2822 Elm Ln,Atlanta,GA,30384,2024,12,359.96
+18003,2024-12-31,Paul Taylor,paul.taylor@hotmail.com,14923855741,Portable Charger,2,49.99,0.0,99.98,pending,7076 Pine Ln,Denver,CO,80245,2024,12,99.98
+27502,2024-12-31,Donald Miller,donald.miller@outlook.com,12599349580,Cable Organizer,3,12.99,0.0,38.97,refunded,8675 Main Rd,Phoenix,AZ,85015,2024,12,38.97
+22081,2023-05-05,Brenda Moore,brenda.moore@gmail.com,9226308679,Cable Management Kit,3,14.99,0.0,44.97,cancelled,"""1427 Spruce Dr, Apt 1""",San Jose,CA,95175,2023,5,44.97
+26951,2024-12-31,Anna Davis,anna.davis@icloud.com,2892089320,Laptop Cooler,1,39.99,0.0,39.99,cancelled,8675 Walnut Blvd,Portland,OR,97231,2024,12,39.99
+15883,2024-11-04,Jennifer Rogers,jennifer.rogers@outlook.com,3975967840,Mechanical Keyboard,2,129.99,0.0,259.98,completed,5592 Cedar Ct,Seattle,WA,98141,2024,11,259.98
